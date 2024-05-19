@@ -1,2563 +1,2969 @@
 1
-00:00:06,314 --> 00:00:07,314
-Black Sails'ın önceki bölümlerinde...
+00:00:11,615 --> 00:00:14,949
+Ya birlikte sÃ¶z geÃ§ireceÄŸiz
+yada bu iÅŸ olmayacak.
 
 2
-00:00:07,315 --> 00:00:10,316
-- O yöne gideceğiz.
-- Orası gemi katili.
+00:00:14,993 --> 00:00:16,367
+Ve ben var olmadÄ±ÄŸÄ±mda...
 
 3
-00:00:10,319 --> 00:00:13,680
-Affı kabul etmeliydik.
-Adamlar, anlıyorum.
+00:00:16,411 --> 00:00:18,451
+...bu sÃ¶z hakkÄ± kÄ±zÄ±ma
+geÃ§ecektir.
 
 4
-00:00:13,682 --> 00:00:15,489
-Flint tam olarak onlara ihtiyacı olduğunda
-onlar yanında...
+00:00:18,455 --> 00:00:19,954
+Ã‡ok sÄ±kÄ± fÄ±kÄ± olduÄŸunuzu sÃ¶ylÃ¼yorlar.
 
 5
-00:00:15,491 --> 00:00:18,537
-Beni de o hâle getirmişti.
+00:00:19,998 --> 00:00:22,832
+Sana diÄŸerlerine gÃ¼vendiÄŸinden
+daha Ã§ok gÃ¼vendiÄŸini sÃ¶ylÃ¼yorlar.
 
 6
-00:00:18,589 --> 00:00:21,495
-- Bunların hepsi aynı.
-- Pardon da ne öneriyorsun?
+00:00:22,867 --> 00:00:24,501
+Merhamet gÃ¶revi iÃ§in geldim.
 
 7
-00:00:21,497 --> 00:00:23,714
-Takas yapalım. Ortak bulup...
+00:00:24,536 --> 00:00:27,056
+Kaptan Flint adÄ±na geldim.
 
 8
-00:00:23,749 --> 00:00:26,833
-...altını taşıması ve korunması
-daha kolay olan bir şeyle takas edelim.
+00:00:29,341 --> 00:00:31,841
+Ama beni kabadayÄ±n yapmakta
+bu kadar Ä±srarcÄ±ysan...
 
 9
-00:00:26,835 --> 00:00:29,386
-Şimdi bildiğim hesapları görmek için
-geri dönüyorum.
+00:00:31,876 --> 00:00:33,301
+...Ã¼zerime dÃ¼ÅŸeni yaparÄ±m.
 
 10
-00:00:29,421 --> 00:00:32,756
-Geri dönüyorum çünkü burada gerekli şeyleri
-yapacak adamlar olduğuna inanıyorum.
+00:00:33,345 --> 00:00:34,844
+Åu andan itibaren...
 
 11
-00:00:32,808 --> 00:00:34,341
-Ve özellikle benimle birlikte
-korkunç bir donanmanın...
+00:00:34,888 --> 00:00:37,305
+...herhangi bir adam aÃ§Ä±k denizlerde
+bir korsanlÄ±k olayÄ±na karÄ±ÅŸÄ±rsa...
 
 12
-00:00:34,393 --> 00:00:37,728
-...başında olmaya değer bir adam için
-dönüyorum.
+00:00:37,349 --> 00:00:39,265
+...senin adamlarÄ±ndan biriymiÅŸ gibi
+kabul gÃ¶recektir.
 
 13
-00:00:37,763 --> 00:00:41,815
-Aklını bir şeye taktığında
-neleri yok edebileceğinin farkındayım.
+00:00:39,309 --> 00:00:41,559
+Onu yakalayacaÄŸÄ±m ve idam edeceÄŸim.
 
 14
-00:00:41,850 --> 00:00:46,153
-- Senden neyini almasını istiyorsun?
-- Kaptan Flint öldü.
+00:00:41,603 --> 00:00:45,396
+Senin yerinde olsam Vali Rogers'Ä±...
 
 15
-00:00:49,238 --> 00:00:52,522
-Hareket etmiyoruz. Fırtına bizi sürükledi.
-Rüzgâr olmadığından kalakaldık.
+00:00:45,440 --> 00:00:47,106
+...sadece altÄ±nÄ± gÃ¶ndermeye deÄŸil...
 
 16
-00:02:14,351 --> 00:02:17,909
-Black Sails, 3. Sezon, 3. Bölüm
+00:00:47,150 --> 00:00:49,984
+...onu ilk seferinde Ã§alan adamÄ±da
+gÃ¶ndermeye ikna ederdim.
 
 17
-00:02:32,741 --> 00:02:38,249
-Çeviri: fuckirama & restlessness
-İyi seyirler!
+00:00:50,028 --> 00:00:53,029
+Jack ve zula yurt dÄ±ÅŸÄ±na gizli
+bir karavan ile gÃ¶tÃ¼rÃ¼lecek.
 
 18
-00:03:03,455 --> 00:03:05,905
-St. Kitts'deki en zengin adamlardan
-birinin oğluymuş.
+00:00:53,064 --> 00:00:55,573
+EÄŸer o karavanÄ±n Ã¶nÃ¼nÃ¼
+kesebilirsek...
 
 19
-00:03:09,710 --> 00:03:15,645
-Ticaret yaptığı ortaklarını sikmiş.
-Her şeylerini çalmış.
+00:00:55,617 --> 00:00:57,534
+...hem bu savaÅŸÄ± baÅŸlatacak
+parayÄ± hemde bu savaÅŸtaki ortaÄŸÄ±mÄ±zÄ±...
 
 20
-00:03:17,219 --> 00:03:23,123
-Onun medeni bizimse barbar olduğumuz
-bir dünyayı asla kafam almayacak.
+00:00:57,569 --> 00:00:59,609
+...koruma altÄ±na alÄ±rÄ±z.
 
 21
-00:03:42,944 --> 00:03:45,028
-Çok iyiydi ya.
+00:01:00,810 --> 00:01:05,810
+Ã‡eviri: yessÃ¶r & Sunabozu
+Keyifli Seyirler...
 
 22
-00:03:45,080 --> 00:03:49,783
-Umarım, topraklarımızda alışverişte anlaşmamız
-adına şükranımızı gösterebilmişizdir...
+00:02:58,823 --> 00:03:00,198
+LÃ¼tfen ona dokunma.
 
 23
-00:03:49,835 --> 00:03:53,528
-...ve ticaret ortaklarımıza
-daha misafirperver olabiliriz.
+00:03:13,088 --> 00:03:15,880
+BÃ¼tÃ¼n bu ÅŸeyler...
 
 24
-00:03:54,208 --> 00:03:56,356
-Şimdi, işimizi bir sonuca bağlayalım mı?
+00:03:15,924 --> 00:03:18,967
+porselenler, kitaplar...
 
 25
-00:03:57,592 --> 00:04:01,842
-316 kara inci...
+00:03:22,597 --> 00:03:24,472
+...hepsi Ã§ok narin.
 
 26
-00:04:01,877 --> 00:04:05,630
-...48,121 sikke
-karşılığında takas edilebilir.
+00:03:28,770 --> 00:03:31,396
+Enerji onlarÄ± sÃ¼rdÃ¼rmek iÃ§in kalmalÄ±.
 
 27
-00:04:06,018 --> 00:04:08,802
-Her biri için değer biçme yöntemimiz...
+00:03:31,439 --> 00:03:32,522
+Ne iÃ§in?
 
 28
-00:04:08,804 --> 00:04:11,279
-...iki taraf da bilmek istiyorsa,
-kayıtlara geçildi.
+00:03:34,776 --> 00:03:38,236
+Bir kadÄ±nÄ±n aile hayatÄ± arzulamasÄ±nÄ±
+anlayabilirim...
 
 29
-00:04:11,331 --> 00:04:12,639
-Görmeyi rica ediyorum.
+00:03:38,279 --> 00:03:41,572
+...ama bir adamÄ±n?
 
 30
-00:04:19,364 --> 00:04:21,769
-Okuma yazma bilen bir zenci.
+00:03:41,616 --> 00:03:43,241
+Bunu anlayamÄ±yorum iÅŸte.
 
 31
-00:04:22,200 --> 00:04:24,484
-Burasının insanları dumur etmek adına
-yaptığı sürprizlerin bir sonu yok mu?
+00:03:43,284 --> 00:03:45,827
+NasÄ±l anlayamadÄ±ÄŸÄ±nÄ±
+anlayamÄ±yorum bende.
 
 32
-00:04:24,536 --> 00:04:25,618
-Ne dedi lan bu bu amına çaktığım?
+00:03:50,458 --> 00:03:53,418
+Kendin iÃ§in daha iyi bir hayat
+yaÅŸamaya dair hiÃ§bir...
 
 33
-00:04:28,540 --> 00:04:32,531
-Köle neslinden geliyordur diye düşünüyorum.
-Bir tür yani, öyle değil mi?
+00:03:53,461 --> 00:03:56,587
+...isteÄŸin yok mu?
 
 34
-00:04:33,545 --> 00:04:36,145
-Medeni bir insan gibi
-giyinebilmesini anlıyorum...
+00:03:56,631 --> 00:03:58,339
+Yok.
 
 35
-00:04:36,715 --> 00:04:40,050
-...ama medeni bir şekilde davranabilmesi,
-işte etkileyici olan bu.
+00:04:00,635 --> 00:04:03,094
+Ve Ã¶yle bir isteÄŸim olsa...
 
 36
-00:04:40,085 --> 00:04:43,169
-Hesaplar kabul edilebilir.
-Anlaştık.
+00:04:03,138 --> 00:04:07,598
+...kanÄ±mÄ±n son damlasÄ±na
+kadar buna karÅŸÄ± Ã§Ä±kardÄ±m.
 
 37
-00:04:46,341 --> 00:04:48,164
-Sevimli bir yaratık gibi duruyorsun.
+00:04:07,642 --> 00:04:11,227
+Ellerinde bulunan bu tek ve
+en gÃ¼Ã§lÃ¼ silaha...
 
 38
-00:04:49,177 --> 00:04:52,312
-Vali geldiğinde, eğer kaçabilirsen...
+00:04:11,262 --> 00:04:14,230
+...karÅŸÄ± Ã§Ä±kardÄ±m.
 
 39
-00:04:52,347 --> 00:04:56,399
-...seni çalıştırabilecek bir yerim olacak.
-- Vali mi? Ne Vali'si?
+00:04:14,265 --> 00:04:16,232
+"Bize boyun eÄŸ...
 
 40
-00:04:59,855 --> 00:05:03,273
-Haksız bir yağma hazinesini elden
-çıkarıyorsunuz...
+00:04:16,267 --> 00:04:18,985
+...bizde sana ihtiyacÄ±n olan
+konforu saÄŸlayalÄ±m."
 
 41
-00:05:03,325 --> 00:05:06,826
-...yeni rejim buraya ayak basmadan
-burayı terk edebilirsiniz.
+00:04:21,606 --> 00:04:26,325
+Buna deÄŸecek konforlu hiÃ§bir
+ÅŸey dÃ¼ÅŸÃ¼nemiyorum.
 
 42
-00:05:06,862 --> 00:05:12,784
-En başından beri böyle düşünmüştüm.
-Ama siz bundan bihabersiniz, öyle değil mi?
+00:04:28,112 --> 00:04:30,079
+Bu Ã§ok uzun sÃ¼rÃ¼yor.
 
 43
-00:05:16,421 --> 00:05:20,707
-- İstila mı?
-- Bir filo. 8 gemi, 700 kadar asker...
+00:04:30,114 --> 00:04:32,623
+Featherstone'un adamlarÄ±ndan iz yok.
 
 44
-00:05:20,709 --> 00:05:23,510
-...hepsi de buranın Vali'si tarafından
-tayin edilen askerler...
+00:04:32,667 --> 00:04:33,724
+Jack'Ä± adanÄ±n hangi yolundan...
 
 45
-00:05:23,545 --> 00:05:26,713
-...ve gerekirse zorla burayı geri almak
-için tüm izinler verilmiş.
+00:04:33,768 --> 00:04:36,085
+...getireceklerine dair bir
+bilgi yok.
 
 46
-00:05:26,715 --> 00:05:31,634
-- Bu tarz haberler tez duyulur.
-- Ne kadar var varmalarına?
+00:04:36,120 --> 00:04:38,921
+Jack Ã¶ÄŸlene kadar yola
+Ã§Ä±kmÄ±ÅŸ olacaktÄ±r.
 
 47
-00:05:32,500 --> 00:05:34,387
-12 gün falan.
+00:04:38,956 --> 00:04:40,757
+Burada daha uzun sÃ¼re kalÄ±rsak...
 
 48
-00:05:36,669 --> 00:05:41,027
-- Hisardaki ağır silahlardan kaçı onarıldı?
-- 2. 2'şer tanesi yani.
+00:04:40,792 --> 00:04:41,924
+...ya onu kaÃ§Ä±racaÄŸÄ±z...
 
 49
-00:05:41,062 --> 00:05:42,979
-5. ve 6. silahlar da yarın tamam olacak.
+00:04:41,959 --> 00:04:44,260
+...yada birileri bizi burada
+saklanÄ±rken bulacak.
 
 50
-00:05:43,031 --> 00:05:45,532
-Filonun kaç adamdan olduğunu söyledi mi?
-Kaç savaşacak adam var?
+00:04:44,295 --> 00:04:47,764
+Bizi kimse bulamaz Ã§Ã¼nkÃ¼ kimse
+bizi aramÄ±yor.
 
 51
-00:05:45,567 --> 00:05:49,536
-- Söylemedi. - Kaç silahları var söyledi mi?
-- Söylemedi.
+00:04:47,807 --> 00:04:49,432
+SavaÅŸ adadan elini ayaÄŸÄ±nÄ± Ã§ekti.
 
 52
-00:05:49,571 --> 00:05:51,905
-Kaç tane varsa var, 6 tane silah
-kesinlikle onları durdurmaya yetmeyecek.
+00:04:49,467 --> 00:04:52,101
+Hepsi bunu gÃ¶rdÃ¼.
 
 53
-00:05:51,907 --> 00:05:55,929
-Koydakiler tarafından desteklenirse tabii.
-Liman ağzında bir savunma hattı.
+00:04:52,136 --> 00:04:54,103
+Yinede Rogers'Ä± Jack'i ve zulayÄ±
+gÃ¶ndermesi ve...
 
 54
-00:05:55,977 --> 00:06:00,079
-Pekâlâ, doğruya doğru, tam olarak bu savaşa
-kaç mürettabatın katılmasını bekliyorsunuz?
+00:04:54,138 --> 00:04:56,618
+...gÃ¼ney kÄ±yÄ±larÄ±ndaki nakliye
+gemisine bindirmesi iÃ§in...
 
 55
-00:06:00,132 --> 00:06:04,057
-- 3 mü? Yoksa şansımız yaver gider de
-3,5 olur mu? - Ya hepsi katılırsa?
+00:04:56,641 --> 00:04:58,941
+...Ã§ok sayÄ±da yol var.
 
 56
-00:06:04,643 --> 00:06:07,935
-- Tüm mürettabatlar.
-- Hepsi, evet.
+00:04:58,976 --> 00:05:00,943
+HatalÄ± tahmin yapmaya hakkÄ±mÄ±z yok.
 
 57
-00:06:11,357 --> 00:06:15,693
-- "Kasabalı", "Ağaçtan", "KoçSiki"
-- Bunlarla tanışıyor musun sen?
+00:05:00,978 --> 00:05:02,570
+Tahmin etmek mi?
 
 58
-00:06:15,745 --> 00:06:18,380
-Bunlar pek tek bayrak altında toplanmak
-isteyecek insanlardan değil.
+00:05:02,614 --> 00:05:04,530
+Tahmin etme ihtimalimiz yok asÄ±l.
 
 59
-00:06:18,781 --> 00:06:22,249
-Böyle bir savaşa onları katmak için
-tam olarak kafanda ne var acaba?
+00:05:06,651 --> 00:05:10,453
+O karavanÄ± kaÃ§Ä±rÄ±rsak
+bundan kaybÄ±n ne olur?
 
 60
-00:06:22,285 --> 00:06:24,952
-Çünkü hepsi bu savaşa ortak olursa,
-belki savaş olmayabilir.
+00:05:10,488 --> 00:05:13,456
+Para? SavaÅŸÄ±n?
 
 61
-00:06:25,004 --> 00:06:29,506
-- Güç gösterisi.
-- Muazzam bir güç gösterisi.
+00:05:16,086 --> 00:05:19,545
+Benim kaybÄ±m Ã¶yle kolayca yerine
+konabilecek bir ÅŸey deÄŸil ama.
 
 62
-00:06:29,542 --> 00:06:34,295
-Binlerce adam, düzinelerce gemi,
-ayrıca askerler, hepsi savaşa hazır.
+00:05:19,589 --> 00:05:23,216
+"Senin kaybÄ±n", "onun kaybÄ±",
+"benim kaybÄ±m" durumu yok burada.
 
 63
-00:06:34,347 --> 00:06:36,764
-Kim tarafından organize edilecek acaba?
-Flint hâlâ ortalarda yokken.
+00:05:23,259 --> 00:05:25,301
+Bu bir teklif deÄŸil.
 
 64
-00:06:36,799 --> 00:06:38,966
-Zamanında gelecek, eğer gelmezse
-biz toparlayacağız milleti.
+00:05:26,763 --> 00:05:28,888
+Herkes kendi Ã§Ä±karÄ± iÃ§in burada.
 
 65
-00:06:39,018 --> 00:06:41,719
-Şimdi gözlerimin içine bak ve
-bundan şüphen olduğunu söyle.
+00:05:28,932 --> 00:05:31,224
+Sen ortaÄŸÄ±nÄ± geri istiyorsun.
+Biz zaferi.
 
 66
-00:06:44,140 --> 00:06:47,474
-Bir araya gelirsek, istilacılarımıza
-sunacağımız savaş...
+00:05:31,267 --> 00:05:33,726
+Evimi dÃ¼zene sokmak istiyorum.
 
 67
-00:06:47,526 --> 00:06:49,700
-...pahalı ve ıstıraplı bir savaş olacak.
+00:05:33,770 --> 00:05:35,895
+Ama bir Ã§izgi belirleyip o Ã§izgide
+sapasaÄŸlam durmamÄ±z lazÄ±m.
 
 68
-00:06:49,736 --> 00:06:53,230
-Elindeki adamlarını feda etmek yerine buradan
-tıpış tıpış gitmeyi yeğleyecekler.
+00:05:35,939 --> 00:05:37,897
+Durmak zorundayÄ±z.
 
 69
-00:06:53,282 --> 00:06:57,430
-Bozgun korkularını artırırsak, zaferimizin
-bedelini aşağı çekmiş oluruz.
+00:05:37,941 --> 00:05:40,301
+BaÅŸka seÃ§enek yok.
 
 70
-00:06:58,773 --> 00:07:02,461
-Bunun olacağına inanıyorum.
-Siz de inandığınızı söyleyin...
+00:05:41,611 --> 00:05:43,236
+Bir atlÄ± yaklaÅŸÄ±yor.
 
 71
-00:07:02,491 --> 00:07:04,908
-...ve bu işi hep birlikte yapalım.
+00:05:43,279 --> 00:05:45,822
+- Featherstone'un adamlarÄ±ndan mÄ±?
+- Evet, iÅŸte geliyor.
 
 72
-00:07:15,471 --> 00:07:18,756
-Tuğamiral Chamberlain ve mürattebatıyla
-olan toplantımdan geliyorum.
+00:06:04,467 --> 00:06:05,967
+Bu sana.
 
 73
-00:07:18,808 --> 00:07:23,594
-Nassau'ya varışımız olarak belirlenen tarih,
-kabaca 2 hafta sonrasına...
+00:06:08,471 --> 00:06:11,848
+PayÄ±n olarak dÃ¼ÅŸÃ¼nebilirsin.
 
 74
-00:07:23,646 --> 00:07:25,262
-...ve o gün geldiğinde...
+00:06:11,891 --> 00:06:13,307
+Åirketten.
 
 75
-00:07:25,264 --> 00:07:27,707
-...adanın önümüzdeki onlarca yıl süresince
-geleceğini belirleyecek karar...
+00:06:15,228 --> 00:06:18,020
+KÄ±sa sÃ¼rede ayrÄ±lacaÄŸÄ±mdan
+ÅŸÃ¼pheleniyorum.
 
 76
-00:07:27,708 --> 00:07:30,150
-...saatler içerisinde verilecek.
+00:06:18,064 --> 00:06:21,649
+Hemen karalar baÄŸlama. BaÅŸka bir zavallÄ±
+piÃ§in teki yerimi kÄ±sa sÃ¼rede alacaktÄ±r.
 
 77
-00:07:30,186 --> 00:07:33,771
-Ve neredeyse herkes buna bağlı olacak.
+00:06:23,403 --> 00:06:25,194
+KeÅŸke onunda sana artÄ±klar
+konusunda...
 
 78
-00:07:35,016 --> 00:07:36,430
-Ne bu?
+00:06:25,238 --> 00:06:28,718
+...benim olduÄŸum kadar cÃ¶mert
+olacaÄŸÄ±nÄ±n garantisini verebilsem.
 
 79
-00:07:36,942 --> 00:07:42,413
-Nassau halkını Kral'ın affını kabul etmeye
-buyur edeceğim...
+00:06:31,578 --> 00:06:33,369
+Her halÃ¼karda ne iÃ§in olursa olsun...
 
 80
-00:07:42,448 --> 00:07:45,249
-...kanun ve düzeni yeniden inşa etmeye
-çağıracağım...
+00:06:33,413 --> 00:06:37,039
+...bu hÃ¼crede yerleÅŸik yaÅŸama
+geÃ§memelisin.
 
 81
-00:07:45,284 --> 00:07:47,582
-...yeni Providence adası ticari
-seslenme metni.
+00:06:37,083 --> 00:06:39,208
+DÄ±ÅŸarÄ±da koskocaman bir dÃ¼yna var...
 
 82
-00:07:48,954 --> 00:07:54,876
-Yani öylece o limana yelken açıp,
-sahile doğru kürek çekip bunu okuyacaksınız?
+00:06:39,252 --> 00:06:42,837
+...arada sÄ±rada da olsa hÄ±rsÄ±
+Ã¶dÃ¼llendiren bir dÃ¼nya.
 
 83
-00:07:55,678 --> 00:08:00,014
-Kaptan Hornigold'a göre, Kaptan Flit olmadan
-o koyda savunma hattı...
+00:06:42,881 --> 00:06:45,548
+Bunu bir kenara yaz.
 
 84
-00:08:00,049 --> 00:08:04,635
-...organize edebilecek yetide olan kimse
-yokmuş. Karşı mı çıkıyorsunuz bu görüşe?
+00:06:46,759 --> 00:06:49,844
+BugÃ¼n ekmek kÄ±rÄ±ntÄ±larÄ±,
+yarÄ±n somun.
 
 85
-00:08:04,637 --> 00:08:06,303
-Savunma hattı mı?
+00:06:52,098 --> 00:06:54,515
+Belkide bir gÃ¼n kocaman bir
+fÄ±rÄ±na denk gelirsin.
 
 86
-00:08:06,305 --> 00:08:09,273
-Kaptan Flit strateji olarak aralarındaki
-en güçlü kişiydi.
+00:06:59,272 --> 00:07:00,563
+Rica ederim.
 
 87
-00:08:09,308 --> 00:08:12,609
-Ama bu diğerlerinin organize
-olamayacağı anlamına gelmesin.
+00:07:35,967 --> 00:07:37,934
+<i>Cephanelere dikkat edin.</i>
 
 88
-00:08:13,158 --> 00:08:19,066
-Bu tek çarpışmaya kayıtsız değilim. Olay
-bunun işe yarayıp yaramaması.
+00:07:49,614 --> 00:07:53,157
+Anne salÄ±verilmem karÅŸÄ±lÄ±ÄŸÄ±nda size
+zulayÄ± mÄ± verdi?
 
 89
-00:08:19,402 --> 00:08:20,984
-Tuğamiral ya korsanların anında afları
-kabul etmesini...
+00:07:54,786 --> 00:07:55,910
+Evet.
 
 90
-00:08:20,986 --> 00:08:26,907
-...ya da Nassau'nun o an düşman bölge
-ilan edileceği konusunda son derece kararlı.
+00:07:58,790 --> 00:08:01,249
+Bu salÄ±verilmeye pek uymuyor.
 
 91
-00:08:27,243 --> 00:08:30,461
-Sonrasında adada tam çaplı bir istila
-başlatacak...
+00:08:01,292 --> 00:08:05,753
+Ä°spanya zulanÄ±n seninle birlikte
+teslim edilmesini istedi.
 
 92
-00:08:30,496 --> 00:08:33,703
-...tabii ben barışcıl bir intikal
-sağlarsam olay değişir.
+00:08:05,797 --> 00:08:08,172
+Bana dediklerine gÃ¶re sen ve zula
+Havana'ya varÄ±nca...
 
 93
-00:08:35,055 --> 00:08:38,802
-Ve benden bu seslenme metninin kazanan
-metin olması konusunda yardım istiyorsunuz?
+00:08:08,216 --> 00:08:11,008
+...Ä°spanya'ya olan
+borcum kapanmÄ±ÅŸ olacak.
 
 94
-00:08:38,838 --> 00:08:41,004
-Aynen öyle.
+00:08:11,052 --> 00:08:13,636
+ÅartlarÄ±n sonradan bu ÅŸekilde
+deÄŸiÅŸmesinden memnun deÄŸilim...
 
 95
-00:08:41,269 --> 00:08:45,843
-- Bunun kötü bir şey olduğu konusunda nasıl
-bu kadar eminsiniz? - Ne o?
+00:08:13,671 --> 00:08:18,099
+...fakat ÅŸuanda onlarÄ± geri Ã§evirecek
+konumda deÄŸilim.
 
 96
-00:08:45,845 --> 00:08:48,011
-Donanma orayı ele geçir ve sahile saldırır
-ve orayı temizlerse...
+00:08:18,142 --> 00:08:20,351
+AnlÄ±yorum
 
 97
-00:08:48,013 --> 00:08:49,928
-...bu niye kötü bir şey olsun ki diyorum?
+00:08:20,395 --> 00:08:21,494
+Belki haklÄ±ydÄ±n...
 
 98
-00:08:51,100 --> 00:08:53,734
-Burada "kanun ve düzen" demezdim.
+00:08:21,537 --> 00:08:22,853
+...bÃ¶yle bir yerde...
 
 99
-00:08:53,769 --> 00:08:56,653
-İkisi de iyi şeyler. Bu söylemi üzücü
-algılayabilirler.
+00:08:22,897 --> 00:08:25,773
+...feci fedakarlÄ±klar olmadan mesafe
+kat edilmiyor.
 
 100
-00:08:56,689 --> 00:08:58,689
-Donanma sahili ele geçirirse...
+00:08:27,235 --> 00:08:28,776
+- Yola Ã§Ä±kmak iÃ§in hazÄ±rlanÄ±n.
+- Evet, efendim.
 
 101
-00:08:58,741 --> 00:09:02,526
-...yakalanan adamların güvenini bir daha
-asla kazanamam.
+00:08:30,571 --> 00:08:32,863
+EÄŸer teselli olacaksa bil...
 
 102
-00:09:02,528 --> 00:09:05,863
-Ölürlerse veya sizden ürkerlerse
-güvenlerine ihtiyacınız olmaz.
+00:08:32,907 --> 00:08:35,700
+...ortaÄŸÄ±na hiÃ§ zarar verilmedi.
 
 103
-00:09:05,915 --> 00:09:08,332
-Donanma bunlardan sadece
-birini teklif ediyormuş gibi gözüküyor.
+00:08:35,743 --> 00:08:39,370
+Burnu bile kanamadan ayrÄ±ldÄ±.
 
 104
-00:09:08,367 --> 00:09:10,200
-Cebren adada asayişi sağlamak
-aylar sürebilir.
+00:08:39,414 --> 00:08:40,571
+HazÄ±rÄ±z lordum.
 
 105
-00:09:10,252 --> 00:09:16,039
-Yangını söndürmek yerine aylar süren
-bir ticaret inşaa etmeyi tercih ederim.
+00:08:40,615 --> 00:08:41,755
+Gidelim.
 
 106
-00:09:16,092 --> 00:09:19,259
-Tamam ama Donanma bunları ateş veren
-birini def ederse...
+00:08:44,085 --> 00:08:45,376
+O zaman yaÅŸÄ±yor? Anne?
 
 107
-00:09:19,295 --> 00:09:21,011
-...bu tercih edilmeyeceği anlamına
-gelmez mi?
+00:08:45,420 --> 00:08:46,477
+<i>Yolculuk iÃ§in hazÄ±rlanÄ±n.</i>
 
 108
-00:09:21,046 --> 00:09:23,365
-Soruları soran taraf tam olarak nasıl
-sen oldun?
-
-109
-00:09:24,266 --> 00:09:27,050
-Zorla savaş kazanmanın kolay olduğunu
-düşünen birisi...
-
-110
-00:09:27,103 --> 00:09:29,183
-...hayatında hiç bir savaştan
-sorumlu olmamıştır, açık ve net.
-
-111
-00:09:33,692 --> 00:09:36,310
-Sen savaşı kazanamayacağını
-söylemiyorsun.
-
-112
-00:09:36,362 --> 00:09:38,860
-Sen, kazanmanın uzun süreceğini söylüyorsun.
-
-113
-00:09:40,699 --> 00:09:44,344
-Bu kadar kaynağınla, onlardan daha
-çok dayanabilirsin. Bu bariz bir şey.
-
-114
-00:09:45,488 --> 00:09:47,841
-Ee, zaman konusunda niye
-bu kadar düşüncelisin?
-
-115
-00:09:52,912 --> 00:09:58,833
-Bu operasyonu desteklemeleri karşılığında
-sözler vermem gereken yerler vardı...
-
-116
-00:09:59,668 --> 00:10:02,419
-...her şey zamanında olmalı.
-
-117
-00:10:02,421 --> 00:10:04,304
-Ve bu bir sürü taraf ile...
-
-118
-00:10:04,340 --> 00:10:08,892
-...İngiliz Hükümeti'yle, kaynaklarım,
-alacaklılarım, bu iş ya vaktinde biter...
-
-119
-00:10:08,928 --> 00:10:10,260
-...ya da pazarlık düşer.
-
-120
-00:10:10,262 --> 00:10:15,732
-Ama sabrını test etmek istemediğim bir
-taraf var...
-
-121
-00:10:15,768 --> 00:10:21,104
-...Nassau'nun korsan geçmişi olan ve aşırı
-tepki vermeyi öneren bir taraf.
-
-122
-00:10:21,106 --> 00:10:22,823
-İspanya.
-
-123
-00:10:27,863 --> 00:10:29,863
-Ne söz vermek zorunda kaldınız onlara?
-
-124
-00:10:29,915 --> 00:10:32,699
-Nassau hisarını ele geçirip...
-
-125
-00:10:32,751 --> 00:10:36,086
-...kalan Urca de Lima altınlarını tutulduğu
-yerde güvenliğini sağlayıp...
-
-126
-00:10:36,121 --> 00:10:39,719
-...Havana'ya geri göndermeyi temin ettim.
-Acil olarak.
-
-127
-00:10:40,125 --> 00:10:44,545
-Bunu yaparken başarısız olmam demek,
-basitçe başka bir isimle korsan olduğumu...
-
-128
-00:10:44,597 --> 00:10:45,929
-...ve güvenilmez olduğumu doğrulamam demek.
-
-129
-00:10:45,965 --> 00:10:48,966
-...sonuç olarak da 10 gemilik bir filo...
-
-130
-00:10:48,968 --> 00:10:52,968
-...1,500 asker ile Nassau'yu dümdüz
-etmem demek.
-
-131
-00:10:53,272 --> 00:10:58,566
-- Ne kadar süre verdiler?
-- 8 hafta.
-
-132
-00:10:58,944 --> 00:11:00,527
-8 mi? Tanrım.
-
-133
-00:11:00,563 --> 00:11:03,447
-Yani, hisarı olabildiğince erken ele geçirmek
-ve tek parça olarak ele geçirmek...
-
-134
-00:11:03,482 --> 00:11:05,482
-...her şey açısından daha iyi olacak.
-
-135
-00:11:13,325 --> 00:11:19,253
-Hepimiz ölü adamlarız.
-Fırtına tarafından vurulmuş...
-
-136
-00:11:20,633 --> 00:11:22,666
-...onun hiddeti neticesinde.
-
-137
-00:11:27,139 --> 00:11:29,056
-Bizler, ölü adamlarız.
-
-138
-00:11:30,843 --> 00:11:33,510
-Tanrı'nın öfkesinin bile olmadığı,
-önemli tek bir kişinin kalmadığı...
-
-139
-00:11:33,512 --> 00:11:36,430
-...bir diyara sevk ediliyoruz...
-
-140
-00:11:36,482 --> 00:11:40,100
-...ve onun bu umursamazlığına dayanmak
-zorundayız.
-
-141
-00:11:40,152 --> 00:11:43,820
-Bizler ölü adamlarız.
-
-142
-00:11:43,856 --> 00:11:45,822
-Acı çekmeye terk edilmişiz...
-
-143
-00:11:45,858 --> 00:11:51,778
-...ağlayışlarımızı duymayacağını biliyoruz
-çünkü bu diyarlarda...
-
-144
-00:11:51,830 --> 00:11:53,530
-...Tanrı diye biri yok.
-
-145
-00:11:55,701 --> 00:11:57,334
-Ne kadar kötü durumumuz?
-
-146
-00:11:57,369 --> 00:12:00,370
-Buraya çakıldığımızdan beri,
-sürüklenme hızı akla geldi...
-
-147
-00:12:00,422 --> 00:12:06,394
-...bir hafta ila 10 gün arasında bu adalardan
-birini görme şansımız vardı.
-
-148
-00:12:07,129 --> 00:12:09,212
-Bugün ve dünkü okumalarımıza dayanarak
-yine de...
-
-149
-00:12:09,265 --> 00:12:11,932
-...bu tahminin iyimser olmaktan
-epey uzak olduğunu söylüyorum.
-
-150
-00:12:14,553 --> 00:12:16,233
-Tekrardan adamların yemek payını
-kesmemiz gerekecek.
-
-151
-00:12:20,526 --> 00:12:22,276
-Katılıyorum.
-
-152
-00:12:22,311 --> 00:12:26,311
-Eğer, erzağımız düşündüğümüzden
-hızlı tükenirse.
-
-153
-00:12:26,699 --> 00:12:29,066
-İçme suyu neredeyse bitti.
-
-154
-00:12:29,118 --> 00:12:31,785
-Yiyecek erzağı neredeyse üç gündür
-tamtakır...
-
-155
-00:12:31,820 --> 00:12:34,237
-Tutulan yılan balığı sayısı da
-aynı düzeyde gitmiyor.
-
-156
-00:12:34,239 --> 00:12:36,456
-Bay Silver'la birlikte mürettebata
-haber vereceğiz.
-
-157
-00:12:36,492 --> 00:12:38,226
-Yemek payındaki azalmadan...
-
-158
-00:12:39,495 --> 00:12:41,824
-...haberleri olamaz.
-
-159
-00:12:43,082 --> 00:12:45,415
-Şu noktada, eğer yelkeni hiç kimse
-açamayacak kadar...
-
-160
-00:12:45,467 --> 00:12:48,385
-...güçsüz düşersek,
-zaten hepimiz ölür gideriz.
-
-161
-00:12:48,420 --> 00:12:50,637
-Ne öneriyorsun yani?
-
-162
-00:12:50,673 --> 00:12:53,140
-2 liste ayarlamayı öneriyorum.
-
-163
-00:12:53,175 --> 00:12:58,677
-Birincisi, rüzgâr yön değiştirdiğinde yelken
-açabilecek adamların listesi...
-
-164
-00:12:58,847 --> 00:13:00,981
-...ikincisi, açamayacak adamların listesi.
-
-165
-00:13:01,797 --> 00:13:04,685
-Yani, mürettebattan bazılarını daha çok
-beslememiz gerektiğini mi düşünüyorsun?
-
-166
-00:13:04,737 --> 00:13:08,286
-Hayır, bazı adamları besleyip bazılarını
-beslemememiz gerektiğini düşünüyorum.
-
-167
-00:13:10,025 --> 00:13:12,409
-Gemiyi karaya döndürmedeki gücümüz...
-
-168
-00:13:12,444 --> 00:13:16,079
-...mürettabattan hayatta tutabileceğimiz
-en çok adam sayısına bağlı.
-
-169
-00:13:16,115 --> 00:13:18,198
-Bu denli sona yakın adamlara verilecek
-erzaklar sadece...
-
-170
-00:13:18,250 --> 00:13:23,620
-...bu gemide ölecek kişi sayısını artırır.
-
-171
-00:13:23,672 --> 00:13:25,372
-Adamları böyle ayıramazsın.
-
-172
-00:13:25,424 --> 00:13:27,924
-Zayıflar listesindeki adamların çoğuna
-bir şey olmayacak.
-
-173
-00:13:27,960 --> 00:13:29,760
-"Çoğuna."
-
-174
-00:13:32,464 --> 00:13:36,460
-Sadece ikinci listeyi yapsak ve adamları
-bir bir aşağı atsak daha iyi olmaz mı?
-
-175
-00:13:37,136 --> 00:13:38,801
-Hepimizi kurtarmaya çalışmak
-daha çok sıkıntı doğurmayacak mı?
-
-176
-00:13:39,855 --> 00:13:41,638
-Mürettabat ikinizin tartıştığını
-duyarsa...
-
-177
-00:13:41,690 --> 00:13:45,482
-...burada ne yaptığımıza dair kalan
-inançlarını da kaybedebilirler.
-
-178
-00:13:48,697 --> 00:13:53,263
-Sana mürettebatla birlikte meydan okuyacağım
-ve bu plana karşı duracağım.
-
-179
-00:13:56,989 --> 00:13:59,990
-Bu gemi üzerindeyken bana herhangi
-bir şekilde meydan okuyacak olursan...
-
-180
-00:14:00,042 --> 00:14:03,710
-...en baştan bu hâle nasıl geldiğimizi
-mesele etmek zorunda kalırım.
-
-181
-00:14:03,746 --> 00:14:07,829
-Hallendale'nin gemisini incelerken
-olan tehlikeyle ilgili...
-
-182
-00:14:07,830 --> 00:00:18446744073709551612,000
-...onları nasıl yanlış bilgilendirdiğini...
-
-183
-00:14:09,752 --> 00:14:11,752
-...başından bu kapana nasıl
-girdiğimizi.
-
-184
-00:14:11,804 --> 00:14:15,273
-- Sana meydan okumak onun sorumluluğu.
-- Ama şimdi olmaz.
-
-185
-00:14:16,953 --> 00:14:18,642
-Bu durumdayken olmaz.
-
-186
-00:14:21,930 --> 00:14:25,982
-Hayati tehlike oluşturan bir durumda
-Kaptan olarak...
-
-187
-00:14:26,018 --> 00:14:30,018
-...bu gemi üzerinde ve mürettebat üzerinde,
-onların ortak refahı adına...
-
-188
-00:14:30,489 --> 00:14:35,242
-...kararlar vermek benim hakkımdır.
-Ta ki bu durumdan çıkana dek.
-
-189
-00:14:35,277 --> 00:14:38,862
-Şimdi, iki liste yapacağım.
-
-190
-00:14:41,450 --> 00:14:44,868
-Burası, tam yemek ve su alacak
-adamların listesi...
-
-191
-00:14:44,920 --> 00:14:48,038
-...burası da şimdilik sınırlı
-şekilde su alacakların listesi.
-
-192
-00:14:58,016 --> 00:15:00,183
-Gözümüzün onun üzerinde olması lazım.
-
-193
-00:15:00,219 --> 00:15:04,740
-Susuzluk çökmeye başlayınca,
-hepimiz etkilerinin hedefi hâline geleceğiz.
-
-194
-00:15:05,524 --> 00:15:09,088
-Sağduyu kaybı, asabiyet...
-
-195
-00:15:10,657 --> 00:15:12,446
-Ve sonunda halüsinasyon.
-
-196
-00:15:12,481 --> 00:15:15,336
-Aklını kaybetmiyor.
-
-197
-00:15:16,735 --> 00:15:21,288
-Bazı zamanlar düşünceli oluyor.
-Seni düşünüyor.
-
-198
-00:15:21,920 --> 00:15:24,233
-Sağduyumu kaybettiğimi düşünüyor.
-
-199
-00:15:25,461 --> 00:15:29,629
-- Charlestown'daki olaylar ve öncesinde
-olanlar beni deli ediyor. - Öyle mi?
-
-200
-00:15:53,605 --> 00:15:56,490
-Bizden güçlerimizi birleştirmemizi...
-
-201
-00:15:56,525 --> 00:15:58,909
-...yarım düzine gemiyi filo gibi
-birbirine bağlamayı...
-
-202
-00:15:58,944 --> 00:16:03,113
-...ve 6 silahla hisardan bizi desteklemeyle
-bunu yapmamızı istiyorsun.
-
-203
-00:16:03,115 --> 00:16:05,916
-Böylece Donanmayı ürkütüp geri çekilmesini
-sağlayabiliriz diyorsun?
-
-204
-00:16:05,951 --> 00:16:08,752
-Anladığımız kadarıyla 8 gemi, 6 değil.
-
-205
-00:16:08,787 --> 00:16:11,121
-- Gerisi aynen öyle.
-- Of be, Jack.
-
-206
-00:16:11,173 --> 00:16:12,788
-Konuşabilir miyim?
-
-207
-00:16:14,510 --> 00:16:16,626
-Burayı karşı tarafı ürküterek koruyacaksak...
-
-208
-00:16:16,678 --> 00:16:19,129
-...uygulayacak bir planımızın
-olması gerekiyor.
-
-209
-00:16:19,131 --> 00:16:22,299
-- Eğer blöfse bu, o zaman...
-- Blöf falan yok.
-
-210
-00:16:22,351 --> 00:16:24,601
-Birleşerek onların cesaretini kırarsak,
-bu çok daha iyi olur.
-
-211
-00:16:24,636 --> 00:16:27,103
-Eğer bu olmazsa,
-adayı korumak için savaşırız.
-
-212
-00:16:27,139 --> 00:16:30,557
-Donanmanın başında kimle?
-Flint'i haftalardır gören yok.
-
-213
-00:16:30,609 --> 00:16:33,944
-- İstiladan haberi olduğu an gelecektir.
-- Ya gelmezse?
-
-214
-00:16:33,979 --> 00:16:38,597
-Savaşta donanmaya liderlik edebilecek
-kimse yok onun gibi. Sen bile.
-
-215
-00:16:39,284 --> 00:16:41,472
-Neyiniz var sizin amına koyayım ya?
-
-216
-00:16:42,321 --> 00:16:45,405
-Sizin için yeterince şey yapmadık mı?
-Şimdi bize sırtınızı mı döneceksiniz?
-
-217
-00:16:45,457 --> 00:16:47,073
-Sen de haklı olduğunu biliyorsun.
-
-218
-00:16:47,125 --> 00:16:50,360
-Flint yoksa, stratejiyle bu donanmanın
-olacağı koordinatlar...
-
-219
-00:16:50,395 --> 00:16:53,380
-Yeter bu kadar.
-Sen, çök sandalyene.
-
-220
-00:16:53,415 --> 00:16:56,166
-Geri kalanlar, dikkatlice dinleyin.
-
-221
-00:16:56,168 --> 00:17:00,003
-Eleanor Guthrie'nin bu adanın haşin
-annesi olmasını hiçbir zaman onaylamadım.
-
-222
-00:17:00,005 --> 00:17:02,505
-Bu olaydaki kayıtlarımın muntazam
-olduğunu düşünüyorum.
-
-223
-00:17:02,558 --> 00:17:04,057
-Bununla birlikte, siz çocuk gibi
-davranacaksınız...
-
-224
-00:17:04,092 --> 00:17:05,308
-...benim de sizin babanız olmam gerekecek.
-
-225
-00:17:05,344 --> 00:17:09,930
-Toplantı bittiğinde, sokaklara
-mürettebatlarınıza hitap edeceğim...
-
-226
-00:17:09,982 --> 00:17:15,318
-...ve onları bu yeri korumak sadece
-istenen bir şey olmadığına...
-
-227
-00:17:15,354 --> 00:17:18,688
-...bunun kendilerine adam diyebilmelerinde
-önemli bir husus olduğuna ikna edeceğim.
-
-228
-00:17:19,360 --> 00:17:25,346
-Bu durumda bu odada bulunup
-plana karşı çıkan her kaptan...
-
-229
-00:17:26,498 --> 00:17:28,999
-Neye karşı çıkacaksınız ki hem?
-
-230
-00:17:29,034 --> 00:17:34,569
-Kaybetme korkusu.
-Kendilerine bir daha kaptan diyemeyecekler.
-
-231
-00:17:37,793 --> 00:17:40,677
-Ben buna bağlı olacağım.
-Charles buna bağlı olacak.
-
-232
-00:17:40,712 --> 00:17:42,379
-Kaptan Flint yakında dönecek.
-
-233
-00:17:42,431 --> 00:17:45,048
-En çok o buna bağlı olacak.
-
-234
-00:17:45,100 --> 00:17:47,634
-Bu yeterli olmazsa eğer,
-temaşa gününde...
-
-235
-00:17:47,686 --> 00:17:51,554
-...sizden bu yerin korunması
-istendiğinde...
-
-236
-00:17:51,607 --> 00:17:55,141
-...Anne ve benim ceplerinize koyduğumuzu
-binlerce sikke aklınıza gelsin.
-
-237
-00:17:55,193 --> 00:17:58,528
-O gün bugündür ve hepiniz öleceksiniz.
-
-238
-00:17:58,563 --> 00:18:01,314
-Flint öldü.
-
-239
-00:18:05,737 --> 00:18:09,739
-Haber St. Kitts'ten geldi.
-Fırtınaya girmiş...
-
-240
-00:18:09,791 --> 00:18:12,993
-...istilacı kuvvet tarafından
-takip edilerek...
-
-241
-00:18:13,045 --> 00:18:16,876
-...Benhamin Hornigold adında bir korsan
-avcısı tarafından.
-
-242
-00:18:18,917 --> 00:18:24,337
-Bir şeye kalkışmadan önce sadece bunu Flint
-olmadan yapacağınızı bilin diye söylüyorum.
-
-243
-00:18:27,643 --> 00:18:31,094
-Ama size bir alternatif şey önerebilirim.
-
-244
-00:18:40,689 --> 00:18:44,824
-Eğer aşağı o adamları bir araya getirebilecek
-bir şeyle inmezseniz...
-
-245
-00:18:44,860 --> 00:18:49,162
-...bütün hâline getirecek bir şeyle,
-bu limanın savunması falan olmayacak.
-
-246
-00:18:49,197 --> 00:18:51,281
-Mücadele anında başarısız olacaksınız.
-
-247
-00:18:51,283 --> 00:18:56,870
-- Ve sen bana o "bir şeyi" önerebilir misin?
-- Evet, ben.
-
-248
-00:18:56,922 --> 00:19:00,457
-Kaptan Flint'in yerine geçmeye...
-
-249
-00:19:00,459 --> 00:19:02,676
-...adamları bütün hâline getirmeye,
-limanın savunma hattını devam ettirmeye...
-
-250
-00:19:02,711 --> 00:19:05,545
-...ve Donanmayı buradan temelli
-olarak püskürtmeye hazırım.
-
-251
-00:19:05,597 --> 00:19:09,597
-Eğer üstesinden gelirsem...
-
-252
-00:19:09,801 --> 00:19:12,602
-...buradan yelken açarken temelli olarak
-bana katılmaya razı olacaksın.
-
-253
-00:19:20,862 --> 00:19:24,397
-Bu savaşa sırf...
-
-254
-00:19:24,449 --> 00:19:29,507
-...biraz saygı görmek ve
-ortağım olmak için mi giriyorsun?
-
-255
-00:19:29,718 --> 00:19:31,039
-Evet.
-
-256
-00:19:32,791 --> 00:19:35,291
-Bu savaştan kaçamayacağını...
-
-257
-00:19:35,327 --> 00:19:38,249
-...sözünden dönüp arkadaşlarının yanına da
-inmeyeceğini biliyorum ve...
-
-258
-00:19:39,164 --> 00:19:40,365
-...bunu senden istemiyorum.
-
-259
-00:19:42,134 --> 00:19:45,468
-Sana mümkün olan en iyi şeyleri
-teklif ediyorum...
-
-260
-00:19:47,756 --> 00:19:50,996
-...İngilizleri yenmek, Rackham'a
-karşı sözünü tutmak...
-
-261
-00:19:51,676 --> 00:19:54,094
-...ve bir anda bu yerin sorumluluğundan
-kurtulmak.
-
-262
-00:19:54,146 --> 00:19:55,512
-Bu yerin sorumluluğundan kurtulmak mı?
-
-263
-00:19:55,514 --> 00:19:58,014
-Dediklerimi duymadın mı?
-
-264
-00:19:58,066 --> 00:20:02,235
-- Ben buraya bağlıyım.
-- Sen sorumluluğuna bağlısın.
-
-265
-00:20:02,270 --> 00:20:07,574
-Bu bağlılığı kurmadan önce bu yerin seni
-ne olmaya zorladığını şöyle bir düşün...
-
-266
-00:20:07,609 --> 00:20:08,693
-...bir köle efendisine...
-
-267
-00:20:08,746 --> 00:20:12,112
-...onunla savaşa girmesi için ortaklarına
-yalvarmaya zorlanan bir adama.
-
-268
-00:20:12,164 --> 00:20:14,831
-O odada senin güvenliğin için
-parmağını oynatacak bir insan dahi yok...
-
-269
-00:20:14,866 --> 00:20:18,752
-...ama sen onlarınki uğruna öleceksin.
-- Jack var. Jack oynatır.
-
-270
-00:20:18,787 --> 00:20:20,286
-Elbette oynatır.
-
-271
-00:20:20,338 --> 00:20:23,289
-Yoksa onun gibi bir adam
-böyle bir yerde...
-
-272
-00:20:23,341 --> 00:20:25,417
-...güçlü olana yapışmasa
-nasıl hayatta kalacak?
-
-273
-00:20:26,378 --> 00:20:28,815
-Bu yüzden de sana ne teklif ediyor?
-
-274
-00:20:29,681 --> 00:20:33,681
-Sadakat mi? Bir it böyle hayatta kalır.
-
-275
-00:20:33,885 --> 00:20:35,435
-Bir adam değil.
-
-276
-00:20:35,470 --> 00:20:39,773
-Ben kendimi müdafaa etmede zayıf
-olduğum için ortaklığını istemiyorum.
-
-277
-00:20:39,808 --> 00:20:42,276
-Kendi korumak ya da
-kazancımı arttırmak için istemem ben.
-
-278
-00:20:42,310 --> 00:20:44,050
-Neden istiyorsun öyleyse?
-
-279
-00:20:45,230 --> 00:20:49,980
-Sekiz yıldır yoktun ve birden
-ortaklığım senin için kıymetli mi oldu?
-
-280
-00:20:52,272 --> 00:20:53,272
-Neden?
-
-281
-00:20:54,206 --> 00:20:56,140
-Sekiz yıl.
-
-282
-00:20:57,659 --> 00:20:59,891
-Dokuz hanım.
-
-283
-00:21:01,213 --> 00:21:02,662
-Hiç oğlum olmadı.
-
-284
-00:21:07,335 --> 00:21:11,625
-Birinin kendi suretini gördüğü şeyi
-ardında bırakmak gibi bir huyu vardır.
-
-285
-00:21:13,341 --> 00:21:15,725
-Anlaşılan doğa çocuk yapma yetimi
-benden aldı...
-
-286
-00:21:15,760 --> 00:21:17,143
-...ama ihtiyacımı almadı.
-
-287
-00:21:19,681 --> 00:21:25,122
-Oysaki doğal yollar karşı tarafın
-rızasını gerektirmiyor.
-
-288
-00:21:25,821 --> 00:21:28,104
-Ama bu durumda o kadar şanslı değilim.
-
-289
-00:21:31,026 --> 00:21:34,398
-Söyleyeceklerim bunlar.
-
-290
-00:21:35,447 --> 00:21:36,779
-Evet mi hayır mı?
-
-291
-00:21:59,604 --> 00:22:00,854
-Gidecek.
-
-292
-00:22:00,889 --> 00:22:05,441
-Tüm bunlar bittiğinde sağ kalacağımızı
-farz edersek Teach'le birlikte gidecek.
-
-293
-00:22:07,279 --> 00:22:08,870
-İşittim.
-
-294
-00:22:10,065 --> 00:22:11,921
-Beni rahatsız ediyor...
-
-295
-00:22:12,901 --> 00:22:15,235
-Neden bilmiyorum ama rahatsız ediyor.
-
-296
-00:22:15,287 --> 00:22:18,872
-- Sence nedendir?
-- Çünkü onun fikri senin için önemli.
-
-297
-00:22:18,907 --> 00:22:23,209
-- Hep önemliydi.
-- Öyle mi diyorsun? - Evet.
-
-298
-00:22:23,245 --> 00:22:25,295
-Yalnız değilsin.
-
-299
-00:22:25,330 --> 00:22:29,666
-Buradaki birçok insan
-aptalca şeyler yaptı.
-
-300
-00:22:29,668 --> 00:22:32,719
-Charles Vane onlara
-düzgün birer korsan desin diye.
-
-301
-00:22:32,754 --> 00:22:37,090
-Belki de kariyer yapan tek kişi
-sen olabilirsin.
-
-302
-00:23:18,767 --> 00:23:22,084
-Dünkü su istihkakını
-reddettiğinizi duydum.
-
-303
-00:23:24,189 --> 00:23:26,265
-Keşke bunu yapmasaydın.
-
-304
-00:23:27,275 --> 00:23:33,027
-Flint bana sadece gücün elinde
-olduğunu göstermek için pay veriyor.
-
-305
-00:23:34,399 --> 00:23:36,733
-- Onu hoşnut etmeyeceğim.
-- Önemli değil.
-
-306
-00:23:36,735 --> 00:23:40,029
-Ben tam pay alırken...
-
-307
-00:23:40,030 --> 00:23:43,323
-...onların günden güne tükenmesini görmek
-ve bana güvenmelerini istemekten...
-
-308
-00:23:43,375 --> 00:23:47,058
-...hoşlanmıyorum.
-- Önemli değil.
-
-309
-00:23:48,830 --> 00:23:51,080
-O adamlar, hepsi...
-
-310
-00:23:51,082 --> 00:23:53,228
-...listeye alınmayanlar bile...
-
-311
-00:23:54,252 --> 00:23:57,887
-...vakti geldiğinde kaptanın karşısına
-dikileceğine güveniyorlar.
-
-312
-00:23:57,922 --> 00:24:01,020
-O kuvvetindeyken ve sen zayıfken
-bunu yapamazsın.
-
-313
-00:24:03,428 --> 00:24:05,731
-Başından beri mesele buydu.
-
-314
-00:24:06,931 --> 00:24:10,483
-Gates'in asla anlamadığı ve
-senin asla anlamadığın.
-
-315
-00:24:13,321 --> 00:24:15,571
-Böyle bir adamı takip etmeyi seçip...
-
-316
-00:24:15,607 --> 00:24:18,781
-...onu reddettiğinde
-başkasını seçip devam edemezsin.
-
-317
-00:24:20,111 --> 00:24:22,161
-Senin işin onu reddetmek.
-
-318
-00:24:28,620 --> 00:24:30,852
-Eğer ona doğrudan meydan okursam...
-
-319
-00:24:31,756 --> 00:24:34,123
-...adamların önünde kötü koşullara düşeriz.
-
-320
-00:24:34,175 --> 00:24:36,602
-Öyle ya da böyle tayfanın sonu gelir.
-
-321
-00:24:37,629 --> 00:24:40,129
-Bunun olmasına müsaade edemem.
-
-322
-00:24:40,131 --> 00:24:42,598
-Bir kez daha...
-
-323
-00:24:42,634 --> 00:24:46,302
-...gerçeği dilediği şekilde
-kurgulayabilir.
-
-324
-00:24:46,304 --> 00:24:49,806
-Charlestown'daki gibi
-ve o fırtınadaki gibi.
-
-325
-00:24:49,808 --> 00:24:53,808
-Öyle bir güce sahip adamı
-reddetmek olmaz.
-
-326
-00:24:55,196 --> 00:24:58,281
-Ne diyorsun sen?
-O fırtınayı Flint mi çıkarttı?
-
-327
-00:24:58,316 --> 00:25:01,150
-Bizi fırtınaya sürükledi.
-
-328
-00:25:01,202 --> 00:25:03,202
-Bu durumda kim daha güçlü?
-
-329
-00:25:03,238 --> 00:25:04,454
-Fırtınayı çıkaran mı...
-
-330
-00:25:04,489 --> 00:25:07,614
-...yoksa onu yenmek için
-bizi mücadeleye sürükleyen mi?
-
-331
-00:25:09,114 --> 00:25:11,077
-O kabiliyette bir adamın...
-
-332
-00:25:11,129 --> 00:25:15,129
-...aklından geçenler gerçek halini alır.
-
-333
-00:25:15,800 --> 00:25:18,084
-Biz de buna tabi oluruz.
-
-334
-00:25:18,136 --> 00:25:21,884
-Şimdiyse aklından geçenler o kadar
-karanlık ki bizi ölümle tehdit ediyor.
-
-335
-00:25:23,141 --> 00:25:25,811
-Payını kabul et.
-
-336
-00:25:26,928 --> 00:25:28,644
-Ciddiyim.
-
-337
-00:25:31,433 --> 00:25:33,693
-Zihnim açık Billy.
-
-338
-00:25:34,569 --> 00:25:36,162
-Onu görüyorum.
-
-339
-00:25:37,772 --> 00:25:41,074
-Hisarda Vane ile kavga ederken...
-
-340
-00:25:41,109 --> 00:25:47,108
-...Nassau'daki herkesin onu hikayedeki
-acımasız belleyeceği adama dönüşürken...
-
-341
-00:25:47,165 --> 00:25:48,762
-...kamarasında oturup onu izledim.
-
-342
-00:25:49,951 --> 00:25:52,499
-Şimdiyse yeni dünyanın en acımasızı.
-
-343
-00:25:53,538 --> 00:25:55,378
-Hepimiz gördük.
-Bu yüzden peşinden gidiyoruz.
-
-344
-00:25:55,971 --> 00:25:57,984
-Sanırım bu onun için bir eziyet.
-
-345
-00:25:59,761 --> 00:26:01,844
-Ve bence bu eziyetin biteceğine
-inandığı tek yol da...
-
-346
-00:26:01,880 --> 00:26:04,597
-...tanık olmak için kimsenin kalmaması.
-
-347
-00:26:08,553 --> 00:26:10,436
-Amına koduğumun hırsızları!
-
-348
-00:26:14,025 --> 00:26:17,352
-İkiniz de en ciddi kabahatle
-suçlanıyorsunuz.
-
-349
-00:26:18,382 --> 00:26:22,382
-Böyle zamanlarda gıda çalıp saklamak...
-
-350
-00:26:23,318 --> 00:26:26,665
-...en derin türden bir hainliktir.
-
-351
-00:26:27,906 --> 00:26:30,072
-Böylesi bir ihanetin cezası...
-
-352
-00:26:30,125 --> 00:26:33,910
-...zorunlu olarak aşırı olacaktır.
-
-353
-00:26:33,912 --> 00:26:39,248
-İkiniz de azıcık kalan gıda stoklarının
-gözlemekle suçlanıyorsunuz.
-
-354
-00:26:39,300 --> 00:26:42,069
-Tam gün paylarınız artık alındı.
-
-355
-00:26:42,921 --> 00:26:46,060
-Yine de suç için diğerini suçluyorsunuz.
-
-356
-00:26:48,927 --> 00:26:52,927
-Serdümeniniz olarak,
-dostunuz olarak...
-
-357
-00:26:54,599 --> 00:26:58,518
-...sizden son kez rica ediyorum.
-
-358
-00:26:58,570 --> 00:27:02,342
-Hanginiz suçluysa itiraf etsin.
-
-359
-00:27:03,274 --> 00:27:06,909
-Kardeşlerinize karşı yara alan güveni
-bir nebze de olsa onarın.
-
-360
-00:27:06,945 --> 00:27:10,112
-Yemin ediyorum, ben böyle bir şey yapmam.
-
-361
-00:27:10,165 --> 00:27:12,949
-Öyle biri değilim.
-
-362
-00:27:12,951 --> 00:27:16,702
-- Lütfen beni asmayın.
-- Kes lan sesini.
-
-363
-00:27:16,754 --> 00:27:18,454
-Son birkaç haftayı siz de yaşadınız.
-
-364
-00:27:18,456 --> 00:27:21,624
-Hiç zırlamadım, yavşaklık yapmadım.
-
-365
-00:27:21,676 --> 00:27:23,960
-Ben de en az sizin kadar yıprandım.
-
-366
-00:27:23,962 --> 00:27:27,547
-O yüzden böylesine
-korkakça bir şeyi yapıp...
-
-367
-00:27:27,599 --> 00:27:29,382
-...bu zırlayan bok parçasını
-suçladığımı söylemeyin.
-
-368
-00:27:29,434 --> 00:27:33,269
-Birimiz yalancı ama
-kesinkes ben değilim.
-
-369
-00:27:52,123 --> 00:27:53,539
-Siktir.
-
-370
-00:27:57,745 --> 00:27:59,662
-Kaptan.
-
-371
-00:27:59,714 --> 00:28:02,192
-Teşekkürler. Ulu tanrım,
-gerçeği gördüğün için teşekkürler.
-
-372
-00:28:07,805 --> 00:28:11,757
-Bekle. Hayır.
-
-373
-00:28:14,012 --> 00:28:16,229
-Hayır. Dur.
-
-374
-00:28:16,264 --> 00:28:19,765
-Bir şey söylemen gerek.
-
-375
-00:28:24,522 --> 00:28:28,265
-Yapma bunu. Ben hiçbir şey yapmadım.
+00:08:46,521 --> 00:08:49,297
+YaÅŸÄ±yor.
 Yemin ederim.
 
+109
+00:09:31,248 --> 00:09:33,382
+AdayÄ± gÃ¶rebiliyoruz...
+
+110
+00:09:33,417 --> 00:09:34,884
+...ama onlar bizi gÃ¶remiyor.
+
+111
+00:09:34,919 --> 00:09:37,720
+Bu nasÄ±l mÃ¼mkÃ¼n olabilir?
+
+112
+00:09:37,755 --> 00:09:41,390
+Bay De Groot bu noktada...
+
+113
+00:09:41,425 --> 00:09:42,516
+...sahilden bakÄ±ldÄ±ÄŸÄ±nda...
+
+114
+00:09:42,560 --> 00:09:45,061
+...gemi gÃ¶vdemiz ufkun
+altÄ±nda kalÄ±yor...
+
+115
+00:09:45,096 --> 00:09:46,729
+...gemi direÄŸimiz gÃ¶rÃ¼nse bile.
+
+116
+00:09:46,764 --> 00:09:47,897
+Åimdide yelkenlerin sarÄ±lmasÄ±yla...
+
+117
+00:09:47,932 --> 00:09:50,066
+...direk gÃ¶rÃ¼nemeyecek
+kadar kÃ¼Ã§Ã¼lÃ¼yor.
+
+118
+00:09:50,101 --> 00:09:52,902
+Bu sayede biz sahili gÃ¶rebiliyorken...
+
+119
+00:09:52,937 --> 00:09:57,239
+...sahilin bizi gÃ¶rmesine olanak yok.
+
+120
+00:09:57,274 --> 00:09:59,742
+Bu bÃ¼yÃ¼k bir baÅŸarÄ± sÃ¶ylemeliyim.
+
+121
+00:09:59,777 --> 00:10:01,619
+AynÄ± anda bir var olup bir
+var olmadÄ±ÄŸÄ±mÄ±z...
+
+122
+00:10:01,662 --> 00:10:05,206
+...bu durumu nasÄ±l tanÄ±mlÄ±yor?
+
+123
+00:10:05,249 --> 00:10:09,251
+Birileri Bay De Groot
+konuÅŸmasÄ±nÄ± bitirene kadar bekler...
+
+124
+00:10:09,286 --> 00:10:11,253
+...dÃ¼ÅŸÃ¼nceli ÅŸekilde kaÅŸlarÄ±nÄ± Ã§atar...
+
+125
+00:10:11,288 --> 00:10:14,965
+...ve sonrasÄ±nda adamlara
+sÃ¶ylediklerini tekrar eder.
+
+126
+00:10:15,009 --> 00:10:17,093
+Bir kaÃ§ ay Ã¶nce...
+
+127
+00:10:17,128 --> 00:10:19,261
+...bu gemide bana yaptÄ±rdÄ±klarÄ±
+tek iÅŸ aÅŸÃ§Ä±lÄ±ktÄ±.
+
+128
+00:10:19,296 --> 00:10:21,430
+Elimden geldiÄŸince Ã§abuk
+Ã¶ÄŸrenmeye Ã§abalÄ±yorum.
+
+129
+00:10:21,465 --> 00:10:22,932
+GÃ¶rÃ¼lÃ¼yor.
+
+130
+00:10:22,967 --> 00:10:27,269
+Evet, konuyla ilgili oluÅŸan ÅŸÃ¼pheleri
+gÃ¶rmezden gelmek bir adam iÃ§in...
+
+131
+00:10:27,304 --> 00:10:30,314
+...daha gÃ¼ven verici birÅŸey sanÄ±rÄ±m.
+
+132
+00:10:32,476 --> 00:10:34,276
+AdamlarÄ±n senin hakkÄ±nda dÃ¼ÅŸÃ¼ndÃ¼kleri...
+
+133
+00:10:34,311 --> 00:10:36,946
+...seninkilerin ve benimkilerin...
+
+134
+00:10:36,981 --> 00:10:38,656
+...git gide yayÄ±lÄ±yor gibi gÃ¶rÃ¼nÃ¼yor.
+
+135
+00:10:38,699 --> 00:10:40,366
+Evet.
+
+136
+00:10:44,155 --> 00:10:47,456
+DÃ¼n geceki hikaye...
+
+137
+00:10:47,491 --> 00:10:48,791
+...bu gemideki her adam tarafÄ±ndan...
+
+138
+00:10:48,826 --> 00:10:51,186
+...tek tek anlatÄ±ldÄ±.
+
+139
+00:10:53,164 --> 00:10:58,467
+KaptanÄ±na karanlÄ±k yolda eÅŸlik
+etmen gerektiÄŸi konusundaki...
+
+140
+00:10:58,502 --> 00:11:02,103
+...endiÅŸlerini bana anlattÄ±n.
+
+141
+00:11:03,007 --> 00:11:04,473
+Ve korkun...
+
+142
+00:11:04,508 --> 00:11:08,330
+...gideceÄŸin bu yerin geri dÃ¶nÃ¼ÅŸÃ¼
+olamayacaÄŸÄ±ndan kaynaklÄ±.
+
+143
+00:11:11,274 --> 00:11:13,023
+Benim iÃ§in endiÅŸeleniyorsun.
+
+144
+00:11:15,278 --> 00:11:17,069
+AdamlarÄ±n ve benim adamlarÄ±n
+arasÄ±ndaki...
+
+145
+00:11:17,113 --> 00:11:18,821
+...dostluk baÄŸÄ± kritik durumda.
+
+146
+00:11:20,783 --> 00:11:23,075
+Bunsuz hepimiz bir hiÃ§iz.
+
+147
+00:11:23,119 --> 00:11:24,910
+EÄŸer aklÄ±n selim deÄŸilse...
+
+148
+00:11:24,954 --> 00:11:26,954
+...ve ittifak patlarsa...
+
+149
+00:11:26,956 --> 00:11:29,748
+...hepimiz kaybederiz.
+
+150
+00:11:29,792 --> 00:11:33,669
+Bu yÃ¼zden evet, endiÅŸeleniyorum.
+
+151
+00:11:35,631 --> 00:11:36,881
+Evet.
+
+152
+00:11:38,801 --> 00:11:43,179
+DÃ¼n gece yakÄ±n zamanda tekrarlamak
+istemediÄŸim bir deneyimdi.
+
+153
+00:11:45,475 --> 00:11:47,183
+Fakat aklÄ±m selim.
+
+154
+00:11:50,229 --> 00:11:53,105
+Bay Silver,
+sizinle konuÅŸmam lazÄ±m.
+
+155
+00:11:53,149 --> 00:11:54,309
+YalnÄ±z lÃ¼tfen.
+
+156
+00:12:21,427 --> 00:12:22,843
+Ne oluyor lan?
+
+157
+00:12:25,765 --> 00:12:29,225
+Åu kampta...
+
+158
+00:12:29,268 --> 00:12:31,060
+Parker'Ä± Ã¶ldÃ¼rdÃ¼ler.
+
+159
+00:12:31,103 --> 00:12:32,895
+Louis'i Ã¶ldÃ¼rdÃ¼ler.
+
+160
+00:12:32,939 --> 00:12:37,399
+Graves ve Simon'Ä±nÄ± da Ã¶ldÃ¼rdÃ¼ler.
+
+161
+00:12:37,443 --> 00:12:40,528
+OnlarÄ± iÅŸkence etmek ve Ã¶ldÃ¼rmek
+iÃ§in aramÄ±zdan seÃ§tiler.
+
+162
+00:12:41,948 --> 00:12:44,240
+Ve buda o seÃ§imleri yapan kiÅŸi.
+
+163
+00:13:25,449 --> 00:13:27,741
+Benden ne saklÄ±yorsun?
+
+164
+00:13:27,785 --> 00:13:31,078
+Efendim?
+
+165
+00:13:31,122 --> 00:13:34,623
+Yani, Ã§ok yoÄŸun olduÄŸunu biliyorum.
+
+166
+00:13:34,667 --> 00:13:38,085
+Sahip olduÄŸun sorumluklardan Ã¶tÃ¼rÃ¼.
+
+167
+00:13:38,129 --> 00:13:40,421
+Ama sabahÄ±n bu kadar geÃ§
+saatinde burada olman...
+
+168
+00:13:40,464 --> 00:13:42,631
+...sanÄ±yorum ki kaÃ§Ä±ndÄ±ÄŸÄ±n birÅŸey var.
+
+169
+00:13:46,137 --> 00:13:48,596
+Ne olursa olsun...
+
+170
+00:13:48,639 --> 00:13:52,308
+...madamÄ±n beni yeni olduÄŸum
+iÃ§in sana seÃ§tiÄŸine inanÄ±yorum.
+
+171
+00:13:52,351 --> 00:13:56,604
+Bir zamanlar nasÄ±l olduÄŸun
+hakkÄ±nda bir fikrim yok.
+
+172
+00:13:56,647 --> 00:13:59,106
+Dedikodu yapmak iÃ§in bir sebebim yok.
+
+173
+00:13:59,150 --> 00:14:00,441
+Georgia.
+
+174
+00:14:00,484 --> 00:14:03,777
+Evet?
+
+175
+00:14:03,821 --> 00:14:06,280
+Bu oyunlarÄ± bilirim.
+
+176
+00:14:06,324 --> 00:14:07,865
+Hepsini oynadÄ±m.
+
+177
+00:14:10,161 --> 00:14:12,870
+Bir daha yatakta benimle birlikte
+olmak istiyorsan...
+
+178
+00:14:12,913 --> 00:14:16,874
+...bu benimle oynadÄ±ÄŸÄ±n son
+oyun olsun.
+
+179
+00:14:18,586 --> 00:14:19,793
+Ne var?
+
+180
+00:14:19,837 --> 00:14:21,712
+<i>Bayan Guthrie aÅŸaÄŸÄ±da.</i>
+
+181
+00:14:21,756 --> 00:14:23,130
+<i>Sizi soruyor.</i>
+
+182
+00:14:38,773 --> 00:14:40,147
+Buyrun.
+
+183
+00:14:43,277 --> 00:14:44,557
+Ne oldu?
+
+184
+00:14:45,780 --> 00:14:48,572
+Zula elimizde.
+
+185
+00:14:48,616 --> 00:14:49,740
+Biz konuÅŸurken Havana'ya
+gÃ¶tÃ¼rÃ¼lmek Ã¼zere...
+
+186
+00:14:49,784 --> 00:14:51,909
+...yola Ã§Ä±kmÄ±ÅŸ durumda.
+
+187
+00:14:51,952 --> 00:14:53,911
+Jack ile mi?
+
+188
+00:14:53,954 --> 00:14:55,037
+Evet.
+
+189
+00:14:55,081 --> 00:14:57,081
+Vali kargonun saÄŸ salim teslimatÄ±
+iÃ§in...
+
+190
+00:14:57,124 --> 00:15:00,417
+...bizzat orada bulunuyor.
+
+191
+00:15:00,461 --> 00:15:02,753
+Bir kaÃ§ saat iÃ§inde Ä°spanya
+sorununu kapatacaÄŸÄ±z...
+
+192
+00:15:02,797 --> 00:15:04,505
+...ve devam etmek iÃ§in Ã¶zgÃ¼r olacaÄŸÄ±z.
+
+193
+00:15:06,801 --> 00:15:07,841
+Ya Anne?
+
+194
+00:15:09,637 --> 00:15:11,387
+Adamlar kÄ±zgÄ±n olduÄŸunu sÃ¶ylediler.
+
+195
+00:15:11,422 --> 00:15:15,891
+Jack'in orada olmadÄ±ÄŸÄ±nÄ±
+gÃ¶rÃ¼nce zulayÄ± bÄ±rakmÄ±ÅŸ.
+
+196
+00:15:15,935 --> 00:15:18,310
+Anne hiÃ§ zarar gÃ¶rmemiÅŸ.
+
+197
+00:15:21,098 --> 00:15:24,233
+- Ã–yle mi?
+- Evet.
+
+198
+00:15:24,268 --> 00:15:26,402
+Valiye takasÄ±n yapÄ±lacaÄŸÄ± yere
+sekiz adam yollamasÄ±nÄ± sÃ¶yledim...
+
+199
+00:15:26,437 --> 00:15:27,945
+...olabilecek herhangi bir karÅŸÄ±
+gelmeyi Ã¶nlemek iÃ§in...
+
+200
+00:15:27,988 --> 00:15:30,239
+Ne zaman fark etmiÅŸ?
+
+201
+00:15:30,274 --> 00:15:32,574
+AnlamadÄ±m?
+
+202
+00:15:32,609 --> 00:15:34,576
+Jack'Ä±n orada olmadÄ±ÄŸÄ±nÄ±.
+
+203
+00:15:34,611 --> 00:15:37,746
+Anne kendisine yalan sÃ¶ylendiÄŸini
+ne zaman fark etmiÅŸ?
+
+204
+00:15:37,781 --> 00:15:40,082
+ZulayÄ± almadan Ã¶nce mi sonra mÄ±?
+
+205
+00:15:40,126 --> 00:15:43,127
+Ã–ncesinde sanÄ±rÄ±m.
+Neden?
+
+206
+00:15:45,789 --> 00:15:47,089
+Bunun olacaÄŸÄ±nÄ± bana
+sÃ¶ylediÄŸinde...
+
+207
+00:15:47,124 --> 00:15:50,592
+...Anne'ye yalan sÃ¶ylediÄŸim iÃ§in
+Ã¼zgÃ¼n hissediyordum.
+
+208
+00:15:50,627 --> 00:15:52,261
+Bunun onu kaÃ§Ä±namayacaÄŸÄ± Ã¶lÃ¼me
+gÃ¶tÃ¼receÄŸi...
+
+209
+00:15:52,296 --> 00:15:55,097
+...dÃ¼ÅŸÃ¼ncesiyle kendimi yiyip bitirdim.
+
+210
+00:15:55,141 --> 00:15:58,934
+Jack'Ä±n orada olmadÄ±ÄŸÄ±nÄ± anladÄ±ÄŸÄ±nda...
+
+211
+00:15:58,969 --> 00:16:00,436
+...yani Jack'Ä± bir daha asla
+gÃ¶remeyeceÄŸini fark ettiÄŸinde...
+
+212
+00:16:00,479 --> 00:16:02,771
+...buna karÅŸÄ±lÄ±k olarak...
+
+213
+00:16:02,806 --> 00:16:04,940
+...orada bulunana herkesi...
+
+214
+00:16:04,975 --> 00:16:06,692
+...Ã¶ldÃ¼rmeye kalkÄ±ÅŸÄ±rdÄ±.
+
+215
+00:16:06,736 --> 00:16:09,319
+Sekiz tane mi?
+
+216
+00:16:09,363 --> 00:16:11,697
+Binlerce adam gÃ¶ndermeliydiniz.
+
+217
+00:16:11,741 --> 00:16:13,699
+Bu onu engellemezdi.
+
+218
+00:16:13,743 --> 00:16:14,867
+Ve ÅŸimdi sen gelmiÅŸ bana...
+
+219
+00:16:14,910 --> 00:16:16,869
+...ona tuzak kurulduÄŸunu anlayÄ±p...
+
+220
+00:16:16,912 --> 00:16:20,080
+...kendini kurtarmak iÃ§in kaÃ§tÄ±ÄŸÄ±nÄ±
+mÄ± sÃ¶ylÃ¼yorsun?
+
+221
+00:16:40,102 --> 00:16:41,382
+Ä°spanyolca biliyor musun?
+
+222
+00:16:43,063 --> 00:16:44,121
+Efendim?
+
+223
+00:16:44,264 --> 00:16:46,290
+Ä°spanyolca konuÅŸabiliyor musun?
+
+224
+00:16:47,777 --> 00:16:49,401
+Biraz.
+
+225
+00:16:49,445 --> 00:16:51,236
+- Sen?
+- Derdimi anlatacak kadar.
+
+226
+00:16:51,280 --> 00:16:53,572
+Bir iki gÃ¼n iÃ§inde Havana'da
+olacaksam...
+
+227
+00:16:53,616 --> 00:16:56,241
+...kalabalÄ±kta yaÅŸlÄ± esmer
+kadÄ±nlarÄ±n baÄŸÄ±rÄ±ÅŸlarÄ±nÄ±...
+
+228
+00:16:56,285 --> 00:16:59,077
+...Ã¶fkeli hÃ¼kÃ¼met gÃ¶revlilerinin
+baÄŸÄ±rÄ±ÅŸlarÄ±nÄ±...
+
+229
+00:16:59,121 --> 00:17:03,248
+...bolca duyacaÄŸÄ±m sanÄ±rÄ±m.
+
+230
+00:17:03,292 --> 00:17:06,919
+Her kim iÃ§in olursa olsun,
+yabancÄ± bir kasabadan gelip...
+
+231
+00:17:06,962 --> 00:17:11,590
+...tanÄ±madÄ±ÄŸÄ± insanlarÄ±n iÃ§inde onun
+hakkÄ±nda konuÅŸulmasÄ±nÄ± gÃ¶rmek Ã§ok kÃ¶tÃ¼.
+
+232
+00:17:11,634 --> 00:17:12,674
+Oldu bitti gibi olacak...
+
+233
+00:17:12,718 --> 00:17:15,844
+...kafanÄ± rahatlatacaksa tabii.
+
+234
+00:17:15,888 --> 00:17:17,846
+AltÄ±n onlarÄ±n.
+
+235
+00:17:17,890 --> 00:17:19,848
+MÃ¼cevherler onlarÄ±n.
+
+236
+00:17:19,892 --> 00:17:21,532
+Senle ilgili daha fazla
+birÅŸey istemezler...
+
+237
+00:17:21,560 --> 00:17:22,893
+...ve istedikleri tek ÅŸey...
+
+238
+00:17:22,937 --> 00:17:26,814
+...olayÄ± bÃ¼yÃ¼tmeden kapatÄ±p,
+yollarÄ±na devam etmek olacak.
+
+239
+00:17:29,401 --> 00:17:31,276
+ÃœzgÃ¼nÃ¼m, "EÄŸer" derken?
+
+240
+00:17:31,320 --> 00:17:33,445
+AnlamadÄ±m?
+
+241
+00:17:33,489 --> 00:17:36,532
+"EÄŸer Havana'da olursam." dedin.
+
+242
+00:17:36,575 --> 00:17:38,367
+AklÄ±nda hala ÅŸÃ¼phe mi var.
+
+243
+00:17:40,246 --> 00:17:44,915
+Oranlar kesinlikten yanalaa.r..
+
+244
+00:17:46,085 --> 00:17:48,877
+...ama kesinliÄŸin tek baÅŸÄ±na
+bir anlamÄ± yok.
+
+245
+00:17:48,912 --> 00:17:51,547
+O nasÄ±l oluyor?
+
+246
+00:17:51,590 --> 00:17:53,882
+Anne'nin yaÅŸadÄ±ÄŸÄ±nÄ± sÃ¶yledin deÄŸil mi?
+
+247
+00:17:53,926 --> 00:17:55,717
+Bu doÄŸru olduÄŸu sÃ¼rece bir ÅŸans
+olduÄŸuna dair kafa tutarÄ±m...
+
+248
+00:17:55,761 --> 00:17:58,220
+...ne kadar uzak tutmaya
+Ã§alÄ±ÅŸsanda...
+
+249
+00:17:58,264 --> 00:17:59,721
+...Ã§abalarÄ±nÄ± boÅŸa Ã§Ä±karÄ±p...
+
+250
+00:17:59,765 --> 00:18:01,431
+...beni Ã¶lÃ¼mden kurtaracaktÄ±r.
+
+251
+00:18:01,475 --> 00:18:03,058
+Sadece meraktan soruyorum...
+
+252
+00:18:03,102 --> 00:18:04,423
+...bunu nasÄ±l yapacak?
+
+253
+00:18:04,428 --> 00:18:05,811
+Zerre fikrim yok.
+
+254
+00:18:07,773 --> 00:18:09,565
+Onun gÃ¼cÃ¼ndeki en ufaÄŸÄ±ndan
+en bÃ¼yÃ¼ÄŸÃ¼ne her zerresini...
+
+255
+00:18:09,608 --> 00:18:12,526
+...atlarÄ±n Ã¶nÃ¼ne yolun ortasÄ±ndan
+yÃ¼rÃ¼mekte dahil olsa...
+
+256
+00:18:12,570 --> 00:18:14,027
+..seni yavaÅŸlatmak iÃ§in nefesinin son
+anÄ±na kadar...
+
+257
+00:18:14,071 --> 00:18:17,551
+...kullanacaÄŸÄ±na eminim.
+
+258
+00:18:20,911 --> 00:18:25,372
+Siz insanlar sadece siz
+istediniz diye bu inatla...
+
+259
+00:18:25,416 --> 00:18:28,959
+..olmayacak ÅŸeyleri umma isteminiz
+beni Ã§ok etkiliyor.
+
+260
+00:18:29,003 --> 00:18:31,378
+BÃ¼tÃ¼n geÃ§erli deliller ve deneyimler
+sizin istediÄŸinizin zÄ±ttÄ±nÄ± gÃ¶stersede...
+
+261
+00:18:31,422 --> 00:18:34,798
+...dÃ¼nyanÄ±n sizin istediÄŸiniz gibi
+bir yer olmasÄ±nÄ± umuyorsunuz.
+
+262
+00:18:34,842 --> 00:18:39,720
+Bu olayÄ±n bÃ¶yle
+sonlanmayacaÄŸÄ±nÄ± umuyorum.
+
+263
+00:18:39,763 --> 00:18:40,888
+Ama seni temin ederim...
+
+264
+00:18:40,931 --> 00:18:44,391
+...dÃ¼ÅŸÃ¼ndÃ¼ÄŸÃ¼n ÅŸekilde de
+sonlanmayacak.
+
+265
+00:18:44,435 --> 00:18:47,060
+Ã‡Ã¼nkÃ¼ Ã¶nÃ¼mÃ¼zde dursa bile...
+
+266
+00:18:47,104 --> 00:18:49,187
+...hangi yolda olduÄŸumuzu
+bilmesi gerekecek.
+
+267
+00:18:49,231 --> 00:18:51,773
+RotayÄ± sakladÄ±n.
+
+268
+00:18:51,808 --> 00:18:54,401
+Bu yola karar vermeden Ã¶nce...
+
+269
+00:18:54,445 --> 00:18:57,404
+...olasÄ±lÄ±klarÄ± inceledim...
+
+270
+00:18:57,448 --> 00:18:59,740
+...ve bu yÃ¼zden sÄ±rlar ortaya
+Ã§Ä±ksa bile...
+
+271
+00:18:59,783 --> 00:19:02,242
+...bize saldÄ±rmaya hazÄ±rlanan her kim
+olursa olsun...
+
+272
+00:19:02,286 --> 00:19:05,704
+..muhtemelen yanlÄ±ÅŸ yolda olacak.
+
+273
+00:19:14,965 --> 00:19:18,008
+Emin olmalÄ±yÄ±m,
+buna hakkÄ±m var.
+
+274
+00:19:18,052 --> 00:19:20,510
+ZulayÄ± ve Ã§alÄ±nan mÃ¼cevherleri
+geri alma planÄ±...
+
+275
+00:19:20,554 --> 00:19:23,013
+...senin bu konudaki planÄ±n yani...
+
+276
+00:19:23,057 --> 00:19:25,766
+...tam da istediÄŸiniz gibi
+sonlandÄ±.
+
+277
+00:19:25,809 --> 00:19:29,019
+Ancak ÅŸimdi Bay Rackham'Ä± kurtarma
+planÄ±nÄ±n kayÄ±tlarÄ± olmasÄ±nÄ±...
+
+278
+00:19:29,063 --> 00:19:31,021
+...Ã§alÄ±nan zulanÄ±n ve mÃ¼cevherlerin
+kanÄ±tlarÄ±nÄ±n olmasÄ±nÄ±...
+
+279
+00:19:31,065 --> 00:19:34,191
+...kendi aÃ§Ä±nÄ±zdan kÃ¶tÃ¼ olarak
+deÄŸerlendiriyorsunuz.
+
+280
+00:19:34,234 --> 00:19:35,651
+SÃ¶ylemeye Ã§alÄ±ÅŸtÄ±ÄŸÄ±nÄ±z ÅŸey bu, deÄŸil mi?
+
+281
+00:19:35,686 --> 00:19:37,861
+Ä°nanmasÄ±nÄ±n gÃ¼Ã§ olduÄŸunu
+biliyorum...
+
+282
+00:19:37,905 --> 00:19:39,529
+...fakat Anne Bonny'i bu iÅŸte
+bir terslik olduÄŸunu...
+
+283
+00:19:39,573 --> 00:19:42,699
+...fark edeceÄŸi kadar iyi tanÄ±yorum.
+
+284
+00:19:42,743 --> 00:19:44,534
+DavranÄ±ÅŸlarÄ±na gÃ¶re adada Kaptan
+Flint'e denk geldiÄŸine dair...
+
+285
+00:19:44,578 --> 00:19:46,203
+...bir iÅŸaret olabilir.
+
+286
+00:19:46,246 --> 00:19:47,704
+Bir kaÃ§ saat Ã¶ncesinden...
+
+287
+00:19:47,748 --> 00:19:49,456
+...komployu ayarlamÄ±ÅŸ
+olmalÄ±lar.
+
+288
+00:19:49,500 --> 00:19:51,208
+AffÄ±nÄ±za sÄ±ÄŸÄ±narak.
+
+289
+00:19:51,251 --> 00:19:53,543
+Yani Kaptan Flint nasÄ±l olduysa
+gemisinin adayÄ± birkaÃ§ saat...
+
+290
+00:19:53,587 --> 00:19:56,213
+...Ã¶nce terk etmesine raÄŸmen
+bu komplonun iÃ§inde mi?
+
+291
+00:19:56,256 --> 00:20:00,050
+Ve ben adamlarÄ±mÄ± Nassau kasabasÄ±ndan
+Ã§ekip, Ã§ekildikleri yeri...
+
+292
+00:20:00,094 --> 00:20:01,718
+...savunmasÄ±z mÄ± bÄ±rakayÄ±m?
+
+293
+00:20:01,762 --> 00:20:03,053
+ÃœzgÃ¼nÃ¼m ama...
+
+294
+00:20:03,097 --> 00:20:05,055
+...burada art niyet mi var diyorsunuz?
+
+295
+00:20:05,099 --> 00:20:07,391
+SÃ¶ylemeye Ã§alÄ±ÅŸtÄ±ÄŸÄ±m
+ÅŸey aÃ§Ä±kÃ§a ÅŸudur ki...
+
+296
+00:20:07,434 --> 00:20:10,394
+...vali size gÃ¼vendi diye...
+
+297
+00:20:10,437 --> 00:20:12,604
+...benimde aynÄ±nÄ± yapacaÄŸÄ±m
+anlamÄ±na gelmez.
+
+298
+00:20:12,648 --> 00:20:13,730
+Durum kontrolÃ¼m altÄ±nda.
+
+299
+00:20:13,774 --> 00:20:14,855
+Ä°lginiz iÃ§in teÅŸekkÃ¼r ederim.
+
+300
+00:20:14,858 --> 00:20:16,733
+Kontrol altÄ±nda mÄ±?
+
+301
+00:20:16,777 --> 00:20:19,569
+Durumun tamamen kontrolden
+Ã§Ä±kmasÄ±ndan bahsediyorum size.
+
+302
+00:20:19,613 --> 00:20:21,814
+Lanet kulaÄŸÄ±nÄ±z beni duymuyor.
+
+303
+00:20:23,617 --> 00:20:26,910
+Valinin karavanÄ±na birisi saldÄ±rmak
+istese dahi...
+
+304
+00:20:26,954 --> 00:20:29,913
+...nerede olduÄŸunu bilemezler.
+
+305
+00:20:29,957 --> 00:20:31,415
+Rotalar Ã§oklu parÃ§alara bÃ¶lÃ¼ndÃ¼.
+
+306
+00:20:31,458 --> 00:20:32,582
+Sahte programlar daÄŸÄ±tÄ±ldÄ±.
+
+307
+00:20:32,626 --> 00:20:34,251
+HiÃ§ kimse tam olarak ne zaman
+yola Ã§Ä±ktÄ±klarÄ±nÄ± bilmiyor.
+
+308
+00:20:34,294 --> 00:20:36,254
+Kimse hangi yoldan gittiklerini
+bilemez.
+
+309
+00:20:36,296 --> 00:20:39,256
+- HiÃ§ bir kimse...
+- Ben biliyorum.
+
+310
+00:20:39,299 --> 00:20:40,465
+RotayÄ± biliyorum.
+
+311
+00:20:40,509 --> 00:20:42,759
+Ã‡alÄ±ÅŸanÄ±m bir Ã§ocuk dÃ¼n gece bir
+casusun izini...
+
+312
+00:20:42,803 --> 00:20:44,845
+...kuzeydeki yola kadar takip etmiÅŸ.
+
+313
+00:20:44,888 --> 00:20:47,347
+Ã–yle mi,
+deÄŸil mi?
+
+314
+00:20:49,476 --> 00:20:51,268
+Tahminimce rotalarÄ± Ã¶nceden tuzak
+var mÄ± diye kontrol etmesi...
+
+315
+00:20:51,311 --> 00:20:52,686
+...iÃ§in adam gÃ¶ndermediniz?
+
+316
+00:20:54,815 --> 00:20:57,691
+Ã‡alÄ±ÅŸanÄ±nÄ±z olan oÄŸlanÄ±n size
+sÃ¶yeldiklerini hiÃ§ biri ile paylaÅŸtÄ±nÄ±z mÄ±?
+
+317
+00:20:57,735 --> 00:21:00,277
+- HayÄ±r.
+- Ã‡alÄ±ÅŸanÄ±nÄ±z olan Ã§ocuk bilgiyi...
+
+318
+00:21:00,320 --> 00:21:03,113
+...para karÅŸÄ±lÄ±ÄŸÄ± sizden
+habersiz satar mÄ±?
+
+319
+00:21:03,157 --> 00:21:05,949
+- HayÄ±r.
+- Ä°yi.
+
+320
+00:21:05,993 --> 00:21:08,118
+O zaman endiÅŸlenecek hiÃ§bir ÅŸeyimiz yok.
+
+321
+00:21:08,162 --> 00:21:09,261
+HanÄ±mlar.
+
+322
+00:21:23,894 --> 00:21:26,053
+Gururunu sikeyim.
+
+323
+00:21:26,096 --> 00:21:28,096
+EÄŸer ben kendiminkini hiÃ§e
+sayÄ±p burada dikiliyorsam...
+
+324
+00:21:28,131 --> 00:21:30,211
+...sende aynÄ±nÄ± yapÄ±p dinleyeceksin.
+
+325
+00:21:33,303 --> 00:21:37,105
+Ã‡Ã¼nkÃ¼ eÄŸer sen ve ben ÅŸuan iÃ§in birlikte
+Ã§alÄ±ÅŸmanÄ±n bir yolunu bulamazsak...
+
+326
+00:21:37,140 --> 00:21:39,107
+...belki de herÅŸey yok olacak.
+
+327
+00:21:43,146 --> 00:21:45,113
+KaÃ§ kiÅŸi bundan haberdar?
+
+328
+00:21:45,148 --> 00:21:47,783
+Sadece bu odadakiler.
+
+329
+00:21:47,818 --> 00:21:48,884
+1 saatten kÄ±sa bir sÃ¼re iÃ§inde...
+
+330
+00:21:48,919 --> 00:21:50,786
+Binlerce insanÄ±n hayatÄ±nÄ±n baÄŸlÄ±
+olduÄŸu hazineyi almak...
+
+331
+00:21:50,821 --> 00:21:53,455
+...ve kaptanÄ±mÄ±zÄ± kurtarmak iÃ§in...
+
+332
+00:21:53,490 --> 00:21:56,792
+...bu gemiyi kÄ±yÄ±ya yanaÅŸtÄ±rmam gerekiyor.
+
+333
+00:21:56,827 --> 00:21:58,627
+Ama ÅŸimdi Bay Dobbs sinirlerine
+hakim olamadÄ± diye..
+
+334
+00:21:58,662 --> 00:22:01,505
+...herÅŸey yanÄ±p kÃ¼l olacak.
+
+335
+00:22:03,333 --> 00:22:06,301
+OlmasÄ±na gerek yok.
+
+336
+00:22:06,336 --> 00:22:08,303
+HayÄ±r.
+
+337
+00:22:08,338 --> 00:22:09,638
+EÄŸer Ã§Ä±kmasÄ±na izin verirsek...
+
+338
+00:22:09,673 --> 00:22:10,889
+...diÄŸerlerine olanlarÄ±...
+
+339
+00:22:10,933 --> 00:22:11,990
+...anlatacak ve savaÅŸ Ã§Ä±kacak.
+
+340
+00:22:12,034 --> 00:22:13,391
+AnlÄ±yorum...
+
+341
+00:22:13,435 --> 00:22:14,476
+...ama buna cevabÄ±mÄ±z...
+
+342
+00:22:14,520 --> 00:22:15,769
+...Dobbs'un baÅŸladÄ±ÄŸÄ± iÅŸi...
+
+343
+00:22:15,813 --> 00:22:16,853
+...bitirip onu Ã¶ldÃ¼rmek olmayacak.
+
+344
+00:22:20,776 --> 00:22:22,901
+Pekala.
+
+345
+00:22:22,945 --> 00:22:24,736
+O zaman eline bir bÄ±Ã§ak verip...
+
+346
+00:22:24,780 --> 00:22:26,905
+...Ã¶cÃ¼nÃ¼ almasÄ±nÄ± saÄŸlayalÄ±m.
+
+347
+00:22:26,949 --> 00:22:28,573
+Bir tÃ¼rlÃ¼ anlayamadÄ±ÄŸÄ±m sebeplerden...
+
+348
+00:22:28,617 --> 00:22:31,076
+...Bay Dobbs'un tayfa iÃ§inde dostlarÄ± var.
+
+349
+00:22:31,120 --> 00:22:32,840
+KaybolduÄŸunu onlara nasÄ±l aÃ§Ä±klayacaÄŸÄ±z?
+
+350
+00:22:35,791 --> 00:22:38,416
+Bu olay duyulacak...
+
+351
+00:22:38,460 --> 00:22:40,919
+...duyulduÄŸunda da kÄ±yamet kopacak.
+
+352
+00:22:43,298 --> 00:22:45,132
+Ne yapacaÄŸÄ±z?
+
+353
+00:23:07,823 --> 00:23:09,781
+Sorumlu olan adam bu.
+
+354
+00:23:09,825 --> 00:23:11,658
+Sadece o.
+
+355
+00:23:14,079 --> 00:23:17,414
+BÃ¼tÃ¼n tayfaya birlikte aÃ§Ä±lmayÄ±
+Ã¶neriyorum.
+
+356
+00:23:17,457 --> 00:23:21,376
+Bu adam da suÃ§unun cezasÄ±nÄ±...
+
+357
+00:23:21,420 --> 00:23:23,336
+...hÄ±zlÄ± ve aÄŸÄ±r ÅŸekilde alacak.
+
+358
+00:23:54,119 --> 00:23:55,619
+Bir bÄ±Ã§ak alabilir miyim,lÃ¼tfen?
+
+359
+00:24:49,132 --> 00:24:51,452
+Bir dakika bekle.Dur.
+
+360
+00:24:52,469 --> 00:24:54,594
+Ne sÃ¶yleyeceÄŸini bilmeden...
+
+361
+00:24:54,638 --> 00:24:57,264
+...kimsenin buradan Ã§Ä±kmasÄ±na izin veremem.
+
+362
+00:24:57,307 --> 00:24:59,099
+HiÃ§ bir ÅŸey sÃ¶ylemeyecek.
+
+363
+00:24:59,142 --> 00:25:00,433
+Bir ÅŸeyler sÃ¶ylemeli.
+
+364
+00:25:02,479 --> 00:25:06,106
+Bana karÅŸÄ± kabaca konuÅŸtuÄŸunu...
+
+365
+00:25:06,149 --> 00:25:07,941
+...Kofi'nin de tepki
+verdiÄŸini sÃ¶yleyecek...
+
+366
+00:25:07,985 --> 00:25:10,151
+...ve bir daha bundan bahsedilmeyecek.
+
+367
+00:25:11,571 --> 00:25:13,530
+Bu kadar kolayca.
+
+368
+00:25:13,573 --> 00:25:15,782
+Evet.Åimdi bÄ±rakÄ±n gitsin.
+
+369
+00:25:31,591 --> 00:25:32,882
+EÄŸer bir ÅŸey sÃ¶ylerse...
+
+370
+00:25:32,926 --> 00:25:36,803
+Ben konuÅŸtuÄŸumda,
+adamlarÄ±m dinler...
+
+371
+00:25:36,847 --> 00:25:38,471
+...ve dediÄŸimi yaparlar.
+
+372
+00:25:55,115 --> 00:25:58,074
+Gizli bir karavan Rackham'Ä±
+gizli bir gemiye gÃ¶tÃ¼recek...
+
+373
+00:25:58,118 --> 00:25:59,784
+...ve bunu sende baÅŸka kimse bilmiyor.
+
+374
+00:25:59,828 --> 00:26:02,245
+Ben, Vali, kabinesi...
+
+375
+00:26:02,289 --> 00:26:05,248
+...ve sekiz atlÄ± asker,levazÄ±m subayÄ±,
+araba sÃ¼rÃ¼cÃ¼sÃ¼...
+
 376
-00:28:42,373 --> 00:28:45,124
-Affet beni.
+00:26:05,292 --> 00:26:08,212
+...senin dÄ±ÅŸÄ±nda pek Ã§ok kiÅŸi biliyor.
 
 377
-00:29:04,562 --> 00:29:06,529
-Herkes anladı mı?
+00:26:09,296 --> 00:26:11,046
+Bu gizli karavana bir saldÄ±rÄ±...
 
 378
-00:29:11,569 --> 00:29:13,452
-Söyleyecek bir şeyi olan var mı?
+00:26:11,081 --> 00:26:12,672
+...dÃ¼zenleneceÄŸini dÃ¼ÅŸÃ¼nÃ¼yorsun...
 
 379
-00:29:28,086 --> 00:29:31,253
-Eğer yapılması gerekeni
-yapacak kadar kuvvetli değilsen...
+00:26:12,716 --> 00:26:15,550
+...bu olaya bir ÅŸekilde
+Kaptan Flint de dahil...
 
 380
-00:29:33,174 --> 00:29:34,590
-...ben senin yerine yaparım.
+00:26:15,585 --> 00:26:18,595
+...ki herkes onun saatler Ã¶nce
+denize aÃ§Ä±ldÄ±ÄŸÄ±nÄ± gÃ¶rdÃ¼.
 
 381
-00:32:15,586 --> 00:32:17,887
-Bu ne böyle?
+00:26:18,638 --> 00:26:21,389
+TanrÄ±m!
+Hazine muhafÄ±zÄ± bunu gÃ¶rmezden gelebilir.
 
 382
-00:32:17,922 --> 00:32:19,305
-Terazi.
+00:26:21,424 --> 00:26:24,726
+Beni, Bonny'yi ya da Flint'i tanÄ±mÄ±yor.
 
 383
-00:32:19,340 --> 00:32:20,673
-Tamam da neden burada?
+00:26:24,761 --> 00:26:28,563
+EÄŸer bu konuda haklÄ± Ã§Ä±karsam
+o bir aptal gibi gÃ¶rÃ¼necek...
 
 384
-00:32:23,144 --> 00:32:25,610
-Daha da uzatmanın lüzumu yok.
+00:26:28,598 --> 00:26:30,774
+...ama olaya karÄ±ÅŸanlarÄ± tanÄ±mamasÄ±
+onun iÃ§in bir savunma olabilir.
 
 385
-00:32:26,597 --> 00:32:30,399
-Başka tüccarlar başka takas olmayacak.
+00:26:30,817 --> 00:26:32,567
+Ama sen beni dinlemezsen...
 
 386
-00:32:30,434 --> 00:32:32,154
-Er ya da geç donanma üzerimize saldıracak.
+00:26:32,602 --> 00:26:35,403
+...bahane bulmak Ã§ok daha zor olacak.
 
 387
-00:32:34,272 --> 00:32:38,274
-Er ya da geç ayrı yollara gitme
-zamanımız gelecek.
+00:26:35,438 --> 00:26:38,907
+Walrus'un ayrÄ±lmasÄ±nÄ± izledim.
 
 388
-00:32:38,326 --> 00:32:42,661
-Önceden paylarımızı eşit
-hazırlamak akıllıca olur.
+00:26:38,942 --> 00:26:41,076
+DÃ¼rbÃ¼nle bir adamÄ±ma
+onu izlemesini sÃ¶yledim...
 
 389
-00:32:44,782 --> 00:32:46,282
-Sebebini söyle.
+00:26:41,111 --> 00:26:43,328
+...ufka doÄŸru gidip kaybolmasÄ±nÄ± izledi.
 
 390
-00:32:49,086 --> 00:32:50,744
-Bunu konuşmuştuk.
+00:26:43,372 --> 00:26:44,662
+Ne var biliyor musun?
+Bunun iÃ§in vaktim yok.
 
 391
-00:32:50,796 --> 00:32:54,623
-Hayır, neden burada seninle
-kalmamam gerektiğini söylemiştin.
+00:26:44,706 --> 00:26:46,956
+Ama bir Ä±ÅŸÄ±k parÄ±ltÄ±sÄ± var.
 
 392
-00:32:54,675 --> 00:32:56,689
-Ama neden benimle gelmediğini söylemedin.
+00:26:50,003 --> 00:26:51,263
+Ne?
 
 393
-00:32:58,259 --> 00:33:01,859
-Eğer kaybedersek,
-burayı terk etmemiz gerekirse...
+00:26:51,304 --> 00:26:52,764
+Walrus'un ufukta kaybolduÄŸu noktaya...
 
 394
-00:33:02,794 --> 00:33:04,633
-...neden kalmak istiyorsun?
+00:26:52,789 --> 00:26:54,055
+...bakmasÄ± iÃ§in...
 
 395
-00:33:04,685 --> 00:33:09,138
-Sahildeki şişman domuzun saygı duyulan biri
-olduğu dünyada neden yaşamak isteyesin?
+00:26:54,390 --> 00:26:55,924
+bir adamÄ±m vardÄ±.
 
 396
-00:33:11,142 --> 00:33:13,025
-Evlatlarının öyle olmasını isteyen
-bir dünyada?
+00:26:55,959 --> 00:26:57,425
+Ve yaklaÅŸÄ±k her 15 dakika da bir...
 
 397
-00:33:19,150 --> 00:33:21,200
-Ben çok küçükken...
+00:26:57,460 --> 00:26:58,927
+...bir Ä±ÅŸÄ±k parÄ±ltÄ±sÄ± gÃ¶rdÃ¼ÄŸÃ¼nÃ¼...
 
 398
-00:33:21,235 --> 00:33:24,320
-...kölelerin kaldığı yerden kaçıp
-ana haneye girerdim.
+00:26:58,962 --> 00:27:00,303
+...sÃ¶yledi.
 
 399
-00:33:27,124 --> 00:33:29,158
-Salonun penceresinin dışında dururdum.
+00:27:00,347 --> 00:27:02,597
+Bu da ne demek?
 
 400
-00:33:31,662 --> 00:33:35,285
-Sıcağın, böceklerin arasında...
+00:27:02,632 --> 00:27:04,766
+HiÃ§ bir anlamÄ± olmayabilir.
 
 401
-00:33:35,378 --> 00:33:37,750
-...ayaklarımdaki çamurla
-içeriyi izlerdim.
+00:27:04,801 --> 00:27:07,727
+Denizden yansÄ±yan
+rastgele bir parÄ±ltÄ± olabilir.
 
 402
-00:33:40,671 --> 00:33:44,620
-O evin içinde benim yaşlarımda
-küçük bir kız vardı.
+00:27:07,771 --> 00:27:12,399
+Ya da gemi direÄŸindeki bir dÃ¼rbÃ¼nden
+yansÄ±yor da olabilir...
 
 403
-00:33:46,510 --> 00:33:48,594
-En güzel cilde sahip.
+00:27:12,901 --> 00:27:14,067
+...yelkenleri toplu bir gemi...
 
 404
-00:33:51,232 --> 00:33:55,128
-Babası müzik çalıp annesi dikiş dikerken
-raks etmesini izlerdim.
+00:27:14,111 --> 00:27:17,946
+...gÃ¶rÃ¼nmeden sessizce geri dÃ¶nmek iÃ§in
+bir iÅŸaret bekliyor olabilir.
 
 405
-00:33:58,522 --> 00:34:02,024
-Okumasını, yemek yemesini...
+00:27:20,075 --> 00:27:21,199
+Onu yendim...
 
 406
-00:34:02,076 --> 00:34:05,245
-...şarkı söylemesini, uyumasını...
+00:27:21,243 --> 00:27:22,867
+...sonra da Ã¶lÃ¼mden
+geri dÃ¶nmesini izledim...
 
 407
-00:34:07,081 --> 00:34:11,081
-...babasının onu sıcak ve
-güvende tutmasını izlerdim.
+00:27:22,911 --> 00:27:25,703
+...zaferimi elimden almasÄ±nÄ±...
 
 408
-00:34:14,672 --> 00:34:16,956
-Benim babamın.
+00:27:25,747 --> 00:27:27,205
+...ortaÄŸÄ±nÄ±n, benimkini Ã¶ldÃ¼rmesini...
 
 409
-00:34:21,128 --> 00:34:25,047
-O odayı mümkün kılmak
-korkunç şeylere mal olmuştu.
+00:27:27,249 --> 00:27:30,208
+...ve hakareti arttÄ±rmasÄ±nÄ±.
 
 410
-00:34:25,349 --> 00:34:28,077
-Ama o odanın içinde huzur vardı.
+00:27:30,252 --> 00:27:31,876
+Seninle bir geÃ§miÅŸimiz var...
 
 411
-00:34:30,304 --> 00:34:31,937
-Benim için ev bu demektir.
+00:27:31,920 --> 00:27:33,711
+...ama Flint'le aramÄ±zda
+Ã§Ã¶zÃ¼lmemiÅŸ...
 
 412
-00:34:34,475 --> 00:34:37,614
-İkimiz birlikteyken
-sen beni seçmedin.
+00:27:33,755 --> 00:27:35,964
+...Ã§ok daha ciddi iÅŸler var.
 
 413
-00:34:38,696 --> 00:34:42,496
-İçindeki bir şey bu seçimin olması sağladı.
+00:27:47,602 --> 00:27:50,645
+Babam, Leeds'de bir terziydi.
 
 414
-00:34:43,117 --> 00:34:46,902
-Bu yüzden bunun da benim için
-seçim olmadığını anlıyorsun.
+00:27:54,484 --> 00:27:56,568
+Onun babasÄ± da Ã¶yle...
 
 415
-00:34:49,373 --> 00:34:53,373
-Yollarımız ayrılacak.
+00:27:56,611 --> 00:27:58,903
+...ve babasÄ±nÄ±n babasÄ± da.
 
 416
-00:34:57,164 --> 00:34:59,999
-Bunu şimdi yapalım da
-sonra korkusunu yaşamayalım.
+00:27:58,947 --> 00:28:01,239
+ZamanÄ±nda,Avondale Road'da kime
+Kuzey Ä°ngiltere'deki...
 
 417
-00:35:12,013 --> 00:35:14,596
-Evet.
+00:28:01,283 --> 00:28:03,575
+...en iyi elbiseleri
+nerede bulabileceÄŸini sorsan...
 
 418
-00:35:52,019 --> 00:35:54,436
-Kalmalısın...
+00:28:03,618 --> 00:28:06,035
+...Rackham adÄ±ndaki adamÄ±n
+dÃ¼kkanÄ±nÄ± gÃ¶sterirlerdi.
 
 419
-00:35:54,472 --> 00:35:56,472
-Eşit şekilde bölündüğünü görmen için.
+00:28:06,079 --> 00:28:08,913
+Sonra bir gÃ¼n
+yÃ¼n satan adam...
 
 420
-00:35:58,859 --> 00:36:01,310
-Sana güveniyorum.
+00:28:08,957 --> 00:28:10,248
+...pamuk ithal eden adamla...
 
 421
-00:36:27,252 --> 00:36:28,368
-Belki haklısındır.
+00:28:10,292 --> 00:28:11,958
+...rekabet etmek istemediÄŸine
+karar verdi...
 
 422
-00:36:31,509 --> 00:36:34,009
-Belki bu durumda bizim için tehlikelidir.
+00:28:12,002 --> 00:28:13,501
+YÃ¼n satan adam,yasa yapanlarÄ±...
 
 423
-00:36:36,347 --> 00:36:38,564
-Belki de tayfayı parçalamadan...
+00:28:13,545 --> 00:28:16,504
+...tanÄ±dÄ±ÄŸÄ± iÃ§in...
 
 424
-00:36:38,599 --> 00:36:42,599
-...onu durdurmamızın bir yolu yoktur.
+00:28:16,548 --> 00:28:19,841
+...gelirini arttÄ±rmak iÃ§in
+bir ambargo Ã§Ä±kartÄ±ldÄ±...
 
 425
-00:36:42,770 --> 00:36:46,770
-Ama tayfadan bir masum insanı
-daha öldürürse...
+00:28:19,885 --> 00:28:21,634
+...ve pamuklu kumaÅŸlar yok oldu.
 
 426
-00:36:47,358 --> 00:36:50,826
-...cevap vermek için
-ya da kalkışırsa...
+00:28:21,678 --> 00:28:23,845
+Ve babamÄ±n iÅŸi de...
 
 427
-00:36:54,599 --> 00:36:56,171
-...bir şeyler yapacağım.
+00:28:23,889 --> 00:28:26,347
+...babasÄ±ndan miras aldÄ±ÄŸÄ± hani...
 
 428
-00:36:59,870 --> 00:37:03,288
-O yüzden durumu
-kontrol altına almanı öneririm.
+00:28:26,391 --> 00:28:27,599
+...ve onunda babasÄ±nÄ±n babasÄ±ndan kalan...
 
 429
-00:37:03,340 --> 00:37:05,413
-Bu olmadan önce.
+00:28:27,642 --> 00:28:30,143
+...yavaÅŸÃ§a yok oldu.
 
 430
-00:37:09,713 --> 00:37:12,381
-Sana söyledim
-Bir yol göremiyorum.
+00:28:32,230 --> 00:28:35,857
+Babam da oÄŸlunun gÃ¶zleri Ã¶nÃ¼n de...
 
 431
-00:37:12,433 --> 00:37:15,805
-Gates yolunu buldu.
+00:28:35,901 --> 00:28:39,027
+...mali baÅŸarÄ±sÄ±zlÄ±ÄŸÄ±n
+utancÄ±yla acÄ± Ã§eker..
 
 432
-00:37:15,886 --> 00:37:19,217
-Barlow'lu kadın bir yolunu buldu.
-Onları dinledi.
+00:28:39,070 --> 00:28:41,070
+ve kendini iÃ§kiye verir.
 
 433
-00:37:20,441 --> 00:37:23,679
-Onlar dediklerinde planlarını değiştirdi.
-Mümkün.
+00:28:43,074 --> 00:28:45,867
+Pazar ayinlerinde Ã§ocuk halimle
+onun yanÄ±nda oturur...
 
 434
-00:37:25,007 --> 00:37:29,007
-Aradaki fark onları denk olarak gördü.
+00:28:45,911 --> 00:28:50,538
+mihraptaki vaize
+baÄŸÄ±rmasÄ±nÄ± dinlerdim...
 
 435
-00:37:30,951 --> 00:37:34,951
-Onlara saygısı vardı o yüzden
-dinlemeye istekliydi.
+00:28:50,582 --> 00:28:51,706
+...artÄ±k kim dinlerse...
 
 436
-00:37:38,656 --> 00:37:40,790
-Sen de aynını yapmak için
-bir yol bulmalısın.
+00:28:51,750 --> 00:28:54,709
+...adaletsizlikten bahsederdi.
 
 437
-00:37:45,082 --> 00:37:47,299
-O iki insan da sonunda öldü.
+00:28:54,753 --> 00:28:59,214
+Hakaretler baÅŸlayÄ±nca da kolunu
+omzuma koyup...
 
 438
-00:38:57,988 --> 00:38:59,093
-Thomas'ı kaybettiğimde...
+00:28:59,257 --> 00:29:00,882
+...onu kiliseden dÄ±ÅŸarÄ± taÅŸÄ±rdÄ±m.
 
 439
-00:39:00,991 --> 00:39:06,218
-...öfkeden kudurdum.
-Perişan oldum.
+00:29:00,926 --> 00:29:02,926
+TanrÄ±m,o hakaretler.
 
 440
-00:39:06,270 --> 00:39:08,312
-Gözyaşı döktüm.
+00:29:04,596 --> 00:29:06,888
+Cenazesinde, komÅŸularÄ±mÄ±z o hakaretleri...
 
 441
-00:39:10,000 --> 00:39:12,569
-Ama seninleyken...
+00:29:06,932 --> 00:29:10,058
+...baÄŸÄ±rmak yerine
+fÄ±sÄ±ldayacak kadar kibarlardÄ±.
 
 442
-00:39:13,003 --> 00:39:15,420
-Senden sonra mahvoldum.
+00:29:10,101 --> 00:29:12,185
+Ben de iÅŸe koyuldum...
 
 443
-00:39:24,481 --> 00:39:26,787
-İlk tanıştığımızda o kadar...
+00:29:12,229 --> 00:29:15,188
+...bizden alÄ±nanÄ±
+yeniden inÅŸa etmeye kararlÄ±ydÄ±m.
 
 444
-00:39:28,736 --> 00:39:30,639
-...biçimsizdin ki.
+00:29:15,232 --> 00:29:17,552
+13 yaÅŸÄ±ndaydÄ±m ve kararlÄ±ydÄ±m...
 
 445
-00:39:32,366 --> 00:39:36,366
-Sonra seninle konuşup utancını
-bir kenara bırakmanı söylediğimde...
+00:29:19,736 --> 00:29:22,529
+...ta ki bir adam kapÄ±ma gelip...
 
 446
-00:39:37,361 --> 00:39:40,779
-...Kaptan Flint bu dünyaya geldi.
+00:29:22,572 --> 00:29:25,865
+...elinde babama ait borÃ§lar olduÄŸunu
+iddia edene kadar.
 
 447
-00:39:40,831 --> 00:39:46,367
-Her zaman var olan ama asla
-izin vermediğin parça gün yüzüne çıktı.
+00:29:25,909 --> 00:29:27,867
+Babam iÃ§tikÃ§e borÃ§lar birikmiÅŸti.
 
 448
-00:39:47,421 --> 00:39:50,240
-Aşka ihtiyacın olduğunda
-metresin oldum.
+00:29:27,911 --> 00:29:31,037
+BorÃ§larÄ±n artÄ±k bana ait olduÄŸunu
+sÃ¶ylÃ¼yordu.
 
 449
-00:39:52,426 --> 00:39:55,625
-Anlayışa ihtiyacın olduğunda
-karın oldum.
+00:29:31,081 --> 00:29:34,874
+O borÃ§larÄ± geri Ã¶demem mÃ¼mkÃ¼n deÄŸildi.
 
 450
-00:39:57,264 --> 00:39:59,514
-Ama hepsinde önce...
+00:29:34,918 --> 00:29:38,211
+O borÃ§lar yÃ¼zÃ¼nden adam beni
+hapsetmeye hazÄ±rdÄ±...
 
 451
-00:40:01,552 --> 00:40:03,157
-Bir anneydim.
+00:29:38,255 --> 00:29:40,713
+...aÄŸÄ±r iÅŸlerde Ã§alÄ±ÅŸarak,borÃ§larÄ±mdan...
 
 452
-00:40:13,113 --> 00:40:15,376
-Seni kimsenin bilmediği şekilde tanıdım.
+00:29:40,757 --> 00:29:42,715
+...kurtulacaÄŸÄ±m bir yerde.
 
 453
-00:40:16,317 --> 00:40:19,368
-O yüzden seni kimsenin
-sevemeyeceği gibi sevdim.
+00:29:42,759 --> 00:29:45,718
+MaaÅŸ olmadan aÄŸÄ±r iÅŸÃ§ilik...
 
 454
-00:40:22,239 --> 00:40:24,491
-Sana rehberlik edeceğim...
+00:29:45,762 --> 00:29:47,887
+...hem de...
 
 455
-00:40:25,826 --> 00:40:29,067
-...ama bittiğinde beni bırakmalısın.
+00:29:47,931 --> 00:29:50,807
+...kumaÅŸ Ã¼retimin de.
 
 456
-00:40:30,407 --> 00:40:33,877
-Sonunda seni kurtaracak
-huzuru bulacaksın.
+00:29:55,438 --> 00:29:59,899
+"Sizler,dÃ¼nyayÄ± olduÄŸu gibi
+kabul edemiyorsunuz."
 
 457
-00:40:34,471 --> 00:40:37,598
-Ve sonunda görmeyi reddettiğin
-cevap yatıyor.
+00:30:01,194 --> 00:30:04,654
+Bunu diyen de dÃ¼nyanÄ±n Ã¶nÃ¼ne
+her ÅŸeyi sunduÄŸu bir kiÅŸi.
 
 458
-00:41:02,446 --> 00:41:06,114
-Ne kadar büyük olduğunu söylemek zor.
-Su üstünde pek bir şey yok.
+00:30:06,616 --> 00:30:08,741
+Anne gelmezse,beni kurtarmazlarsa,
 
 459
-00:41:06,116 --> 00:41:09,785
-Ama gördüğümüzden beri kıpırdamadı.
-Neredeyse ölü sayılır.
+00:30:08,785 --> 00:30:11,244
+...bu benim yenilgim olursa,
+ÅŸunu unutma...
 
 460
-00:41:09,787 --> 00:41:12,287
-Balina cesedi.
+00:30:11,288 --> 00:30:15,248
+...sen ve ben sonuna kadar
+bu yarÄ±ÅŸta kafa kafayaydÄ±k...
 
 461
-00:41:12,339 --> 00:41:17,459
-Bu bir haftalık su demek.
-Üç katı kadar da besin.
+00:30:15,292 --> 00:30:19,752
+...ama TanrÄ±m,seni yakalamak iÃ§in
+ne kadar da yol geldim Ã¶yle.
 
 462
-00:41:19,296 --> 00:41:22,848
-Çürüdüklerinde su yüzüne çıkarlar.
-Çürüdükten sonra.
+00:30:20,463 --> 00:30:23,256
+DÃ¼nyanÄ±n bana karÅŸÄ±
+nazik olduÄŸunu mu sanÄ±yorsun?
 
 463
-00:41:27,638 --> 00:41:32,140
-- Filikayı hazırlayın.
-- Boşuna enerji kaybı.
+00:30:23,300 --> 00:30:25,341
+Sende daha zayÄ±f olduÄŸuma?
 
 464
-00:41:32,142 --> 00:41:34,476
-Filikayı hazırlayın.
+00:30:25,385 --> 00:30:26,926
+Bu kadar ÅŸanslÄ± olduÄŸuma?
 
 465
-00:41:42,119 --> 00:41:47,406
-Görmeye kendim gideceğim.
-Fazlaca şey tehlikede.
+00:30:26,970 --> 00:30:30,290
+VarlÄ±klÄ± aile,
+babanÄ±n nakliye iÅŸi sana miras kaldÄ±...
 
 466
-00:41:47,458 --> 00:41:49,157
-Kendi başına mı kürek çekeceksin?
+00:30:30,307 --> 00:30:33,016
+...zengin biriyle evlendin..
+KitabÄ±nÄ± okumuÅŸtum.
 
 467
-00:41:52,413 --> 00:41:57,966
-Birkaç gündür tam pay alan
-iki adamdan birisiyim.
+00:30:33,059 --> 00:30:35,602
+Kitapta bahsedilmeyen ÅŸeyler de var.
 
 468
-00:41:58,001 --> 00:42:02,001
-Sen de diğerisin.
-Hadi gidelim.
+00:30:35,645 --> 00:30:38,104
+EÄŸer kibar toplum insanlarÄ±
+bunlarÄ± duyarsa...
 
 469
-00:42:32,086 --> 00:42:33,835
-Senden çaldım.
+00:30:38,148 --> 00:30:41,107
+...zorda kalÄ±nca neler yapabileceÄŸini...
 
 470
-00:42:34,362 --> 00:42:35,420
-Neyi?
+00:30:41,151 --> 00:30:43,359
+...seni yemeklere Ã§aÄŸÄ±rmaktan
+vazgeÃ§ebilirler diye.
 
 471
-00:42:38,125 --> 00:42:39,674
-Urca altınını.
+00:30:45,322 --> 00:30:49,866
+Benim hakkÄ±mda tÃ¼m bildiÄŸin,
+benim bilmeni istediÄŸim kadar.
 
 472
-00:42:46,266 --> 00:42:50,118
-İspanyalıların aldığı hakkında
-aldatıldığımızı söylemiştim.
+00:30:54,331 --> 00:30:56,122
+AtlÄ±lar!
 
 473
-00:42:51,105 --> 00:42:52,996
-Tam doğru sayılmazdı.
+00:30:56,166 --> 00:30:57,707
+AtlÄ±lar yaklaÅŸÄ±yor!
 
 474
-00:42:54,475 --> 00:42:55,557
-Sen aldatıldın.
+00:30:57,751 --> 00:30:59,375
+Valiyi koruyun!
 
 475
-00:42:57,978 --> 00:42:59,394
-Bir yalan kurdum.
+00:31:02,172 --> 00:31:04,130
+Kaptan,geride kalÄ±p meÅŸgul edin!
 
 476
-00:43:03,033 --> 00:43:06,379
-Gözcüleri safıma çektim bilginin
-Kaptan Rackham'a satılmasını ayarladım.
+00:31:04,174 --> 00:31:06,015
+Sol tarafÄ± koruyun!
+Geri Ã§ekilin!
 
 477
-00:43:09,873 --> 00:43:11,540
-Hepsini tasarladım.
+00:31:20,607 --> 00:31:22,565
+YaklaÅŸÄ±yorlar,efendim!
 
 478
-00:43:14,211 --> 00:43:19,414
-Tayfaya sana yetişemeyecek kadar
-kötü olduklarını söylüyordun.
+00:31:25,945 --> 00:31:27,904
+Valiyi koruyun!
 
 479
-00:43:20,968 --> 00:43:24,396
-Bazıları senden daha zayıf olabilir,
-bazıları akılsız olabilir.
+00:31:27,947 --> 00:31:30,323
+Daha hÄ±zlÄ±!
+AtlarÄ± dÃ¼ÅŸÃ¼nme!
 
 480
-00:43:25,422 --> 00:43:28,148
-Ama bu tanıma uyduğumu
-bir an bile düşünme.
+00:31:32,619 --> 00:31:33,660
+Tabanca!
 
 481
-00:43:29,810 --> 00:43:32,614
-Burada ne olursa olsun
-bir şey kesin.
+00:31:35,121 --> 00:31:37,121
+AteÅŸ etme.
+YaklaÅŸmalarÄ±nÄ± bekle.
 
 482
-00:43:33,931 --> 00:43:36,097
-Bana hesap vereceksin.
+00:31:37,165 --> 00:31:39,332
+Efendim!
 
 483
-00:43:39,603 --> 00:43:41,593
-Neden bana bunu anlatıyorsun?
+00:31:39,376 --> 00:31:41,125
+NiÅŸan al!
 
 484
-00:43:42,156 --> 00:43:44,550
-Böylece karar verebilirsin...
+00:31:44,881 --> 00:31:46,589
+Ah!
 
 485
-00:43:45,943 --> 00:43:49,255
-...benimle dövüşmeye belki öldürüp...
+00:31:49,469 --> 00:31:52,595
+Aah!
 
 486
-00:43:49,256 --> 00:43:52,567
-...gemiye tek başına dönmek için
-plan yaparsın.
+00:33:21,344 --> 00:33:23,519
+Ah.
 
 487
-00:43:53,417 --> 00:43:58,620
-Ya da rakip olmaktansa ortak olarak
-daha iyi olacağımızı kabul edersin.
+00:33:37,693 --> 00:33:38,993
+Gitmemiz gerek,hemen.
 
 488
-00:44:00,257 --> 00:44:02,958
-Hepsini sen mi tasarladın?
+00:33:39,037 --> 00:33:42,330
+- Git!
+- Git mi?
 
 489
-00:44:03,060 --> 00:44:08,997
-Yalan hikayeyi, iskeledeki oyunu.
-Gözcülerin dönmesini bekleyip?
+00:33:42,365 --> 00:33:43,431
+SandÄ±ÄŸÄ± kumsala gÃ¶tÃ¼r.
 
 490
-00:44:11,301 --> 00:44:12,851
-Evet.
+00:33:43,466 --> 00:33:45,291
+PeÅŸinden geleceÄŸiz.
 
 491
-00:44:27,317 --> 00:44:29,901
-Kendi payınla ne yaptın?
+00:33:45,335 --> 00:33:46,392
+PeÅŸimizden mi?
 
 492
-00:44:33,323 --> 00:44:35,890
-Hakkımdan vazgeçtim.
+00:33:46,536 --> 00:33:48,252
+Evet.
 
 493
-00:44:38,996 --> 00:44:40,829
-Neden bunu yaptın?
+00:33:52,041 --> 00:33:54,202
+Nassau ile iÅŸinin bittiÄŸini
+sÃ¶ylediÄŸini sanÄ±yordum.
 
 494
-00:44:44,835 --> 00:44:48,503
-Çünkü hem payımı alıp
-hem de tayfanın parçası olamazdım.
+00:33:55,345 --> 00:33:57,303
+Ben olmadan
+kaybolursunuz diye endiÅŸelendim.
 
 495
-00:44:51,308 --> 00:44:53,411
-Bu adamlar olmadan...
+00:33:57,347 --> 00:34:00,181
+Bu konuda yanÄ±ldÄ±ÄŸÄ±ma sevindim.
 
 496
-00:44:55,145 --> 00:44:57,479
-...ben önemsiz biriyim.
+00:34:03,269 --> 00:34:07,230
+Teach ne oldu?
+Karar deÄŸiÅŸikliÄŸini nasÄ±l karÅŸÄ±ladÄ±?
 
 497
-00:45:26,510 --> 00:45:29,544
-Tanrım.
+00:34:07,273 --> 00:34:08,689
+Bilmiyorum.
 
 498
-00:45:29,596 --> 00:45:32,881
-Kokuyor.
+00:34:08,724 --> 00:34:11,400
+EÄŸer onu gÃ¶rÃ¼rsen,
+kendin sorabilirsin sanÄ±rÄ±m.
 
 499
-00:45:36,687 --> 00:45:40,722
-Çok zaman olmuş.
-Bunu yiyemeyiz.
+00:34:33,216 --> 00:34:34,340
+Bak.
 
 500
-00:45:44,605 --> 00:45:45,904
-Gemiye dönelim.
+00:34:39,722 --> 00:34:40,880
+Onunla gidebilir misin?
 
 501
-00:46:24,685 --> 00:46:25,984
-Şunları yiyebiliriz.
+00:34:40,923 --> 00:34:42,003
+Evet.
 
 502
-00:48:35,282 --> 00:48:36,448
-Siktir!
+00:34:48,764 --> 00:34:50,356
+Gidin.Gidin!
 
 503
-00:49:10,150 --> 00:49:11,349
-Tekrar?
+00:35:00,159 --> 00:35:02,743
+TanrÄ±m.
 
 504
-00:49:51,975 --> 00:49:53,975
-Orada ne oldu öyle?
+00:35:06,916 --> 00:35:08,207
+Gidin!
 
 505
-00:49:57,147 --> 00:49:59,311
-Gelişim.
+00:35:11,754 --> 00:35:12,837
+Gidin!
 
 506
-00:50:02,152 --> 00:50:04,402
-Nasıl emin olabiliyorsun?
+00:35:14,173 --> 00:35:16,299
+Gidin! Gidin!
 
 507
-00:50:07,324 --> 00:50:09,991
-Çünkü hâlâ hayattayım.
+00:35:16,342 --> 00:35:18,217
+Hadi! Deh!
 
 508
-00:50:54,337 --> 00:50:56,704
-Ufukta gemi göründü!
+00:36:03,181 --> 00:36:05,181
+Onu yere yatÄ±rÄ±n!
 
 509
-00:51:08,602 --> 00:51:11,719
-Efendim anlaşılan bilginiz
-tamamlanmaktan çok ufak.
+00:36:05,224 --> 00:36:06,724
+YollarÄ± arayÄ±n!
+Etrafa bakÄ±n!
 
 510
-00:51:15,642 --> 00:51:21,145
-- Belki kim olduğunu sormalısın.
-- Limanın ağzında direkler var.
+00:36:06,768 --> 00:36:08,517
+Nereden gittiklerine bakÄ±n!
 
 511
-00:51:21,197 --> 00:51:23,064
-Ateş hattı gibi görünüyor.
+00:36:31,534 --> 00:36:33,584
+TeÅŸekkÃ¼r ederim.
 
 512
-00:51:27,319 --> 00:51:28,985
-Sancaklarını tanıdın mı?
+00:36:38,040 --> 00:36:41,092
+Onu Ã§ocukluÄŸumdan beri tanÄ±yorum...
 
 513
-00:51:40,750 --> 00:51:43,251
-- Ne gördün?
-- Kuzey-kuzeydoğu.
+00:36:41,135 --> 00:36:44,136
+...onunla birlikte hastalandÄ±m
+ve kayÄ±plar yaÅŸadÄ±m.
 
 514
-00:51:43,303 --> 00:51:45,753
-- Ufukta görünüyorlar.
-- Kaç gemi var?
+00:36:45,881 --> 00:36:48,516
+Sadakatini, fedakarlÄ±klarÄ±nÄ±
+ve sevgisini...
 
 515
-00:51:45,755 --> 00:51:48,640
-Sekiz gibi görünüyor, belki dokuzdur.
+00:36:48,551 --> 00:36:53,187
+...anneme ve bana adamasÄ±nÄ± izledim.
 
 516
-00:51:48,675 --> 00:51:52,260
-Yakınlaşana kadar üç saat geçer.
-Adamları gemilere alalım.
+00:36:57,727 --> 00:36:59,902
+Belki de tahmin edebilirsin...
 
 517
-00:52:13,500 --> 00:52:19,454
-Konumları liman ağzına yaklaşırsan
-ağır hasar alacağımız yönünde.
+00:36:59,946 --> 00:37:04,532
+...ondan olanlarÄ± kabul etmesini istemenin
+nasÄ±l bir ÅŸey olduÄŸunu...
 
 518
-00:52:19,506 --> 00:52:23,708
-Anlaşılan Kaptan Teach
-anlatıldığı kadar taktik adamı.
+00:37:04,567 --> 00:37:07,535
+...hem de Ã§ocukken
+ailesini Ã¶ldÃ¼ren insanlara...
 
 519
-00:52:23,760 --> 00:52:28,296
-Ne öneriyorsun?
-Geri mi çekilelim?
+00:37:07,570 --> 00:37:11,706
+...insanlara benzeyen kiÅŸilerin elinde
+bunlarÄ± Ã§ekmiÅŸken.
 
 520
-00:52:28,298 --> 00:52:32,550
-Nassau şehrini almak için
-kraliyet donanmasından...
+00:37:13,075 --> 00:37:15,459
+BÄ±Ã§aÄŸÄ± ona verip...
 
 521
-00:52:32,602 --> 00:52:37,605
-...önemli varlıklar kaybetmeyi riske etmeden
-başka yol göremiyorum.
+00:37:15,503 --> 00:37:17,128
+...istediÄŸini yapmasÄ±na izin vermenin...
 
 522
-00:52:39,609 --> 00:52:43,728
-- O zaman sahile kendim gideceğim.
-- Anlayamadım?
+00:37:17,171 --> 00:37:19,332
+...ne kadar Ã§ekici geldiÄŸini
+tahmin edebilirsin.
 
 523
-00:52:43,780 --> 00:52:46,864
-Kıyıya kadar filikayla yalnız gidip
-afları teklif edeceğim.
+00:37:21,509 --> 00:37:25,136
+Ä°nsanlarÄ±mÄ± serbest bÄ±rakma...
 
 524
-00:52:46,900 --> 00:52:49,297
-- Bahsi bile olamaz.
-- Neden?
+00:37:25,179 --> 00:37:27,680
+...isteÄŸimi dizginlememi
+sadece tahmin edebilirsin.
 
 525
-00:52:49,332 --> 00:52:51,285
-Çünkü benim görevim
-bu gayretimizin ve senin güvenliğin...
+00:37:35,898 --> 00:37:38,298
+Ama bu bizi nereye gÃ¶tÃ¼recek?
 
 526
-00:52:51,321 --> 00:52:53,988
-...böylesi pervasız bir plana izin veremem.
+00:37:40,528 --> 00:37:44,321
+Ä°Ã§imdeki bu daha fazla kan gÃ¶rmeye aÃ§
+olan ÅŸeyle...
 
 527
-00:52:53,990 --> 00:52:55,156
-Sen gitmemelisin.
+00:37:44,365 --> 00:37:48,159
+...mÃ¼cadele edeceÄŸim...
 
 528
-00:52:59,379 --> 00:53:02,663
-Eğer afları teklif etmek için
-başkasını gönderirsen...
+00:37:48,202 --> 00:37:53,164
+...ve geleceklerini dÃ¼ÅŸÃ¼nerek
+onlara hizmet edeceÄŸim...
 
 529
-00:53:02,665 --> 00:53:05,883
-...o sahildeki adamları tanıyan birini,
-işe yarayabilir.
+00:37:53,207 --> 00:37:55,332
+...ve zor olanÄ± yapmak...
 
 530
-00:53:05,919 --> 00:53:07,251
-Birisi onu götürsün.
-Buna ayıracak zamanım yok.
+00:37:55,376 --> 00:37:59,253
+...hepimizin istediÄŸi
+sona ulaÅŸtÄ±racak bizi.
 
 531
-00:53:07,303 --> 00:53:10,805
-Bekle. Ne öneriyorsun?
-Afları sen mi sunacaksın?
+00:38:03,051 --> 00:38:04,971
+Bu bir daha tekrarlanmayacak.
 
 532
-00:53:10,840 --> 00:53:14,425
-Hayır ben de olamam. O sahil ve burası
-arasında çokça düşmanım var.
+00:38:15,313 --> 00:38:17,605
+Ã–yleyse,konu kapandÄ±.
 
 533
-00:53:14,477 --> 00:53:17,562
-- Kim öyleyse?
-- O.
+00:38:17,648 --> 00:38:19,023
+Ã–nÃ¼mÃ¼ze bakacaÄŸÄ±z.
 
 534
-00:53:19,983 --> 00:53:23,651
-O körfezdeki adamların yarısı
-onun emri altında açılmıştır.
+00:38:22,987 --> 00:38:24,779
+SÃ¶z veriyorum.
 
 535
-00:53:23,686 --> 00:53:28,773
-Siyah sancak altında denize açılan
-herkes kadar ona da saygı duyarlar.
+00:38:47,512 --> 00:38:50,930
+Kimseye bahsetmeyeceksin,
+anladÄ±n mÄ±?
 
 536
-00:53:28,825 --> 00:53:33,745
-Beyaz bayrakla geçmesine izin verirler
-ve söyleyeceklerini dinlerler.
+00:39:00,691 --> 00:39:05,486
+Yelkenler! BatÄ±da!
+Bu tarafa geliyor!
 
 537
-00:53:36,666 --> 00:53:39,167
-Ve ölse de umurunda olmaz.
+00:39:05,530 --> 00:39:08,155
+Bizi buradan
+kimsenin gÃ¶remeyeceÄŸini sÃ¶ylemiÅŸtin.
 
 538
-00:54:10,567 --> 00:54:12,283
-Neden ona izin veriyoruz?
+00:39:08,199 --> 00:39:10,658
+GÃ¶remezler.
 
 539
-00:54:12,318 --> 00:54:16,318
-O adamı beyaz bayrak altında vurursan...
+00:39:20,336 --> 00:39:22,294
+Yola koyulun.
 
 540
-00:54:16,706 --> 00:54:20,074
-...onu buranın kurucusu olarak hatırlayan
-Nassau'nun yarısı...
+00:39:22,338 --> 00:39:24,255
+KÄ±yÄ±dakileri almak iÃ§in
+kumsala gideceÄŸiz.
 
 541
-00:54:20,126 --> 00:54:22,215
-...diğer yarısına karşı ayaklanır.
+00:39:24,298 --> 00:39:26,298
+Ama henÃ¼z onlardan iÅŸaret gelmedi.
 
 542
-00:54:23,496 --> 00:54:26,414
-Ne olacaksa şu anda
-durdurmanın bir yolu yok.
+00:39:26,300 --> 00:39:29,844
+O gemi iki saat iÃ§inde ya da
+daha kÄ±sa sÃ¼rede bize yaklaÅŸacak.
 
 543
-00:54:55,829 --> 00:55:00,948
-New Providence Adası'nın valisi
-saygıdeğer Woodes Rogers adına...
+00:39:29,887 --> 00:39:31,720
+Yola koyulun.
 
 544
-00:55:01,000 --> 00:55:04,669
-Şımarık çocuğu hizaya sokmanın
-zamanı geldi.
+00:39:31,764 --> 00:39:33,305
+KayÄ±klarÄ± hazÄ±rlayÄ±n!
 
 545
-00:55:04,704 --> 00:55:08,623
-İmparatorluğunu reddeden
-bir adanın...
+00:39:33,349 --> 00:39:34,640
+Yelkenleri indirin.
 
 546
-00:55:08,675 --> 00:55:13,211
-...medeniyeti tekrardan
-kucaklaması güçtür.
+00:39:36,686 --> 00:39:38,102
+Yelkenleri indirin!
 
 547
-00:55:13,263 --> 00:55:16,297
-Bu adada her kim olursa...
+00:39:45,862 --> 00:39:48,154
+Seni gÃ¶rÃ¼yorum.
 
 548
-00:55:16,349 --> 00:55:18,466
-...kucaklamayı kabul eden...
+00:39:48,197 --> 00:39:49,822
+Yolunu kesmek iÃ§in rota belirleyin.
 
 549
-00:55:18,518 --> 00:55:21,135
-...kraliçeye karşı şiddetten vazgeçen...
+00:39:49,866 --> 00:39:51,157
+Ä°skeleye dÃ¶nÃ¼n!
 
 550
-00:55:21,137 --> 00:55:23,330
-...korsanlıktan feragat eden...
+00:39:51,200 --> 00:39:52,575
+Ä°skeleye dÃ¶nÃ¼n!
 
 551
-00:55:24,307 --> 00:55:30,194
-...tam, koşulsuz af teklif edilecektir.
+00:40:03,379 --> 00:40:05,671
+6 kiÅŸi daha hastalandÄ±.
 
 552
-00:55:30,987 --> 00:55:33,261
-Ne yaptığınıza bakılmaksızın...
+00:40:05,715 --> 00:40:08,195
+Åu anda 14 hasta var.
 
 553
-00:55:33,650 --> 00:55:36,624
-...ne kadar telafi edilemeyeceğine
-inansanız da...
+00:40:08,217 --> 00:40:09,508
+Ã–lÃ¼mcÃ¼l durumda olan var mÄ±?
 
 554
-00:55:36,886 --> 00:55:41,372
-...kralınız ve valiniz
-size temiz bir sayfa sunuyor.
+00:40:09,552 --> 00:40:13,512
+Daha deÄŸil,ama adamlarÄ±mÄ±z azalÄ±yor...
 
 555
-00:55:41,407 --> 00:55:44,575
-Nassau'da yeni bir başlangıç.
+00:40:13,556 --> 00:40:16,849
+ve giderek daha da kÃ¶tÃ¼leÅŸecek.
 
 556
-00:55:45,078 --> 00:55:47,530
-Hepiniz ama biri hariç.
+00:40:16,893 --> 00:40:18,350
+Bu arada da,Flint bir yerlerde...
 
 557
-00:55:48,464 --> 00:55:52,464
-Düzensizlik ve kaos için
-çok kararlı bir kişi...
+00:40:18,394 --> 00:40:20,853
+...bize savaÅŸ aÃ§maya hazÄ±rlanÄ±yor.
 
 558
-00:55:53,241 --> 00:55:57,873
-...onun varlığı uygar toplumla
-uyuşmayacaktır.
+00:40:20,897 --> 00:40:22,521
+YakÄ±nda Rackham ve paranÄ±n...
 
 559
-00:55:58,250 --> 00:56:02,848
-Haber salınsın
-10.000 sterlin verilecektir...
+00:40:22,565 --> 00:40:23,856
+...Havana yoluna Ã§Ä±kÄ±p Ã§Ä±kmadÄ±ÄŸÄ±...
 
 560
-00:56:03,346 --> 00:56:08,015
-...korsan Charles Vane'in yakalanması için.
-Ölü ya da diri.
+00:40:23,900 --> 00:40:26,220
+...haberleri Nassau'ya gelir.
 
 561
-00:56:39,766 --> 00:56:41,166
-Bu ne yapıyor amına koyayım?
+00:40:26,235 --> 00:40:29,862
+Ã‡Ä±kmamÄ±ÅŸlarsa,
+ve biz haklÄ±ysak...
 
 562
-00:56:47,023 --> 00:56:48,522
-Kaptan.
+00:40:29,906 --> 00:40:33,199
+...Hornigold'un adamlarÄ±
+zamanÄ±nda yetiÅŸemezse...
 
 563
-00:58:14,290 --> 00:58:19,290
-Çeviri: fuckirama & restlessness
-@fuckirama & _restlessness
+00:40:33,242 --> 00:40:36,952
+...bunlarÄ±n dÄ±ÅŸÄ±nda bir de
+Ä°spanya ile savaÅŸacaÄŸÄ±z.
+
+564
+00:40:38,581 --> 00:40:39,872
+EÄŸer haklÄ±ysak...
+
+565
+00:40:39,916 --> 00:40:41,707
+...ve Valinin karavanÄ±na bir ÅŸey olursa...
+
+566
+00:40:41,751 --> 00:40:45,878
+...korkarÄ±m karÅŸÄ±laÅŸacaÄŸÄ±mÄ±z
+daha rahatsÄ±z edici bir ÅŸey olacak.
+
+567
+00:40:45,922 --> 00:40:47,379
+O nedir?
+
+568
+00:40:47,423 --> 00:40:49,048
+HastalÄ±ÄŸa karÅŸÄ± baÄŸÄ±ÅŸÄ±klÄ±ÄŸÄ±mÄ±z var...
+
+569
+00:40:49,091 --> 00:40:52,551
+...sadece burayÄ± tanÄ±mayanlarÄ± etkileyecek.
+
+570
+00:40:52,595 --> 00:40:55,721
+Flint'i tanÄ±yoruz ve onunla savaÅŸabiliriz.
+
+571
+00:40:55,765 --> 00:40:57,556
+Rakibimiz bizden Ã¼stÃ¼n olsa da...
+
+572
+00:40:57,600 --> 00:41:00,226
+...en azÄ±ndan Ä°spanya'nÄ±n
+ne olduÄŸunu biliyoruz...
+
+573
+00:41:00,269 --> 00:41:02,728
+...ve elimizden geleni
+buna gÃ¶re yapabiliriz.
+
+574
+00:41:02,772 --> 00:41:04,563
+Ama tanÄ±nmayan dÃ¼ÅŸmanlardan daha...
+
+575
+00:41:04,607 --> 00:41:06,482
+...tehlikeli bir ÅŸey yoktur.
+
+576
+00:41:06,525 --> 00:41:08,901
+EÄŸer Valinin karavanÄ± saldÄ±rÄ±ya uÄŸrarsa...
+
+577
+00:41:08,945 --> 00:41:10,861
+...birisi onu nerede bulacaÄŸÄ±nÄ±
+biliyor demektir.
+
+578
+00:41:10,905 --> 00:41:15,199
+Bu da sÄ±rlarÄ±mÄ±zÄ±n
+bilindiÄŸi anlamÄ±na gelir.
+
+579
+00:41:15,243 --> 00:41:18,452
+AramÄ±z da bir casus olduÄŸu anlamÄ±na da.
+
+580
+00:41:42,395 --> 00:41:45,020
+Birisi yardÄ±m etsin.
+
+581
+00:41:45,064 --> 00:41:46,188
+Doktor Marcus'u Ã§aÄŸÄ±rÄ±n.
+
+582
+00:41:52,688 --> 00:41:54,405
+LÃ¼tfen,ÅŸuna bakÄ±n!
+
+583
+00:42:17,546 --> 00:42:19,305
+Vane nerede?
+
+584
+00:42:20,716 --> 00:42:23,851
+O kaÃ§amadan askerler geldi.
+
+585
+00:42:23,886 --> 00:42:25,526
+KaÃ§maktan baÅŸka ÅŸansÄ±mÄ±z yoktu.
+
+586
+00:42:27,723 --> 00:42:28,939
+Hay sikeyim.
+
+587
+00:42:31,894 --> 00:42:34,194
+Onu ve zulayÄ± alÄ±p gemiye dÃ¶n
+buradan uzaklaÅŸÄ±n.
+
+588
+00:42:34,229 --> 00:42:36,196
+Ne?
+Arkada kalamazsÄ±n.
+
+589
+00:42:36,231 --> 00:42:37,865
+Gidip Vane'i bulacaÄŸÄ±m.
+
+590
+00:42:37,908 --> 00:42:41,268
+Onu serbest bÄ±rakÄ±nca,
+kampa dÃ¶nmenin bir yolunu bulacaÄŸÄ±z.
+
+591
+00:42:41,287 --> 00:42:42,344
+Kaptan...
+
+592
+00:42:42,388 --> 00:42:43,579
+Charles Vane'in,Nassau'da...
+
+593
+00:42:43,622 --> 00:42:45,706
+...daraÄŸacÄ±nda
+sallandÄ±rÄ±lmasÄ±nÄ± kaldÄ±ramayÄ±z.
+
+594
+00:42:45,750 --> 00:42:47,458
+KalamazsÄ±n.
+
+595
+00:42:49,411 --> 00:42:51,545
+Ä°stediÄŸin savaÅŸÄ± Ã§Ä±karmak Ã¼zereyiz...
+
+596
+00:42:51,580 --> 00:42:54,381
+...ve belki de zafere benzer
+bir ÅŸey iÃ§in bir yolumuz var...
+
+597
+00:42:54,416 --> 00:42:57,217
+...ama savaÅŸ
+bu sandÄ±ÄŸÄ±n peÅŸinden gelecek...
+
+598
+00:42:57,252 --> 00:42:59,345
+ve senden baÅŸka kimse
+bunu kumanda edemez.
+
+599
+00:43:00,923 --> 00:43:03,182
+HaklÄ±.
+
+600
+00:43:04,927 --> 00:43:06,226
+HaklÄ±.
+
+601
+00:43:06,261 --> 00:43:08,562
+EÄŸer Charles,onu kurtarmak iÃ§in...
+
+602
+00:43:08,597 --> 00:43:12,232
+...bunu tehlikeye atmayÄ±
+dÃ¼ÅŸÃ¼ndÃ¼ÄŸÃ¼mÃ¼zÃ¼ bilse...
+
+603
+00:43:12,267 --> 00:43:13,817
+...bizi Ã¶ldÃ¼rÃ¼rdÃ¼.
+
+604
+00:43:16,697 --> 00:43:18,489
+Bana iki adam ver.
+
+605
+00:43:18,532 --> 00:43:20,240
+Geri dÃ¶nÃ¼p durumla ilgileneceÄŸim.
+
+606
+00:43:23,204 --> 00:43:24,261
+NasÄ±l?
+
+607
+00:43:24,305 --> 00:43:25,412
+Huzursuzluk Ã§Ä±kartarak...
+
+608
+00:43:25,447 --> 00:43:26,830
+...dinleyecek birilerini bulacaÄŸÄ±m...
+
+609
+00:43:26,874 --> 00:43:29,333
+...Charles Vane'in bir zamanlar
+aralarÄ±nda en iyisi olduÄŸunu...
+
+610
+00:43:29,377 --> 00:43:30,584
+...hala da Ã¶yle olduÄŸunu hatÄ±rlatacaÄŸÄ±m.
+
+611
+00:43:30,619 --> 00:43:33,504
+Ebeveynlerim provokatÃ¶rdÃ¼.
+
+612
+00:43:33,547 --> 00:43:34,838
+Bu savaÅŸÄ± kazanacaksak...
+
+613
+00:43:34,882 --> 00:43:36,162
+...bizimde buna ihtiyacÄ±mÄ±z olabilir.
+
+614
+00:43:36,175 --> 00:43:39,343
+Ä°ÅŸimi bitirdiÄŸimde...
+
+615
+00:43:39,387 --> 00:43:40,677
+...Vali,sokaklar karÄ±ÅŸmasÄ±n diye...
+
+616
+00:43:40,721 --> 00:43:42,554
+...Vane'i asamayacak.
+
+617
+00:44:14,004 --> 00:44:15,421
+Charles burada.
+
+618
+00:44:18,676 --> 00:44:22,302
+BugÃ¼n kaybettiklerimize karÅŸÄ±,
+kÃ¼Ã§Ã¼k bir teselli.
+
+619
+00:44:24,849 --> 00:44:26,974
+Ama sen Kaptan Harnigold'a
+Flint'in gemisinin...
+
+620
+00:44:27,017 --> 00:44:28,976
+...burada olabileceÄŸi Ã¶ngÃ¶rÃ¼sÃ¼nÃ¼ sÃ¶yledin.
+
+621
+00:44:29,019 --> 00:44:31,478
+ZulayÄ± geri almak ve
+felaketten kurtulmak iÃ§in...
+
+622
+00:44:31,522 --> 00:44:34,940
+...tek umudumuz da bu.
+
+623
+00:44:37,027 --> 00:44:39,987
+EÄŸer Hornigold, Flint'in gemisini
+yakalayamazsa...
+
+624
+00:44:40,030 --> 00:44:44,158
+...Flint sÃ¶ylediklerini yapabilir...
+
+625
+00:44:44,201 --> 00:44:47,494
+...hikayenin Ã¶nÃ¼mÃ¼zdeki kÄ±smÄ± ona ait olur.
+
+626
+00:44:47,538 --> 00:44:48,996
+Bundan sonra da karÅŸÄ±laÅŸacaÄŸÄ±mÄ±z...
+
+627
+00:44:49,039 --> 00:44:53,500
+...seÃ§imler korkunÃ§ olacak...
+
+628
+00:44:53,544 --> 00:44:57,337
+...sonuÃ§larÄ± da
+ne olursa olsun kÃ¶tÃ¼ olacak.
+
+629
+00:44:57,381 --> 00:45:00,799
+Eleanor,bana bak.
+
+630
+00:45:10,811 --> 00:45:13,520
+KarÅŸÄ±mÄ±za Ã§Ä±kacaÄŸÄ±nÄ± dÃ¼ÅŸÃ¼ndÃ¼ÄŸÃ¼m
+zorluklar...
+
+631
+00:45:13,564 --> 00:45:14,897
+...oldukÃ§a ciddi.
+
+632
+00:45:17,193 --> 00:45:18,984
+BunlarÄ± atlatÄ±rken
+sana gÃ¼venebileceÄŸimden...
+
+633
+00:45:19,028 --> 00:45:20,319
+...emin olmam gerekiyor.
+
+634
+00:45:20,362 --> 00:45:22,905
+Elbette, gÃ¼venebilirsin.
+
+635
+00:45:25,201 --> 00:45:27,659
+AnlÄ±yorsun ya...
+
+636
+00:45:27,703 --> 00:45:30,162
+...sana ortak demeden Ã¶nceki endiÅŸelerim...
+
+637
+00:45:30,206 --> 00:45:32,080
+...Londra'daki hÃ¼crene
+ilk girdiÄŸim andan beri...
+
+638
+00:45:32,124 --> 00:45:36,668
+...Nassau'nun cazibesine
+katlanÄ±p katlanamayacaÄŸÄ±ndÄ±...
+
+639
+00:45:36,712 --> 00:45:39,838
+...geÃ§miÅŸindeki olaylarÄ±n ciddiyeti...
+
+640
+00:45:39,882 --> 00:45:42,007
+...seni basit dÃ¼ÅŸmanlÄ±klarÄ±
+kovalamaya itebilir...
+
+641
+00:45:42,051 --> 00:45:46,887
+...ve sana pahalÄ±ya mal olan
+hatalarÄ±nÄ± tekrarlatabilirdi...
+
+642
+00:45:46,922 --> 00:45:49,014
+...bu da burada inÅŸa etmeye Ã§alÄ±ÅŸtÄ±ÄŸÄ±m...
+
+643
+00:45:49,058 --> 00:45:51,183
+...geleceÄŸe...
+
+644
+00:45:51,227 --> 00:45:52,851
+...yÃ¶nelmeni engelleyebilirdi.
+
+645
+00:45:52,895 --> 00:45:56,021
+Ve ÅŸimdi...
+
+646
+00:45:56,065 --> 00:45:59,691
+...sana en Ã§ok ihtiyacÄ±m olan bu anda...
+
+647
+00:45:59,735 --> 00:46:04,029
+...en iyi halinle...
+
+648
+00:46:04,073 --> 00:46:05,697
+...hislerinin en gÃ¼Ã§lÃ¼ olduÄŸu yere...
+
+649
+00:46:05,741 --> 00:46:07,449
+...seni Ã§ekmesinden korkuyorum.
+
+650
+00:46:09,745 --> 00:46:11,705
+- YanÄ±lÄ±yorsun.
+- HayÄ±r yanÄ±lmÄ±yor...
+
+651
+00:46:21,006 --> 00:46:22,548
+YanÄ±lmÄ±yorum.
+
+652
+00:46:26,011 --> 00:46:30,514
+Kalemdeki zindanda oturan o adam...
+
+653
+00:46:31,183 --> 00:46:33,141
+...seni cezbedecek her ÅŸeyin
+vÃ¼cut bulmuÅŸ hali.
+
+654
+00:46:33,185 --> 00:46:34,434
+Bu oldukÃ§a aÃ§Ä±k.
+
+655
+00:46:34,469 --> 00:46:38,814
+Åimdi,sana soruyorum...
+
+656
+00:46:38,857 --> 00:46:43,277
+...geÃ§miÅŸi ve kiÅŸisel ÅŸeyleri
+bir kenara bÄ±rakÄ±p...
+
+657
+00:46:43,312 --> 00:46:44,653
+...geleceÄŸimiz iÃ§in...
+
+658
+00:46:44,697 --> 00:46:48,824
+...Ã¶nemli olan ÅŸeylere
+odaklanabilecek misin...
+
+659
+00:46:48,867 --> 00:46:50,492
+...hayatta kalabilmemiz iÃ§in.
+
+660
+00:46:50,536 --> 00:46:53,996
+Bana karÅŸÄ± en ufak bir saygÄ±n varsa...
+
+661
+00:46:54,039 --> 00:46:57,332
+...biraz olsun hÃ¼rmet duyuyorsan...
+
+662
+00:46:57,376 --> 00:46:59,835
+...senden ÅŸu anda bana,
+neler yapabileceÄŸin hakkÄ±nda...
+
+663
+00:46:59,878 --> 00:47:02,087
+...dÃ¼rÃ¼st olmanÄ± istiyorum.
+
+664
+00:47:09,054 --> 00:47:10,679
+Londra'da hÃ¼creme geldiÄŸin an...
+
+665
+00:47:10,723 --> 00:47:13,203
+...ilk ne dÃ¼ÅŸÃ¼ndÃ¼m bilmek ister misin?
+
+666
+00:47:15,844 --> 00:47:18,645
+HakkÄ±mdaki suÃ§lamalarÄ± dÃ¼ÅŸÃ¼nmÃ¼yordum.
+
+667
+00:47:18,680 --> 00:47:21,648
+Ä°damÄ±n ertelenmesini dÃ¼ÅŸÃ¼nmÃ¼yordum.
+
+668
+00:47:21,683 --> 00:47:23,150
+KorsanlÄ±ÄŸÄ±, aflarÄ± ya da Nassau'yu...
+
+669
+00:47:23,185 --> 00:47:25,652
+...dÃ¼ÅŸÃ¼nmÃ¼yordum.
+
+670
+00:47:25,687 --> 00:47:29,323
+O anda aklÄ±mÄ± dolduran
+sadece tek bir dÃ¼ÅŸÃ¼nce vardÄ±...
+
+671
+00:47:33,695 --> 00:47:36,330
+...bunun benim fÄ±rsatÄ±m
+olabileceÄŸi dÃ¼ÅŸÃ¼ncesi..
+
+672
+00:47:36,365 --> 00:47:37,998
+...belki de bu bana
+babamÄ± Ã¶ldÃ¼ren kiÅŸiden..
+
+673
+00:47:38,033 --> 00:47:40,667
+...intikam alma imkanÄ± verebilir...
+
+674
+00:47:40,702 --> 00:47:45,339
+...belki de Charles Vane'in idamÄ±nda
+benimde bir payÄ±m olabilir.
+
+675
+00:47:45,799 --> 00:47:48,842
+ArtÄ±k seni tanÄ±yorum.
+Sana gÃ¼veniyorum.
+
+676
+00:47:48,877 --> 00:47:51,511
+Sana sadakatimi veriyorum.
+
+677
+00:47:51,546 --> 00:47:52,846
+Seni seviyorum.
+
+678
+00:47:56,718 --> 00:47:59,853
+Bu yÃ¼zden sana kesin
+gerÃ§eÄŸi sÃ¶yleyeceÄŸim...
+
+679
+00:47:59,888 --> 00:48:02,189
+...o kaledeki zindanda...
+
+680
+00:48:02,224 --> 00:48:04,608
+...oturan ÅŸeyle yÃ¼z yÃ¼ze geldiÄŸimde
+nasÄ±l tepki vereceÄŸim konusunda.
+
+681
+00:48:09,731 --> 00:48:11,073
+GerÃ§ekten bilmiyorum.
+
+682
+00:48:17,328 --> 00:48:22,374
+Ã§eviri: Sunabozu & yessÃ¶r
 
