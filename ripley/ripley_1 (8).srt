@@ -1,0 +1,3278 @@
+﻿1
+00:00:53,845 --> 00:00:55,555
+Işık.
+
+2
+00:01:10,737 --> 00:01:11,905
+Ranuccio bu.
+
+3
+00:01:12,822 --> 00:01:14,365
+Gidelim.
+
+4
+00:03:21,326 --> 00:03:24,078
+Bu sefer ne yaptın?
+
+5
+00:03:26,247 --> 00:03:28,708
+Sadece kalacak bir yer lazım.
+
+6
+00:03:56,527 --> 00:03:59,697
+{\an8}VENEDİK
+
+7
+00:04:12,210 --> 00:04:13,210
+Buyurun.
+
+8
+00:04:40,113 --> 00:04:42,156
+Burası müzik odası.
+
+9
+00:04:52,166 --> 00:04:54,544
+Anna ve Ugo ile tanıştırayım.
+
+10
+00:04:54,627 --> 00:04:56,838
+Onlar da eve dâhil.
+
+11
+00:04:56,921 --> 00:04:58,214
+Memnun oldum.
+
+12
+00:05:01,759 --> 00:05:03,344
+Şu tarafta okuma odası var.
+
+13
+00:05:04,846 --> 00:05:05,972
+Burası da oturma odası.
+
+14
+00:05:22,363 --> 00:05:24,115
+Ana girişi göstereyim mi?
+
+15
+00:05:26,075 --> 00:05:27,952
+Bizim girdiğimiz yer neydi?
+
+16
+00:05:28,953 --> 00:05:30,330
+Arka kapıydı.
+
+17
+00:05:37,170 --> 00:05:40,214
+Merdivenlerden inince alt antre var.
+
+18
+00:05:40,298 --> 00:05:41,298
+Oldukça büyüktür.
+
+19
+00:05:41,924 --> 00:05:44,761
+Ana giriş de burada.
+
+20
+00:05:44,844 --> 00:05:46,763
+Kanala açılan özel bir iskele.
+
+21
+00:06:21,422 --> 00:06:22,840
+Dikkat edin.
+
+22
+00:06:22,924 --> 00:06:24,383
+Yerler kaygandır.
+
+23
+00:06:24,467 --> 00:06:25,885
+Yosun tutuyor.
+
+24
+00:06:26,511 --> 00:06:28,930
+Hizmetçi girişini kullanacağım sanırım.
+
+25
+00:06:30,098 --> 00:06:31,849
+Yatak odalarını göstereyim mi?
+
+26
+00:06:35,394 --> 00:06:37,105
+Sözleşme en az altı aylık.
+
+27
+00:06:37,188 --> 00:06:38,106
+Sorun değil.
+
+28
+00:06:38,189 --> 00:06:39,482
+Daha uzun da kalabilirim.
+
+29
+00:06:39,565 --> 00:06:40,441
+Kalırsınız bence.
+
+30
+00:06:40,525 --> 00:06:42,652
+Buradan ayrılmayı hiç istemezsiniz.
+
+31
+00:06:42,735 --> 00:06:43,736
+Olabilir.
+
+32
+00:06:44,445 --> 00:06:45,445
+Buraya mı?
+
+33
+00:07:02,922 --> 00:07:04,173
+Komiser Muavini Ferrara.
+
+34
+00:07:04,257 --> 00:07:06,008
+<i>Ben Roma'dan Komiser Ravini.</i>
+
+35
+00:07:07,260 --> 00:07:08,469
+<i>Richard Greenleaf</i>
+
+36
+00:07:08,553 --> 00:07:09,846
+<i>gelmedi.</i>
+
+37
+00:07:09,929 --> 00:07:12,348
+Söylediklerimi iletmiş miydiniz?
+
+38
+00:07:12,932 --> 00:07:14,142
+Evet.
+
+39
+00:07:14,225 --> 00:07:16,185
+Kelimesi kelimesine.
+
+40
+00:07:16,269 --> 00:07:19,272
+"Zamanında görüşmeye gelmemeniz hâlinde
+
+41
+00:07:19,355 --> 00:07:21,399
+hem sizi hem de beni zora sokacak
+
+42
+00:07:21,482 --> 00:07:23,901
+bazı önlemler almak zorunda kalabilirim."
+
+43
+00:07:23,985 --> 00:07:25,570
+Tamam.
+
+44
+00:07:25,653 --> 00:07:29,949
+Şu anda merak ettiğim,
+Palermo'dan ayrılıp ayrılmadığı.
+
+45
+00:07:30,616 --> 00:07:31,659
+Ayrılmamış olabilir.
+
+46
+00:07:31,742 --> 00:07:33,202
+Ben nereden bileyim?
+
+47
+00:07:34,078 --> 00:07:36,998
+<i>Önce onu bulduğunuz yere bakın.</i>
+
+48
+00:07:38,332 --> 00:07:39,332
+Sonra?
+
+49
+00:07:39,375 --> 00:07:40,376
+Orada değilse?
+
+50
+00:07:41,627 --> 00:07:44,630
+O zaman biraz dedektiflik yapın
+Dedektif Bey.
+
+51
+00:09:07,421 --> 00:09:09,131
+Vardı. Eminim.
+
+52
+00:09:16,973 --> 00:09:20,184
+- Buradaydı. Birazdan bulurum.
+- Tamam, rahat olun.
+
+53
+00:09:21,978 --> 00:09:24,814
+İşte, gördüğünüz gibi.
+
+54
+00:09:24,897 --> 00:09:27,650
+27 Ocak'ta çıkış yapmış.
+
+55
+00:09:29,777 --> 00:09:31,654
+Nereye gideceğini söyledi mi?
+
+56
+00:09:31,737 --> 00:09:34,824
+O akşam Tunus'a
+feribot var mı diye sormuştu.
+
+57
+00:09:34,907 --> 00:09:36,200
+Tunus'a mı?
+
+58
+00:09:46,294 --> 00:09:49,672
+Tunus. 27 Ocak.
+
+59
+00:09:50,923 --> 00:09:52,008
+Var mıydı peki?
+
+60
+00:09:52,717 --> 00:09:53,718
+Vardı.
+
+61
+00:09:58,264 --> 00:09:59,390
+Teşekkürler.
+
+62
+00:10:01,475 --> 00:10:03,060
+Üzgün gibiydi.
+
+63
+00:10:08,107 --> 00:10:09,107
+Üzgün.
+
+64
+00:10:15,323 --> 00:10:16,574
+Ne anlamda?
+
+65
+00:10:17,450 --> 00:10:18,909
+Yani...
+
+66
+00:10:19,869 --> 00:10:22,413
+Dalgın görünüyordu.
+
+67
+00:10:22,496 --> 00:10:24,457
+Aynı şey değil ki.
+
+68
+00:10:24,540 --> 00:10:27,918
+"Üzgün olmak"la
+"dalgın olmak" farklı şeyler.
+
+69
+00:10:30,171 --> 00:10:34,759
+Suçlu bir insanın üzgünlüğü gibi mi?
+Pişman olmuş gibi mi?
+
+70
+00:10:37,136 --> 00:10:38,512
+Onu bilemem ki.
+
+71
+00:10:38,596 --> 00:10:40,723
+Nereden bileyim?
+
+72
+00:10:41,349 --> 00:10:43,976
+Sadece aklı başka yerde gibi
+görünüyorduysa
+
+73
+00:10:44,060 --> 00:10:47,813
+üzgün olduğunu
+nereden çıkardınız, anlamıyorum.
+
+74
+00:10:48,731 --> 00:10:52,401
+Bu sabah giyinirken aklım başka yerdeydi
+
+75
+00:10:52,485 --> 00:10:54,528
+ama üzgün değildim.
+
+76
+00:10:54,612 --> 00:10:55,988
+Üzgün görünüyor muyum?
+
+77
+00:10:57,948 --> 00:11:00,576
+Bana öyle gelmişti işte.
+
+78
+00:11:03,120 --> 00:11:06,624
+<i>Adam resepsiyonist
+ama kendini psikolog sanıyor</i>
+
+79
+00:11:06,707 --> 00:11:09,335
+ve iki işi de düzgün yapamıyor.
+
+80
+00:11:09,919 --> 00:11:12,088
+<i>Resepsiyonistler uyanık olur.</i>
+
+81
+00:11:12,171 --> 00:11:14,465
+<i>Sayelerinde
+çok cinayet vakası çözmüşümdür.</i>
+
+82
+00:11:14,548 --> 00:11:15,675
+Ne anlamda üzgün?
+
+83
+00:11:15,758 --> 00:11:17,635
+<i>Muğlak şeyler söyledi,</i>
+
+84
+00:11:17,718 --> 00:11:21,847
+<i>üzerine gidince sonunda
+"oluruna bırakmış" dedi.</i>
+
+85
+00:11:22,515 --> 00:11:25,267
+Nereye gideceğini biliyor muymuş?
+
+86
+00:11:25,351 --> 00:11:26,477
+<i>Kuzey Afrika'ya.</i>
+
+87
+00:11:27,770 --> 00:11:28,813
+Ne?
+
+88
+00:11:28,896 --> 00:11:31,732
+<i>Evet, Tunus feribotunu sormuş.</i>
+
+89
+00:11:34,527 --> 00:11:35,569
+<i>Komiserim...</i>
+
+90
+00:11:35,653 --> 00:11:39,573
+Soruşturmadaki görevim
+artık bitti diyebilir miyiz?
+
+91
+00:11:40,282 --> 00:11:41,992
+<i>Evet. Sağ olun.</i>
+
+92
+00:11:57,842 --> 00:12:00,261
+POLİS, KAYIP AMERİKALIYI ARIYOR
+
+93
+00:12:02,805 --> 00:12:05,683
+Bay Greenleaf
+en son Palermo'da görülmüştü.
+
+94
+00:12:06,308 --> 00:12:10,813
+Bazı sorulara cevap vermesi için
+Roma Emniyet Müdürlüğüne gelmesini
+
+95
+00:12:10,896 --> 00:12:12,606
+bizzat ben talep etmiştim.
+
+96
+00:12:13,232 --> 00:12:14,400
+<i>Gelmedi.</i>
+
+97
+00:12:15,109 --> 00:12:20,072
+O yüzden soruşturmadan kaçmaya
+çalıştığını düşünüyoruz.
+
+98
+00:12:20,156 --> 00:12:22,491
+Bu da bizi meraka sevk ediyor.
+
+99
+00:12:22,575 --> 00:12:23,575
+Neden?
+
+100
+00:12:24,660 --> 00:12:29,206
+<i>Bay Greenleaf belki bu haberi okursa diye
+açıkça ifade edeyim.</i>
+
+101
+00:12:30,040 --> 00:12:33,085
+<i>Sorularımıza cevap vermekten kaçınması,</i>
+
+102
+00:12:33,169 --> 00:12:35,212
+<i>Bay Miles'in öldürülmesi olayında</i>
+
+103
+00:12:35,296 --> 00:12:37,965
+<i>dahli olduğu şüphesini doğuruyor.</i>
+
+104
+00:12:38,757 --> 00:12:44,013
+Bay Ripley'nin ortadan kaybolması
+ve muhtemelen öldürülmesi olayında da.
+
+105
+00:12:55,900 --> 00:12:57,735
+- Thomas Ripley siz misiniz?
+- Evet.
+
+106
+00:12:58,360 --> 00:13:02,406
+Gazetede bir haber gördüm,
+kayıp olduğum düşünülüyormuş.
+
+107
+00:13:03,908 --> 00:13:06,702
+Öyle bir şey görünce şaşırıyor insan.
+
+108
+00:13:08,954 --> 00:13:10,414
+Benimle gelin lütfen.
+
+109
+00:13:14,668 --> 00:13:16,587
+Hayır, öyle değil.
+
+110
+00:13:16,670 --> 00:13:19,048
+Orada İtalyanca bilen biri var mı?
+
+111
+00:13:20,341 --> 00:13:21,341
+İngilizce peki?
+
+112
+00:13:24,512 --> 00:13:26,680
+Amerikan pasaportu.
+
+113
+00:13:27,348 --> 00:13:32,353
+Numarası 167648.
+
+114
+00:13:32,436 --> 00:13:33,646
+İsim
+
+115
+00:13:36,148 --> 00:13:41,570
+Giriş tarihi 28 Ocak olmalı.
+
+116
+00:13:42,821 --> 00:13:44,657
+Palermo'dan Tunus'a.
+
+117
+00:13:47,159 --> 00:13:49,620
+Önemli olmasa neden sorayım?
+
+118
+00:13:52,790 --> 00:13:55,584
+Evet, zaman alabilir, anlıyorum.
+
+119
+00:14:05,010 --> 00:14:07,638
+Komiserim, ben Venedik'ten
+Komiser Muavini Moretti.
+
+120
+00:14:08,138 --> 00:14:10,474
+Yanımda Thomas Ripley var.
+
+121
+00:14:13,602 --> 00:14:14,687
+Emin misiniz?
+
+122
+00:14:14,770 --> 00:14:17,481
+Eminim. Pasaportu masamın üzerinde.
+
+123
+00:14:18,357 --> 00:14:19,942
+İnanılmaz. Nasıl buldunuz?
+
+124
+00:14:20,693 --> 00:14:22,111
+<i>Kendisi geldi.</i>
+
+125
+00:14:22,736 --> 00:14:23,862
+Nerede kaldığını sorun.
+
+126
+00:14:24,572 --> 00:14:26,198
+Venedik'te nerede kalıyorsunuz?
+
+127
+00:14:30,452 --> 00:14:34,290
+Onunla konuşmak için
+bu akşam Venedik'e geleceğimi söyleyin.
+
+128
+00:14:34,373 --> 00:14:36,375
+O sizin yanınıza gelmesin mi?
+
+129
+00:14:36,458 --> 00:14:37,793
+<i>Yok, sorun değil.</i>
+
+130
+00:14:38,919 --> 00:14:40,671
+İfadesini ben alabilirim.
+
+131
+00:14:40,754 --> 00:14:42,006
+<i>Hayır, ben geleceğim.</i>
+
+132
+00:14:44,133 --> 00:14:45,175
+Peki.
+
+133
+00:14:47,177 --> 00:14:49,430
+Tamam Bay Ripley. Sorun çözüldü.
+
+134
+00:14:49,513 --> 00:14:51,223
+Bu akşam Roma'dan bir komiser
+
+135
+00:14:51,307 --> 00:14:53,058
+ikamet adresinize gelecek.
+
+136
+00:14:53,142 --> 00:14:55,895
+Neler olup bittiğini o açıklar.
+
+137
+00:14:55,978 --> 00:14:57,730
+Gazetedeki komiser mi?
+
+138
+00:15:01,692 --> 00:15:02,943
+Öylesine soruyorum.
+
+139
+00:15:07,448 --> 00:15:08,448
+Evet?
+
+140
+00:15:09,283 --> 00:15:11,118
+Pasaportumu alabilir miyim?
+
+141
+00:15:11,744 --> 00:15:12,953
+Tabii, alabilirsiniz.
+
+142
+00:15:13,746 --> 00:15:14,747
+Yarın.
+
+143
+00:15:49,698 --> 00:15:50,783
+<i>Işık.</i>
+
+144
+00:15:53,369 --> 00:15:55,120
+Her zaman ışık.
+
+145
+00:17:41,310 --> 00:17:42,895
+Ne istemiştiniz beyefendi?
+
+146
+00:17:47,941 --> 00:17:50,152
+{\an8}STEIN'S
+PERUK YAPIŞTIRICI
+
+147
+00:17:58,619 --> 00:18:01,205
+Bay Ripley sizi bekliyor Komiser Bey.
+
+148
+00:18:02,498 --> 00:18:03,498
+Oturma odasında.
+
+149
+00:18:09,546 --> 00:18:11,757
+Ben Roma Emniyetinden
+Komiser Pietro Ravini.
+
+150
+00:18:11,840 --> 00:18:12,841
+Evet, buyurun.
+
+151
+00:18:14,218 --> 00:18:16,553
+Umarım bölmüyorumdur.
+
+152
+00:18:16,637 --> 00:18:18,305
+Hayır, sadece mektup yazıyordum.
+
+153
+00:18:19,056 --> 00:18:20,599
+Oturun lütfen.
+
+154
+00:18:21,475 --> 00:18:22,475
+Teşekkürler.
+
+155
+00:18:26,855 --> 00:18:27,689
+Eviniz güzelmiş.
+
+156
+00:18:27,773 --> 00:18:28,899
+Sağ olun. Ben beğendim.
+
+157
+00:18:29,566 --> 00:18:30,818
+Sigara içebilir miyim?
+
+158
+00:18:30,901 --> 00:18:31,901
+Tabii.
+
+159
+00:18:50,754 --> 00:18:56,009
+Burada karşı karşıya oturuyor olmamız
+önemli bir konuyu çözüme kavuşturuyor.
+
+160
+00:18:56,677 --> 00:18:58,178
+Teknede öldürülmemişsiniz.
+
+161
+00:19:00,222 --> 00:19:01,222
+Anlamadım?
+
+162
+00:19:01,265 --> 00:19:03,475
+Gazetelerde okumadınız mı?
+
+163
+00:19:03,559 --> 00:19:07,146
+Buraya gelmeden önce
+daha çok küçük kasabalardaydım.
+
+164
+00:19:07,229 --> 00:19:08,605
+Arkadaşınız Sinyor Greenleaf
+
+165
+00:19:08,689 --> 00:19:11,859
+polisin sizi aradığını söylemedi mi?
+
+166
+00:19:11,942 --> 00:19:12,942
+Hayır.
+
+167
+00:19:14,736 --> 00:19:17,030
+San Remo'da bir tekne bulunmuş.
+
+168
+00:19:17,114 --> 00:19:19,908
+Siz Sinyor Greenleaf'le
+San Remo'dayken batmış.
+
+169
+00:19:19,992 --> 00:19:22,327
+Üzerinde kan lekeleri varmış.
+
+170
+00:19:22,411 --> 00:19:26,039
+Sizi bulamayınca,
+kayıp olduğunuzu düşününce
+
+171
+00:19:26,123 --> 00:19:28,500
+sizin kanınız olabilir diye düşündük.
+
+172
+00:19:28,584 --> 00:19:29,584
+Benim mi?
+
+173
+00:19:32,045 --> 00:19:34,256
+Sonra da görüştüğümüzü
+Dickie söylemedi mi?
+
+174
+00:19:34,339 --> 00:19:36,008
+Atrani'den eşyalarını getirdim.
+
+175
+00:19:36,091 --> 00:19:39,178
+- Atrani mi? Benim eşim Atrani'lidir.
+- Öyle mi?
+
+176
+00:19:39,261 --> 00:19:42,264
+Evet. Güzel yer
+ama çok fazla merdiven var.
+
+177
+00:19:43,932 --> 00:19:44,932
+Evet.
+
+178
+00:19:46,185 --> 00:19:49,188
+Evet, eşyalarını
+Roma'ya getirdiğinizi söylemişti
+
+179
+00:19:49,271 --> 00:19:51,356
+ama her söylediğine inanmam gerekmiyor.
+
+180
+00:19:51,440 --> 00:19:52,774
+Neyse, buradaymışsınız.
+
+181
+00:19:53,901 --> 00:19:54,901
+Ölmemişsiniz.
+
+182
+00:20:00,282 --> 00:20:03,619
+Sinyor Greenleaf'i tanıyan
+ve benimle konuşmayı kabul eden
+
+183
+00:20:03,702 --> 00:20:05,370
+az sayıdaki kişiden birisiniz.
+
+184
+00:20:06,246 --> 00:20:09,666
+Diğer arkadaşları pek yardımcı olmadı.
+
+185
+00:20:09,750 --> 00:20:11,627
+İtalyanların huyu böyle maalesef.
+
+186
+00:20:11,710 --> 00:20:13,503
+Özellikle de Napoli civarlarında
+
+187
+00:20:13,587 --> 00:20:15,923
+polisle konuşmayı sevmezler.
+
+188
+00:20:16,006 --> 00:20:17,049
+Sorun değil.
+
+189
+00:20:20,177 --> 00:20:23,472
+Cinayetten sonra Roma'da
+onunla konuştuğumda...
+
+190
+00:20:25,140 --> 00:20:27,351
+Frederick Miles cinayetini
+biliyorsunuzdur.
+
+191
+00:20:27,434 --> 00:20:28,644
+Evet, onu okumuştum.
+
+192
+00:20:28,727 --> 00:20:32,940
+Evet. Sonrasında Sinyor Greenleaf
+bana çok yardımcı olmuştu.
+
+193
+00:20:33,023 --> 00:20:34,107
+Öyle sanmıştım yani.
+
+194
+00:20:34,191 --> 00:20:36,151
+Roma'dan ayrılmasına izin verdim
+
+195
+00:20:36,235 --> 00:20:40,072
+ama Palermo'da kalacağı yeri
+bana bildirmesi gerekiyordu.
+
+196
+00:20:41,240 --> 00:20:42,491
+Maalesef öyle yapmadı.
+
+197
+00:20:43,116 --> 00:20:46,578
+Sonra da yine bana söylemeden
+Palermo'dan ayrıldı.
+
+198
+00:20:46,662 --> 00:20:49,164
+Şimdi de ülkeden ayrılmış gibi görünüyor.
+
+199
+00:20:49,915 --> 00:20:50,749
+Nereye gitmiş?
+
+200
+00:20:50,832 --> 00:20:52,125
+Kuzey Afrika'ya sanırım.
+
+201
+00:20:53,377 --> 00:20:55,629
+Tunus pasaport polisinin umurunda değil.
+
+202
+00:20:55,712 --> 00:20:58,048
+Ama oraya gittiğini düşündüren
+deliller var.
+
+203
+00:20:58,131 --> 00:21:00,842
+Tek başına bir yerlerde olamaz mı?
+
+204
+00:21:00,926 --> 00:21:02,844
+Bazen resim yapmak için gider öyle.
+
+205
+00:21:02,928 --> 00:21:05,973
+Resim mi? Evet, tablolarını gördüm.
+
+206
+00:21:09,476 --> 00:21:11,853
+Hayır, resim yapmaya gitmedi.
+
+207
+00:21:11,937 --> 00:21:15,857
+Eminim yolculuk sebebi başka bir şey.
+
+208
+00:21:15,941 --> 00:21:17,985
+- Ne gibi?
+- Sizce?
+
+209
+00:21:18,819 --> 00:21:19,903
+Hiçbir fikrim yok.
+
+210
+00:21:20,737 --> 00:21:22,364
+Katil zanlısı olmak gibi.
+
+211
+00:21:25,284 --> 00:21:28,912
+Freddie Miles'ın başına gelenlerde
+Dickie'nin parmağı mı var yani?
+
+212
+00:21:28,996 --> 00:21:30,998
+Öyle davranmıyor mu?
+
+213
+00:21:32,124 --> 00:21:33,542
+Tanık da var.
+
+214
+00:21:35,252 --> 00:21:36,252
+Neyin tanığı?
+
+215
+00:21:37,379 --> 00:21:42,384
+İki adam görülmüş. Biri çok sarhoşmuş,
+diğeri de onu arabaya yaslıyormuş.
+
+216
+00:21:43,176 --> 00:21:46,972
+<i>Miles'in cesedinin içinde bulunduğu
+arabayla aynı, Cinquecento.</i>
+
+217
+00:21:47,639 --> 00:21:50,934
+Diğer adamın
+Sinyor Greenleaf olduğundan emin değiliz
+
+218
+00:21:51,810 --> 00:21:54,062
+ama evinin çok yakınında olmuş bu.
+
+219
+00:21:55,731 --> 00:21:58,692
+Belki de onu bulamamanızın nedeni
+
+220
+00:21:58,775 --> 00:22:00,652
+başına bir iş gelmiş olmasıdır.
+
+221
+00:22:00,736 --> 00:22:01,820
+Onun başına mı?
+
+222
+00:22:02,612 --> 00:22:04,698
+Öldürülmüş müdür yani?
+
+223
+00:22:04,781 --> 00:22:05,949
+Neden öyle dediniz?
+
+224
+00:22:06,033 --> 00:22:09,870
+Çeklerle ilgili haberi okudum.
+Birisi sahte çek hazırlamış.
+
+225
+00:22:09,953 --> 00:22:11,788
+O kişi bir şey yapmış olabilir.
+
+226
+00:22:12,706 --> 00:22:14,583
+Bir çek vardı, birden fazla değil.
+
+227
+00:22:15,125 --> 00:22:16,543
+Tek bir çek vardı.
+
+228
+00:22:17,085 --> 00:22:20,088
+Hem sahte değilmiş.
+
+229
+00:22:20,172 --> 00:22:23,258
+Bankaya yazdığı mektuptan da biliyoruz.
+
+230
+00:22:23,342 --> 00:22:27,512
+Yazdıklarından yola çıkarak değil de
+daktilodan biliyoruz.
+
+231
+00:22:28,930 --> 00:22:32,267
+Daktilo hataları parmak izi gibidir.
+
+232
+00:22:33,018 --> 00:22:38,648
+Onun daktilosuyla yazılmış.
+"E" leri hafif yüksek yazan bir Hermes.
+
+233
+00:22:41,485 --> 00:22:43,487
+O kadarını hiçbir hırsız düşünemez.
+
+234
+00:22:44,988 --> 00:22:45,988
+Doğru.
+
+235
+00:22:51,328 --> 00:22:52,328
+Miles'i tanırsınız.
+
+236
+00:22:52,370 --> 00:22:54,706
+Pek sayılmaz.
+Geçen yıl Napoli'de görüştük,
+
+237
+00:22:54,790 --> 00:22:56,750
+Dickie'nin yanında kaldığım sırada.
+
+238
+00:22:56,833 --> 00:23:00,128
+Ama o tek görüşme
+ondan hoşlanmamanıza yetmiş,
+
+239
+00:23:00,212 --> 00:23:01,963
+Sinyor Greenleaf öyle diyor.
+
+240
+00:23:02,047 --> 00:23:03,381
+Doğru.
+
+241
+00:23:03,465 --> 00:23:06,718
+Miles'in ölümünde
+sizin parmağınız olduğunu
+
+242
+00:23:06,802 --> 00:23:08,553
+ima etmeye çalıştı.
+
+243
+00:23:08,637 --> 00:23:10,847
+- Benim mi?
+- Evet, Roma'da görüştüğümüzde.
+
+244
+00:23:11,515 --> 00:23:13,308
+Ama yalan olduğunu anladım.
+
+245
+00:23:14,101 --> 00:23:15,101
+İyi bari.
+
+246
+00:23:15,519 --> 00:23:18,647
+Sizce bir tartışma yaşamış olabilirler mi?
+
+247
+00:23:20,065 --> 00:23:20,899
+Bilemiyorum.
+
+248
+00:23:20,982 --> 00:23:23,068
+Sadece o gece için sormuyorum,
+
+249
+00:23:23,151 --> 00:23:27,364
+aralarında sizin bildiğiniz
+herhangi bir sorun var mıydı?
+
+250
+00:23:28,031 --> 00:23:29,574
+Sorun mu? Hayır ama...
+
+251
+00:23:32,160 --> 00:23:33,160
+Ama?
+
+252
+00:23:35,038 --> 00:23:38,125
+Dickie'nin özel hayatını
+benim anlatmam doğru olmaz.
+
+253
+00:23:38,667 --> 00:23:39,960
+Bence olur.
+
+254
+00:23:40,502 --> 00:23:43,922
+Belki bize karakteriyle ilgili
+bilmediğimiz şeyler
+
+255
+00:23:44,005 --> 00:23:45,549
+söyleyebilirsiniz.
+
+256
+00:23:46,424 --> 00:23:49,052
+Sizinle görüşmeye gelmemin nedeni de bu.
+
+257
+00:23:50,887 --> 00:23:54,474
+Sinyor Greenleaf sizinle
+gönül meselelerini hiç konuşmaz mıydı?
+
+258
+00:24:00,147 --> 00:24:03,024
+Siz belli ki söylemeyeceksiniz,
+ben söyleyeyim.
+
+259
+00:24:04,609 --> 00:24:06,987
+Şöyle bir ihtimal de var,
+
+260
+00:24:07,070 --> 00:24:11,241
+Sinyor Greenleaf ve Miles belki de...
+
+261
+00:24:14,744 --> 00:24:15,745
+...çok yakınlardı.
+
+262
+00:24:18,748 --> 00:24:22,502
+Cinayet gecesi için bir tanığı yok.
+
+263
+00:24:22,586 --> 00:24:25,338
+Sorgulamaya gelmeyi reddetti.
+
+264
+00:24:26,047 --> 00:24:29,217
+Bir yerlere gitti,
+hem de resim yapmaya değil.
+
+265
+00:24:30,510 --> 00:24:33,847
+Nerede olduğunu da size bile söylemedi.
+
+266
+00:24:35,307 --> 00:24:38,852
+Arkadaşınız hakkında
+kötü düşünmek istemiyorsunuz, anlıyorum
+
+267
+00:24:38,935 --> 00:24:40,395
+ama gerçekler bunlar.
+
+268
+00:24:42,564 --> 00:24:43,565
+Evet.
+
+269
+00:24:47,861 --> 00:24:49,905
+Bu görüşme için teşekkürler Thomas.
+
+270
+00:24:49,988 --> 00:24:51,615
+Görüşlerin kıymetli.
+
+271
+00:24:52,407 --> 00:24:53,825
+Moretti'ye söylerim,
+
+272
+00:24:53,909 --> 00:24:57,370
+pasaportunu sabah gönderirler.
+
+273
+00:24:57,454 --> 00:24:58,454
+Teşekkür ederim.
+
+274
+00:25:06,087 --> 00:25:08,256
+Hayır. Çıkışı biliyorum.
+
+275
+00:25:18,808 --> 00:25:22,020
+KAYIP AMERİKALI THOMAS RIPLEY
+VENEDİK'TE SAĞ BULUNDU
+
+276
+00:26:01,226 --> 00:26:03,979
+RICHARD GREENLEAF
+KAÇAK ZAMPARA
+
+277
+00:26:29,504 --> 00:26:32,799
+FOTOĞRAFLAR, MARJORIE SHERWOOD
+YAZAR/FOTOĞRAFÇI
+
+278
+00:26:39,973 --> 00:26:41,808
+Pardon Tommaso. Bu az önce geldi.
+
+279
+00:26:55,405 --> 00:27:00,577
+<i>Kont Vittorio Araldi
+sizi partiye davet ediyor.</i>
+
+280
+00:27:00,660 --> 00:27:04,581
+<i>Söz konusu parti 10 Mart'ta, saat 15.00'te</i>
+
+281
+00:27:04,664 --> 00:27:08,877
+<i>San Marco, Venedik'teki
+Palazzo Araldi'de yapılacak.</i>
+
+282
+00:27:19,929 --> 00:27:23,141
+Sizce Dickie nerede?
+Yerini biliyorsunuz, değil mi?
+
+283
+00:27:23,224 --> 00:27:26,144
+Bilmiyorum. Belki Fransa'nın güneyindedir.
+
+284
+00:27:26,227 --> 00:27:27,354
+Resim yapıyordur.
+
+285
+00:27:27,437 --> 00:27:30,231
+Resim mi yapıyor?
+Gazetelerde o yazmıyordu.
+
+286
+00:27:30,315 --> 00:27:31,775
+Kendisi çok iyi bir ressam.
+
+287
+00:27:32,442 --> 00:27:33,860
+Di Massimo'dan ders almış.
+
+288
+00:27:36,863 --> 00:27:39,115
+Benim de portremi çizmişti.
+
+289
+00:27:40,325 --> 00:27:42,410
+Menajeri olmayı isterdim.
+
+290
+00:27:43,745 --> 00:27:45,580
+Özellikle de Miles'ı öldürdüyse.
+
+291
+00:27:46,706 --> 00:27:50,126
+O zaman tabloları daha pahalıya gider.
+
+292
+00:27:52,837 --> 00:27:53,838
+Umarım öldürmüştür.
+
+293
+00:27:57,092 --> 00:27:58,885
+Affedersiniz.
+
+294
+00:28:01,346 --> 00:28:02,972
+Çok heyecanlı.
+
+295
+00:28:18,655 --> 00:28:20,365
+Her şey çok sıkıcı, değil mi?
+
+296
+00:28:21,991 --> 00:28:24,452
+Para çok ama başka hiçbir şey yok.
+
+297
+00:28:25,787 --> 00:28:27,997
+Ben sadece Château Margaux için geldim.
+
+298
+00:28:28,081 --> 00:28:29,416
+Kimseye söyleme.
+
+299
+00:28:29,499 --> 00:28:31,459
+Reeves Minot. Otursana.
+
+300
+00:28:35,505 --> 00:28:36,423
+Tom.
+
+301
+00:28:36,506 --> 00:28:37,507
+Evet. Biliyorum.
+
+302
+00:28:39,175 --> 00:28:41,010
+Ev sahibimiz Kont'la görüştün mü?
+
+303
+00:28:43,263 --> 00:28:44,472
+Sadece selamlaştık.
+
+304
+00:28:44,556 --> 00:28:45,807
+Araba yarışı yapıyor.
+
+305
+00:28:46,599 --> 00:28:49,769
+Kontes de film yapımcısı.
+
+306
+00:28:51,062 --> 00:28:52,147
+Bir başka ifadeyle
+
+307
+00:28:52,731 --> 00:28:53,898
+hiçbir şey yapmıyorlar.
+
+308
+00:28:55,817 --> 00:28:58,945
+Ruhsuz hayatlarına
+enerji getirirsin diye umuyorlar.
+
+309
+00:29:00,655 --> 00:29:02,157
+New York'lu musun?
+
+310
+00:29:02,240 --> 00:29:03,240
+Evet.
+
+311
+00:29:03,867 --> 00:29:05,952
+Ama artık İtalya'da yaşıyorsun.
+
+312
+00:29:06,035 --> 00:29:08,997
+Venedik'te evim var. Sen peki?
+
+313
+00:29:09,706 --> 00:29:11,958
+Başka yere gitmedikçe
+burada oluyorum, evet.
+
+314
+00:29:12,041 --> 00:29:13,376
+Şu anda buradayım.
+
+315
+00:29:15,295 --> 00:29:16,296
+Ne iş yapıyorsun?
+
+316
+00:29:17,380 --> 00:29:18,757
+Güzel soru.
+
+317
+00:29:18,840 --> 00:29:20,216
+Ne iş yapıyorum?
+
+318
+00:29:21,468 --> 00:29:22,886
+Ne iş yapıyorum?
+
+319
+00:29:24,012 --> 00:29:27,390
+Buldum. Sanat simsarıyım.
+
+320
+00:29:27,474 --> 00:29:29,017
+Evet, öyle diyebiliriz.
+
+321
+00:29:29,893 --> 00:29:34,272
+Peki sen? Gazetelerde
+mesleğinden hiç bahsedilmiyor,
+
+322
+00:29:34,355 --> 00:29:37,484
+sadece "kaçağın yakın arkadaşı" deniyor.
+
+323
+00:29:39,027 --> 00:29:40,528
+Ben de sanat simsarıyım.
+
+324
+00:29:42,238 --> 00:29:45,492
+Tahmin etmiştim. Genelde doğru bilirim.
+
+325
+00:29:46,367 --> 00:29:47,368
+Ben de.
+
+326
+00:29:51,456 --> 00:29:55,710
+Evet, olur da...
+
+327
+00:29:58,588 --> 00:30:00,006
+...sanat konuşmak...
+
+328
+00:30:02,133 --> 00:30:03,218
+...istersen...
+
+329
+00:30:05,386 --> 00:30:06,513
+...beni ara.
+
+330
+00:30:10,266 --> 00:30:11,851
+Şimdi biraz hoşbeş etmem lazım.
+
+331
+00:30:12,477 --> 00:30:14,103
+Şarabın bedeli.
+
+332
+00:30:14,896 --> 00:30:16,231
+Memnun oldum Tom.
+
+333
+00:30:27,075 --> 00:30:29,786
+{\an8}ROMA
+
+334
+00:31:31,139 --> 00:31:33,850
+Sinyorina Marjorie Sherwood sizi arıyor.
+
+335
+00:31:49,490 --> 00:31:51,159
+<i>Tom? Ben Marge.</i>
+
+336
+00:31:51,826 --> 00:31:53,578
+Marge. Merhaba.
+
+337
+00:31:54,329 --> 00:31:56,289
+<i>Telefonu açan kimdi?</i>
+
+338
+00:31:57,498 --> 00:31:59,334
+Evin kâhyası Ugo.
+
+339
+00:31:59,417 --> 00:32:00,417
+<i>Ne?</i>
+
+340
+00:32:00,835 --> 00:32:01,835
+Neredesin?
+
+341
+00:32:02,295 --> 00:32:03,880
+Tren istasyonundayım.
+
+342
+00:32:05,089 --> 00:32:07,342
+Burada mı? Santa Lucia'da mı?
+
+343
+00:32:07,425 --> 00:32:08,468
+<i>Evet.</i>
+
+344
+00:32:08,551 --> 00:32:10,261
+Ne güzel. Almaya geleyim o zaman.
+
+345
+00:32:11,304 --> 00:32:13,389
+Gerek yok. Eşyam az zaten.
+
+346
+00:32:13,473 --> 00:32:15,934
+<i>Saçmalama. Evi kendin bulamazsın.</i>
+
+347
+00:32:16,017 --> 00:32:17,435
+Bulabilirim bence.
+
+348
+00:32:17,518 --> 00:32:19,103
+Madonna della Salute, değil mi?
+
+349
+00:32:20,146 --> 00:32:21,147
+Evet.
+
+350
+00:32:22,815 --> 00:32:24,317
+Tamam, sen bilirsin.
+
+351
+00:32:25,401 --> 00:32:27,153
+<i>Vaporetto'da</i> dikkatli ol, düşme.
+
+352
+00:32:46,047 --> 00:32:47,674
+Biraz sağa.
+
+353
+00:32:47,757 --> 00:32:48,758
+Hayır, fazla oldu.
+
+354
+00:32:49,509 --> 00:32:51,094
+Biraz yukarı.
+
+355
+00:32:58,601 --> 00:32:59,936
+Çerçevelettik.
+
+356
+00:33:00,019 --> 00:33:02,522
+- Beğendiniz mi?
+- Evet, çok güzel. Teşekkürler.
+
+357
+00:33:02,605 --> 00:33:07,652
+Bir arkadaşım gelecek,
+yemeği büyük ihtimalle dışarıda yeriz.
+
+358
+00:33:07,735 --> 00:33:10,947
+Ugo'yla sen bugün izinlisiniz.
+
+359
+00:33:13,366 --> 00:33:14,409
+Genç bir hanım mı?
+
+360
+00:33:16,160 --> 00:33:17,161
+Öyle.
+
+361
+00:33:18,204 --> 00:33:19,455
+Aferin Thomas.
+
+362
+00:33:20,957 --> 00:33:23,334
+Öyle bir şey değil.
+
+363
+00:33:23,418 --> 00:33:25,253
+Sadece eski bir arkadaşım.
+
+364
+00:33:26,045 --> 00:33:27,088
+Peki.
+
+365
+00:33:33,553 --> 00:33:34,470
+Hadi.
+
+366
+00:33:34,554 --> 00:33:36,514
+Bugün izinlisiniz dedi ya.
+
+367
+00:33:52,905 --> 00:33:54,741
+Marge, seni gördüğüme sevindim.
+
+368
+00:33:55,450 --> 00:33:56,450
+Çok değişmişsin.
+
+369
+00:33:58,036 --> 00:33:59,954
+Bu mu? Bir deneyeyim dedim.
+
+370
+00:34:00,788 --> 00:34:02,373
+Gelsene. Başka eşyan yok mu?
+
+371
+00:34:08,171 --> 00:34:09,213
+Bu taraftan.
+
+372
+00:34:18,765 --> 00:34:19,974
+Buranın hepsi senin mi?
+
+373
+00:34:20,808 --> 00:34:23,519
+Ölü sezonda kiralar çok ucuz oluyor.
+
+374
+00:34:24,270 --> 00:34:25,146
+Kâhyası da mı var?
+
+375
+00:34:25,229 --> 00:34:27,023
+Artı hizmetçi. İkisi de eve dâhil.
+
+376
+00:34:28,483 --> 00:34:29,484
+İnanmıyorum.
+
+377
+00:34:31,944 --> 00:34:33,196
+Çok güzel yani.
+
+378
+00:34:35,698 --> 00:34:37,492
+- Şarap alır mısın?
+- Olur.
+
+379
+00:34:46,084 --> 00:34:47,293
+Çok güzel.
+
+380
+00:34:48,419 --> 00:34:50,546
+Dergide fotoğraflarını gördüm.
+
+381
+00:34:51,214 --> 00:34:52,256
+- Gerçekten mi?
+- Evet.
+
+382
+00:34:55,301 --> 00:34:57,136
+- Çok güzeldi.
+- Teşekkür ederim.
+
+383
+00:34:59,388 --> 00:35:01,849
+İki dergide çıktı aslında.
+
+384
+00:35:01,933 --> 00:35:03,309
+<i>Oggi</i> ve <i>Le Ore.</i>
+
+385
+00:35:03,392 --> 00:35:05,186
+Öyle mi? Ben sadece birini gördüm.
+
+386
+00:35:13,194 --> 00:35:14,570
+Bay Greenleaf'le konuştum.
+
+387
+00:35:15,780 --> 00:35:17,865
+Tahmin edeceğin gibi çok üzgün.
+
+388
+00:35:17,949 --> 00:35:19,283
+Nasıl üzgün olmasın?
+
+389
+00:35:19,867 --> 00:35:22,245
+Buraya gelip seninle konuşmayı düşünüyor.
+
+390
+00:35:22,328 --> 00:35:23,371
+Öyle mi?
+
+391
+00:35:23,454 --> 00:35:24,539
+Şu anda İtalya'da.
+
+392
+00:35:25,123 --> 00:35:27,500
+Roma'da. Polisle konuşuyor.
+
+393
+00:35:30,211 --> 00:35:31,462
+Umarım gelir.
+
+394
+00:35:31,546 --> 00:35:32,880
+Yardımım olursa sevinirim.
+
+395
+00:35:33,673 --> 00:35:35,258
+Benden pek hoşlanmıyor sanırım.
+
+396
+00:35:36,592 --> 00:35:38,344
+Doğru, hoşlanmıyor.
+
+397
+00:35:39,804 --> 00:35:42,140
+Onu ve Dickie'yi kullandığını düşünüyor.
+
+398
+00:35:42,723 --> 00:35:44,142
+Öyle düşünmesine üzüldüm.
+
+399
+00:35:45,309 --> 00:35:47,019
+Dickie'den hiçbir şey almadım.
+
+400
+00:35:49,480 --> 00:35:50,982
+Polis seninle de konuştu mu?
+
+401
+00:35:51,816 --> 00:35:54,485
+Evet, bir komiserle konuştum.
+
+402
+00:35:55,820 --> 00:35:58,990
+- Ravini.
+- Ravini. Oydu sanırım.
+
+403
+00:36:00,199 --> 00:36:02,368
+Güya bir tanık varmış, bahsetti mi?
+
+404
+00:36:02,451 --> 00:36:03,828
+Dickie'nin evinin orada mı?
+
+405
+00:36:04,745 --> 00:36:07,331
+Belki de sahiden
+Dickie ile Freddie'yi görmüştür.
+
+406
+00:36:07,415 --> 00:36:08,541
+Ama bu kanıt değil ki.
+
+407
+00:36:08,624 --> 00:36:11,002
+Dickie arabasına kadar
+götürdüyse ne olmuş?
+
+408
+00:36:11,085 --> 00:36:13,087
+Aynen. Öldürdüğü anlamına gelmez.
+
+409
+00:36:15,381 --> 00:36:17,550
+Sana seyahat çeklerinden bahsetti mi?
+
+410
+00:36:18,509 --> 00:36:20,303
+- Hayır.
+- Palermo'dan ayrılmadan
+
+411
+00:36:20,386 --> 00:36:22,805
+binlerce dolarlık
+seyahat çekini bozdurmuş.
+
+412
+00:36:23,431 --> 00:36:24,473
+Önemli bir şey mi?
+
+413
+00:36:24,557 --> 00:36:27,810
+İntihar edecek olsa öyle yapmazdı.
+
+414
+00:36:28,603 --> 00:36:29,729
+Onu kim söylüyor?
+
+415
+00:36:30,271 --> 00:36:32,565
+Ravini. Korkunç bir adam.
+
+416
+00:36:34,317 --> 00:36:36,235
+Bana normal görünmüştü ama...
+
+417
+00:36:36,319 --> 00:36:38,112
+Hayır, o konuda yanılıyor bence.
+
+418
+00:36:38,196 --> 00:36:40,698
+Bence de. Dickie öyle şey yapmaz.
+
+419
+00:36:42,158 --> 00:36:44,577
+- Ama endişeleniyorum.
+- Bence iyidir.
+
+420
+00:36:44,660 --> 00:36:47,747
+Tanca'daki bir barda oturmuş,
+naneli çay içiyordur,
+
+421
+00:36:47,830 --> 00:36:49,874
+burada olanlardan haberi yoktur.
+
+422
+00:36:51,792 --> 00:36:54,545
+Palermo'dan sana mektup yazmadı, değil mi?
+
+423
+00:36:55,421 --> 00:36:57,590
+Yazmadı. Neden sordun?
+
+424
+00:36:57,673 --> 00:37:00,551
+Oradayken neler düşündüğünü
+anlamaya çalışıyorum.
+
+425
+00:37:01,427 --> 00:37:02,428
+Sen ona yazdın mı?
+
+426
+00:37:05,389 --> 00:37:06,933
+Burnumu sokmaya çalışmıyorum.
+
+427
+00:37:07,016 --> 00:37:09,560
+Ama muhtemelen
+Freddie'nin başına gelenlerden
+
+428
+00:37:09,644 --> 00:37:12,480
+ve polisin muamelesinden dolayı
+psikolojisi bozuktu.
+
+429
+00:37:16,359 --> 00:37:17,443
+Yazdım, evet.
+
+430
+00:37:19,278 --> 00:37:20,947
+Çok kötü bir mektup değildi
+
+431
+00:37:21,030 --> 00:37:23,741
+ama maalesef kibar bir mektup da değildi.
+
+432
+00:37:24,825 --> 00:37:27,245
+Sence öyle bir mektup şey olabilir mi...
+
+433
+00:37:28,246 --> 00:37:29,497
+Son damla mı?
+
+434
+00:37:32,208 --> 00:37:34,543
+Bana ne gözle bakıyordu, hiç bilmiyorum.
+
+435
+00:37:43,010 --> 00:37:44,720
+Ciddi soruyorum, kim öldü?
+
+436
+00:37:47,890 --> 00:37:49,016
+Ne?
+
+437
+00:37:49,100 --> 00:37:50,935
+Burası bildiğin saray.
+
+438
+00:37:51,769 --> 00:37:53,145
+İki de hizmetçisi var.
+
+439
+00:37:54,188 --> 00:37:55,314
+Teyzem.
+
+440
+00:37:55,940 --> 00:37:57,066
+Ne?
+
+441
+00:37:57,149 --> 00:37:58,609
+Ben beş yaşındayken
+
+442
+00:37:58,693 --> 00:38:02,196
+annemle babam kazada ölünce
+beni yanına alan Dottie teyzem öldü.
+
+443
+00:38:05,157 --> 00:38:08,035
+Espri yapıyordum Tom.
+
+444
+00:38:09,704 --> 00:38:11,747
+Bir şey olduğunu düşünmemiştim.
+
+445
+00:38:13,207 --> 00:38:16,419
+Sevdiklerimiz hiç ölmeyecek sanıyoruz
+ama öyle olmuyor.
+
+446
+00:38:21,757 --> 00:38:24,093
+Başın sağ olsun. Utandım şimdi.
+
+447
+00:38:24,176 --> 00:38:26,012
+Önemli değil. İyi bir hayat yaşadı.
+
+448
+00:38:26,887 --> 00:38:29,724
+Çok bir para değil
+ama bu kış göçebe gibi yaşadığımdan
+
+449
+00:38:29,807 --> 00:38:32,643
+kendime bir güzellik yapayım dedim.
+
+450
+00:38:33,311 --> 00:38:35,021
+O da bunu isterdi sanırım.
+
+451
+00:38:36,605 --> 00:38:38,816
+Son görüşmemizden sonra nerelerdeydin?
+
+452
+00:38:39,817 --> 00:38:41,902
+Gazetelere bakılırsa kaybolmuşsun.
+
+453
+00:38:41,986 --> 00:38:44,071
+Evet ama Tom'la değil. Dickie ile değil.
+
+454
+00:38:47,283 --> 00:38:49,535
+Birlikte olduğumuzu sanmışsındır
+
+455
+00:38:49,618 --> 00:38:52,496
+ama kış boyunca ben de onu çok az gördüm.
+
+456
+00:38:59,670 --> 00:39:02,214
+- Sorun değil.
+- Olamaz. Tom, özür dilerim.
+
+457
+00:39:02,298 --> 00:39:04,383
+Sorun değil. Kafana takma.
+
+458
+00:39:07,762 --> 00:39:09,221
+Hallettim.
+
+459
+00:39:11,098 --> 00:39:12,725
+Merak etme. Sorun değil.
+
+460
+00:39:27,948 --> 00:39:28,949
+Sorun değil.
+
+461
+00:39:30,743 --> 00:39:31,911
+Altı üstü bir kitap.
+
+462
+00:39:36,791 --> 00:39:38,584
+Ben otelime gideyim artık.
+
+463
+00:39:39,418 --> 00:39:40,836
+Yer ayırttın bile mi?
+
+464
+00:39:41,462 --> 00:39:44,131
+İstasyondayken ayırttım.
+The Accademia Otel.
+
+465
+00:39:44,215 --> 00:39:46,050
+The Accademia. Güzeldir.
+
+466
+00:39:46,133 --> 00:39:48,260
+Burada kalabilirsin diyecektim ama...
+
+467
+00:39:49,011 --> 00:39:50,011
+Gerçekten mi?
+
+468
+00:39:51,430 --> 00:39:53,140
+Sağ olasın. Oteli iptal ederim.
+
+469
+00:39:55,726 --> 00:39:57,436
+Evi de daha iyi görmüş olurum.
+
+470
+00:40:10,866 --> 00:40:11,909
+Benim odam.
+
+471
+00:40:21,752 --> 00:40:23,003
+Güzelmiş.
+
+472
+00:40:25,673 --> 00:40:26,674
+Tamam.
+
+473
+00:40:34,140 --> 00:40:35,141
+Senin odan.
+
+474
+00:40:40,938 --> 00:40:42,273
+Odamı beğendim.
+
+475
+00:40:43,858 --> 00:40:44,859
+İyi bari.
+
+476
+00:41:14,430 --> 00:41:15,806
+Çok romantik.
+
+477
+00:42:02,019 --> 00:42:03,521
+Bu parti bu akşam.
+
+478
+00:42:04,230 --> 00:42:07,316
+Öyle mi? Çok davet geliyor.
+
+479
+00:42:07,399 --> 00:42:08,817
+Peggy Guggenheim mı?
+
+480
+00:42:09,693 --> 00:42:11,362
+Kızı göndermiş sanırım.
+
+481
+00:42:12,988 --> 00:42:14,907
+Evet, Pegeen Guggenheim'mış.
+
+482
+00:42:14,990 --> 00:42:16,325
+Yine de gidelim bence.
+
+483
+00:42:17,952 --> 00:42:19,787
+İstemiyorum Marge.
+
+484
+00:42:20,412 --> 00:42:23,415
+Hadi ama. Kim bilir kimler vardır orada.
+
+485
+00:42:36,178 --> 00:42:37,471
+Benim bir teorim var.
+
+486
+00:42:38,347 --> 00:42:40,975
+Dickie pasaportunu başkasıyla takas etti.
+
+487
+00:42:41,058 --> 00:42:43,602
+Napolili bir balıkçıyla,
+Romalı bir bakkalla.
+
+488
+00:42:43,686 --> 00:42:45,938
+Sessiz sakin bir hayat yaşayabilmek için.
+
+489
+00:42:46,772 --> 00:42:48,357
+Bu yüzden kimse onu bulamıyor.
+
+490
+00:42:48,440 --> 00:42:51,068
+Sahte çekleri hazırlayan da o adam.
+
+491
+00:42:51,151 --> 00:42:53,153
+Polis o adamı bulabilirse
+
+492
+00:42:53,779 --> 00:42:55,781
+Dickie'nin kullandığı ismi öğrenir.
+
+493
+00:42:56,865 --> 00:43:01,078
+Bu teorinin zayıf yanı,
+sahte çeklerin ocak ayında kullanılması.
+
+494
+00:43:01,161 --> 00:43:03,747
+Dickie'yi tanıyan birçok kişi
+şubatta onu görmüş.
+
+495
+00:43:05,165 --> 00:43:06,166
+Kim görmüş?
+
+496
+00:43:06,250 --> 00:43:07,751
+Mesela ben.
+
+497
+00:43:08,836 --> 00:43:09,920
+O senin iddian.
+
+498
+00:43:13,632 --> 00:43:14,842
+Espri yapıyorum.
+
+499
+00:43:16,343 --> 00:43:17,511
+Evet.
+
+500
+00:43:21,307 --> 00:43:22,349
+İzninizle.
+
+501
+00:43:24,977 --> 00:43:26,812
+Bence adam ölmüş.
+
+502
+00:43:26,895 --> 00:43:28,355
+Katil de sahte çekleri yapan.
+
+503
+00:43:30,149 --> 00:43:33,360
+<i>Oggi'de</i> fotoğraflarım yayımlandıktan sonra
+
+504
+00:43:33,444 --> 00:43:37,323
+New York'tan iki yayınevi
+kitabımla ilgili beni aradı.
+
+505
+00:43:38,115 --> 00:43:39,491
+Kitabın konusu Dickie mi?
+
+506
+00:43:40,075 --> 00:43:42,745
+Hayır, Atrani. Resimli bir kitap.
+
+507
+00:43:43,746 --> 00:43:47,625
+Ama sonraki kitabım
+Dickie hakkında olacak,
+
+508
+00:43:47,708 --> 00:43:48,917
+ilişkimizi anlatacağım.
+
+509
+00:43:50,419 --> 00:43:51,420
+Gitsek iyi olur.
+
+510
+00:43:53,422 --> 00:43:54,632
+Ben gitmek istemiyorum.
+
+511
+00:43:57,676 --> 00:43:59,178
+Müsaade eder misiniz?
+
+512
+00:43:59,261 --> 00:44:00,261
+Tabii.
+
+513
+00:44:01,555 --> 00:44:03,599
+Ne yapıyorsun? İnsanlarla konuşuyordum.
+
+514
+00:44:03,682 --> 00:44:06,477
+Marge, Dickie
+bu insanların umurunda değil.
+
+515
+00:44:06,560 --> 00:44:08,812
+Hayır. Dickie'yi çok merak ediyorlar.
+
+516
+00:44:08,896 --> 00:44:11,982
+Sıkıcı hayatlarına
+eğlence katsın diye, hepsi o.
+
+517
+00:44:13,567 --> 00:44:14,777
+Aynı fikirde değilim.
+
+518
+00:44:16,528 --> 00:44:19,323
+Dickie'yi böyle kullanmalarına
+izin vermemiz yanlış.
+
+519
+00:44:19,406 --> 00:44:20,406
+Midemi bulandırıyor.
+
+520
+00:44:22,743 --> 00:44:24,370
+Ben bir içki daha alacağım.
+
+521
+00:44:24,912 --> 00:44:26,705
+Yeterince içtin bence.
+
+522
+00:44:27,373 --> 00:44:28,373
+Hadi gidelim.
+
+523
+00:44:44,139 --> 00:44:46,475
+Marge. Bu taraftan.
+
+524
+00:44:49,853 --> 00:44:51,522
+Gondolla dönmek istiyorum.
+
+525
+00:44:52,314 --> 00:44:53,190
+Olmaz.
+
+526
+00:44:53,273 --> 00:44:54,316
+Hadi ama.
+
+527
+00:44:54,400 --> 00:44:55,818
+Hayır, çok uzun sürer.
+
+528
+00:44:56,568 --> 00:44:57,694
+Lütfen.
+
+529
+00:44:59,780 --> 00:45:00,989
+Lütfen Tommy.
+
+530
+00:45:48,954 --> 00:45:50,873
+Marge. Geldik.
+
+531
+00:46:02,217 --> 00:46:03,385
+Gel hadi.
+
+532
+00:46:17,566 --> 00:46:20,819
+- Anahtarı almamış mıydın?
+- Almamıştım. Neden, biliyor musun?
+
+533
+00:46:21,403 --> 00:46:23,906
+Çünkü böyle kocaman, tabanca ağırlığında,
+
+534
+00:46:23,989 --> 00:46:25,866
+bir de eve gondolla dönmem.
+
+535
+00:46:29,870 --> 00:46:31,079
+Geri gelebilir misiniz?
+
+536
+00:46:31,163 --> 00:46:32,498
+Hayır.
+
+537
+00:46:32,581 --> 00:46:34,416
+Anahtarı evde unutmuşum.
+
+538
+00:46:34,500 --> 00:46:37,377
+Benim mesaim bitti.
+Başka bir gondol bulun.
+
+539
+00:46:40,547 --> 00:46:41,590
+Komik.
+
+540
+00:46:42,508 --> 00:46:44,176
+Eminim bir geçen olur.
+
+541
+00:46:47,429 --> 00:46:50,516
+Şuradan tırmanıp ön tarafa geçelim.
+O anahtar yanımda.
+
+542
+00:46:52,017 --> 00:46:53,143
+Ben oradan tırmanamam.
+
+543
+00:46:55,687 --> 00:46:56,687
+Uçları sivri.
+
+544
+00:47:00,400 --> 00:47:01,944
+Hadi ama Marge. Çok kolay.
+
+545
+00:47:04,488 --> 00:47:05,531
+Tamam, ben yaparım.
+
+546
+00:47:07,074 --> 00:47:08,450
+Kabanını verir misin?
+
+547
+00:47:11,245 --> 00:47:12,538
+Üşüdüm.
+
+548
+00:47:20,170 --> 00:47:21,255
+Teşekkür ederim.
+
+549
+00:48:14,850 --> 00:48:15,850
+"Tommy" mi?
+
+550
+00:48:18,103 --> 00:48:19,187
+Bana Tommy deme.
+
+551
+00:48:38,206 --> 00:48:40,375
+<i>Orada beni bekleyeceğini söylemişti.</i>
+
+552
+00:48:42,711 --> 00:48:46,173
+Biraz fazla kaçırmıştı
+ama sorun olmaz diye düşündüm.
+
+553
+00:48:48,216 --> 00:48:50,218
+Düşüp başını çarptı herhâlde.
+
+554
+00:48:52,220 --> 00:48:55,474
+Kanal merdivenleri kaygan olur.
+
+555
+00:48:56,850 --> 00:48:58,393
+Yosundan dolayı.
+
+556
+00:48:59,770 --> 00:49:00,770
+Evet.
+
+557
+00:49:09,404 --> 00:49:10,404
+Geldim.
+
+558
+00:49:12,366 --> 00:49:13,367
+İyi bari.
+
+559
+00:50:08,422 --> 00:50:09,715
+Nasıl oldun?
+
+560
+00:50:11,174 --> 00:50:13,301
+Berbatım. Akşamdan kalmayım.
+
+561
+00:50:14,928 --> 00:50:16,012
+Kahve alır mısın?
+
+562
+00:50:17,514 --> 00:50:18,515
+Evet.
+
+563
+00:50:27,149 --> 00:50:29,693
+Bu sabah geldi. Bay Greenleaf göndermiş.
+
+564
+00:50:34,698 --> 00:50:37,868
+SİZDEN GÖRÜŞME TALEP EDİYORUM
+E. GREENLEAF
+
+565
+00:50:37,951 --> 00:50:39,786
+"Sizden görüşme talep ediyorum."
+
+566
+00:50:40,787 --> 00:50:42,706
+Niye bu kadar resmî yazmış?
+
+567
+00:50:42,789 --> 00:50:43,832
+Tuhaf, değil mi?
+
+568
+00:50:43,915 --> 00:50:45,083
+Evet. Biraz.
+
+569
+00:50:49,546 --> 00:50:50,546
+Evet.
+
+570
+00:50:52,132 --> 00:50:54,384
+Fazla gecikmeden gidelim.
+
+571
+00:50:55,010 --> 00:50:56,094
+Ben gelmeyeyim.
+
+572
+00:50:56,762 --> 00:50:58,180
+Olmaz. Neden gelmiyorsun?
+
+573
+00:50:58,972 --> 00:51:01,057
+"Siz" derken nezaket icabı demiş.
+
+574
+00:51:02,184 --> 00:51:03,310
+Bence çoğul kullanmış.
+
+575
+00:51:03,977 --> 00:51:05,729
+- Öyle mi?
+- Değil mi?
+
+576
+00:51:06,980 --> 00:51:07,980
+Bence öyle.
+
+577
+00:51:09,733 --> 00:51:12,694
+Öyle de olsa seninle görüşmek istiyor,
+benimle değil.
+
+578
+00:51:29,669 --> 00:51:31,379
+<i>Yalnız geldiğin iyi olmuş.</i>
+
+579
+00:51:33,006 --> 00:51:35,926
+Marge'la Roma'da görüştük zaten, yeter.
+
+580
+00:51:36,843 --> 00:51:38,094
+O kadın nasıl biri?
+
+581
+00:51:39,179 --> 00:51:40,889
+O kadar iyi tanımıyorum.
+
+582
+00:51:40,972 --> 00:51:42,390
+Ben de öyle.
+
+583
+00:51:43,600 --> 00:51:45,227
+Biraz insanı bunaltmıyor mu?
+
+584
+00:51:48,021 --> 00:51:49,856
+Bazen. İyidir yine de.
+
+585
+00:51:50,482 --> 00:51:52,734
+Bence Richard'ın parasının peşindeydi.
+
+586
+00:51:53,944 --> 00:51:54,944
+Otursana.
+
+587
+00:51:58,365 --> 00:52:01,034
+Evet Tom, tuhaf bir son oldu, değil mi?
+
+588
+00:52:02,536 --> 00:52:03,536
+Son derken?
+
+589
+00:52:04,371 --> 00:52:06,706
+Sen İtalya'dasın.
+Richard kim bilir nerede.
+
+590
+00:52:07,958 --> 00:52:13,129
+Roma'da polisle konuştum.
+Komiser bilmem neyle.
+
+591
+00:52:13,213 --> 00:52:14,130
+Ravini mi?
+
+592
+00:52:14,214 --> 00:52:15,715
+Açıkça söylemiyor
+
+593
+00:52:15,799 --> 00:52:18,885
+ama o çocuğu Richard'ın öldürdüğünü
+düşündüğü belli.
+
+594
+00:52:19,761 --> 00:52:21,888
+Richard öyle şey yapar mı sence?
+
+595
+00:52:22,597 --> 00:52:23,597
+Hayır.
+
+596
+00:52:24,683 --> 00:52:26,059
+Sizce?
+
+597
+00:52:26,142 --> 00:52:28,228
+Oğlunuzu benden daha iyi tanırsınız.
+
+598
+00:52:28,311 --> 00:52:30,814
+Tanımıyorum işte. O konuda kusurluyum.
+
+599
+00:52:33,108 --> 00:52:35,235
+Onu tanımak için fazla çaba göstermedim.
+
+600
+00:52:38,947 --> 00:52:40,115
+Sence
+
+601
+00:52:41,783 --> 00:52:43,702
+kendine zarar vermiş olabilir mi?
+
+602
+00:52:45,620 --> 00:52:47,289
+Öyle düşünmek istemiyorum.
+
+603
+00:52:48,999 --> 00:52:50,083
+Eminim iyidir.
+
+604
+00:52:50,166 --> 00:52:51,501
+Öyle mi?
+
+605
+00:52:51,585 --> 00:52:54,212
+Polise de söyledim,
+bir yerlerde resim yapıyordur.
+
+606
+00:52:54,296 --> 00:52:56,631
+Di Massimo ile mi? Tom, bu çok saçma.
+
+607
+00:52:57,340 --> 00:52:59,009
+Kimse o adamın adını duymamış.
+
+608
+00:52:59,092 --> 00:53:00,468
+Bence onu Richard uydurdu,
+
+609
+00:53:00,552 --> 00:53:03,221
+resim konusunda
+ciddi olduğunu göstermek için.
+
+610
+00:53:04,347 --> 00:53:06,266
+Keşke daha çok ciddiye alsaydım.
+
+611
+00:53:07,517 --> 00:53:09,936
+Son görüştüğünüzde nasıldı?
+
+612
+00:53:10,979 --> 00:53:12,147
+Yani...
+
+613
+00:53:16,526 --> 00:53:17,652
+Stresli gibiydi.
+
+614
+00:53:19,487 --> 00:53:20,488
+Açıkçası öyleydi.
+
+615
+00:53:20,572 --> 00:53:23,742
+Evet, gönderdiği son mektuptan da
+öyle anlaşılıyordu.
+
+616
+00:53:23,825 --> 00:53:25,619
+İyiyim diyordu ama iyi değildi.
+
+617
+00:53:29,039 --> 00:53:31,166
+Bence umudunuzu kesmeyin.
+
+618
+00:53:31,249 --> 00:53:32,249
+Kesmedim zaten.
+
+619
+00:53:34,252 --> 00:53:35,253
+Henüz kesmedim.
+
+620
+00:55:35,498 --> 00:55:36,498
+Tom.
+
+621
+00:55:36,916 --> 00:55:38,001
+Martini yapıyorum.
+
+622
+00:55:38,752 --> 00:55:40,670
+İğne iplik arıyordum.
+
+623
+00:55:41,421 --> 00:55:43,381
+Tamam. Onun içinde olması lazım.
+
+624
+00:55:46,051 --> 00:55:47,302
+Dickie'nin yüzüğü var.
+
+625
+00:55:55,185 --> 00:55:57,020
+Evet, oraya koymuştum.
+
+626
+00:55:59,564 --> 00:56:02,192
+Neden? Neden sende ki?
+
+627
+00:56:04,611 --> 00:56:06,112
+Bana vermişti.
+
+628
+00:56:08,198 --> 00:56:10,533
+Vermişti derken, emanet olarak.
+
+629
+00:56:11,701 --> 00:56:13,078
+Ne demek istiyorsun?
+
+630
+00:56:17,957 --> 00:56:19,292
+Palermo'ya giderken.
+
+631
+00:56:20,585 --> 00:56:23,588
+Çalınır falan diye korkuyordu sanırım.
+
+632
+00:56:27,133 --> 00:56:29,469
+Öyle şeylerden korkmazdı.
+
+633
+00:56:29,552 --> 00:56:33,598
+Sicilya'ya ilk gidişiydi.
+Endişeleniyormuş, öyle dedi.
+
+634
+00:56:35,558 --> 00:56:36,558
+Tom.
+
+635
+00:56:59,958 --> 00:57:01,668
+Geri dönmeye niyeti yokmuş.
+
+636
+00:57:06,881 --> 00:57:08,091
+Ne?
+
+637
+00:57:08,174 --> 00:57:09,259
+O yüzden mi?
+
+638
+00:57:12,637 --> 00:57:15,348
+İntihar etmeyi önceden mi planladı acaba?
+
+639
+00:57:17,892 --> 00:57:19,310
+Tanrım. Umarım öyle değildir.
+
+640
+00:57:35,493 --> 00:57:36,494
+Tabii.
+
+641
+00:57:37,537 --> 00:57:40,540
+Öyle yaparım.
+Sağ olun Bay Greenleaf. Hoşça kalın.
+
+642
+00:57:46,963 --> 00:57:48,256
+Ne diyor?
+
+643
+00:57:48,339 --> 00:57:50,133
+Benimle aynı fikirde.
+
+644
+00:57:50,884 --> 00:57:52,385
+Bizi çağırıyor.
+
+645
+00:57:52,469 --> 00:57:56,431
+New York'tan
+seni tanıyan bir dedektifleymiş.
+
+646
+00:57:59,184 --> 00:58:00,268
+<i>Tom Ripley.</i>
+
+647
+00:58:01,978 --> 00:58:03,480
+Seni bulmak çok zormuş.
+
+648
+00:58:16,743 --> 00:58:18,703
+21 yaşına girince vermiştim bunu.
+
+649
+00:58:21,748 --> 00:58:22,790
+Bakabilir miyim?
+
+650
+00:58:27,170 --> 00:58:28,170
+Teşekkürler.
+
+651
+00:58:33,051 --> 00:58:34,051
+Güzel yüzük.
+
+652
+00:58:39,766 --> 00:58:41,142
+Biraz konuşabilir miyiz?
+
+653
+00:58:42,936 --> 00:58:44,020
+Tabii.
+
+654
+00:58:46,689 --> 00:58:47,774
+Müsaadenizle.
+
+655
+00:59:10,964 --> 00:59:14,926
+Bunca paranın kaynağı ne Tom?
+
+656
+00:59:17,470 --> 00:59:20,098
+O yüzük aslında eline nasıl geçti?
+
+657
+00:59:22,308 --> 00:59:26,104
+Sence aptal mıyım? Kör müyüm?
+
+658
+00:59:29,023 --> 00:59:30,775
+Dickie'yi sen öldürdün, değil mi?
+
+659
+00:59:33,236 --> 00:59:34,445
+İkisini de öldürdün.
+
+660
+00:59:38,408 --> 00:59:41,411
+Peki Bay Ripley...
+
+661
+00:59:43,830 --> 00:59:45,290
+Bana Dickie'den bahset.
+
+662
+00:59:47,250 --> 00:59:48,710
+Anlamadım.
+
+663
+00:59:49,669 --> 00:59:54,382
+Hakkında bildiğin her şeyi anlat.
+Kişisel özelliklerini.
+
+664
+00:59:55,258 --> 00:59:57,218
+Tamamen aramızda kalacak.
+
+665
+00:59:59,512 --> 01:00:00,638
+Tamam.
+
+666
+01:00:02,557 --> 01:00:05,059
+Bildiğin gibi ailesi zengin.
+
+667
+01:00:06,019 --> 01:00:08,563
+Bundan kaçmak için
+yıllar önce Avrupa'ya geldi.
+
+668
+01:00:10,565 --> 01:00:12,358
+Yazar olmak istediğini söyledi.
+
+669
+01:00:14,152 --> 01:00:15,653
+Ama hiçbir şey yazmadı.
+
+670
+01:00:17,530 --> 01:00:19,282
+Ressam olmak istediğini söyledi.
+
+671
+01:00:20,992 --> 01:00:23,328
+Ama ressam olamayacağını da biliyordu.
+
+672
+01:00:25,246 --> 01:00:28,666
+Herhangi bir konuda iyi olabilecek miyim
+diye düşünüp durdu.
+
+673
+01:00:31,085 --> 01:00:32,962
+Tamamen rol yapıyordu.
+
+674
+01:00:34,547 --> 01:00:38,593
+Çok yeteneksiz olduğunu biliyordu.
+
+675
+01:00:40,136 --> 01:00:42,221
+Babasının onu onaylamadığını biliyordu.
+
+676
+01:00:44,223 --> 01:00:45,808
+Bu da içini kemiriyordu.
+
+677
+01:00:47,935 --> 01:00:49,270
+Marge onu seviyordu
+
+678
+01:00:50,438 --> 01:00:53,358
+ama Marge'ın istediği gibi onu sevemezdi.
+
+679
+01:00:56,152 --> 01:00:57,320
+Marge sebebi biliyordu.
+
+680
+01:00:59,947 --> 01:01:01,908
+O da Marge'ın bildiğini biliyordu.
+
+681
+01:01:02,909 --> 01:01:04,035
+Nedenmiş?
+
+682
+01:01:07,288 --> 01:01:08,706
+Çünkü beni seviyordu.
+
+683
+01:01:12,168 --> 01:01:13,920
+San Remo'da içini döktü.
+
+684
+01:01:14,796 --> 01:01:17,674
+Bu yüzden Marge'ı değil, beni götürdü.
+
+685
+01:01:20,426 --> 01:01:22,053
+Benimle yaşamak istiyormuş.
+
+686
+01:01:24,222 --> 01:01:25,640
+Sen ne dedin?
+
+687
+01:01:26,933 --> 01:01:28,059
+Korkunç bir şey dedim.
+
+688
+01:01:30,687 --> 01:01:32,522
+<i>Ona acıdığımı,</i>
+
+689
+01:01:33,815 --> 01:01:36,067
+<i>onunla hiçbir şey yapmak istediğimi.</i>
+
+690
+01:01:38,736 --> 01:01:40,738
+Keşke öyle demeseydim.
+
+691
+01:01:42,573 --> 01:01:43,825
+Onu kırdım.
+
+692
+01:01:47,078 --> 01:01:49,163
+Sence Freddie Miles'ı o mu öldürdü?
+
+693
+01:01:51,708 --> 01:01:53,918
+Yapmadığından artık emin değilim.
+
+694
+01:01:56,796 --> 01:01:59,006
+Sence intihar mı etti?
+
+695
+01:02:02,260 --> 01:02:04,137
+Korkarım olabilir.
+
+696
+01:02:05,430 --> 01:02:06,931
+Bence etti.
+
+697
+01:02:08,224 --> 01:02:12,353
+Bunları duyunca sebebini daha iyi anladım.
+
+698
+01:02:19,569 --> 01:02:21,404
+<i>Bildiklerimiz şunlar.</i>
+
+699
+01:02:23,114 --> 01:02:24,907
+Oğlunuz en son
+
+700
+01:02:24,991 --> 01:02:27,577
+Palermo'daki Savona Otel'den
+çıkarken görülmüş.
+
+701
+01:02:28,536 --> 01:02:31,706
+Resepsiyoniste göre
+Tunus feribotunu sormuş.
+
+702
+01:02:32,457 --> 01:02:34,542
+Oraya gittiğini varsayabiliriz.
+
+703
+01:02:35,543 --> 01:02:39,547
+Resepsiyonist üzgün, oluruna bırakmış
+göründüğünü de söylemiş.
+
+704
+01:02:41,048 --> 01:02:43,843
+Ondan sonra gören olmamış.
+
+705
+01:02:43,926 --> 01:02:46,429
+Haber de vermemiş.
+
+706
+01:02:47,054 --> 01:02:50,308
+Roma'daki ev sahibesine
+yazdığı mektup hariç.
+
+707
+01:02:50,391 --> 01:02:52,435
+Kadın onun sağlığından endişe edip
+
+708
+01:02:52,518 --> 01:02:56,355
+mektubu Komiser Ravini'ye vermiş,
+o da size getirmem için bana verdi.
+
+709
+01:02:58,149 --> 01:03:00,735
+27 Ocak'ta Palermo'dan postalanmış.
+
+710
+01:03:00,818 --> 01:03:02,737
+Tunus'a gittiği akşam.
+
+711
+01:03:03,738 --> 01:03:05,615
+Oraya vardığına dair kayıt yok.
+
+712
+01:03:06,699 --> 01:03:09,994
+Yani Sicilya'yla Kuzey Afrika arasında,
+feribotta,
+
+713
+01:03:10,995 --> 01:03:12,413
+gece yarısı
+
+714
+01:03:13,915 --> 01:03:14,916
+bir şey olmuş.
+
+715
+01:03:18,211 --> 01:03:22,215
+Ev sahibesi İngilizce bilmiyor,
+o yüzden ona mektubu İtalyanca yazmış.
+
+716
+01:03:23,508 --> 01:03:26,177
+Tom, lütfen mektubu Bay Greenleaf'e oku.
+
+717
+01:03:33,518 --> 01:03:34,852
+"Sinyora Buffi,
+
+718
+01:03:36,813 --> 01:03:38,523
+<i>umarım iyisinizdir.</i>
+
+719
+01:03:40,149 --> 01:03:43,945
+<i>Yüz yüze görüşmek yerine
+mektup gönderdiğim için özür dilerim.</i>
+
+720
+01:03:46,030 --> 01:03:47,990
+<i>Daireden taşınmaya karar verdim.</i>
+
+721
+01:03:48,616 --> 01:03:49,867
+<i>Çok memnun kaldım.</i>
+
+722
+01:03:49,951 --> 01:03:53,120
+<i>Misafirperverliğiniz için teşekkür ederim.</i>
+
+723
+01:03:55,706 --> 01:03:57,542
+<i>Ama Roma'ya dönmeyeceğim.</i>
+
+724
+01:04:01,504 --> 01:04:03,464
+<i>Aniden ayrıldığım için özür dilerim.</i>
+
+725
+01:04:03,548 --> 01:04:07,134
+<i>Yeni kiracı bulana kadar
+yapacağınız masraflar için</i>
+
+726
+01:04:07,218 --> 01:04:09,846
+<i>biraz para da gönderiyorum.</i>
+
+727
+01:04:11,138 --> 01:04:15,184
+<i>Dairedeki kıyafetlerimi,
+kitaplarımı ve resim malzemelerimi</i>
+
+728
+01:04:15,268 --> 01:04:17,687
+<i>satabilir ya da çöpe atabilirsiniz.</i>
+
+729
+01:04:18,521 --> 01:04:21,107
+Resimleri kesinlikle atın.
+
+730
+01:04:21,983 --> 01:04:22,984
+Beş para etmezler."
+
+731
+01:04:26,946 --> 01:04:28,739
+Fazla üzerinde düşünmemiştim.
+
+732
+01:04:30,491 --> 01:04:33,828
+Gazetelerde kaybolduğunu okuyunca
+aklıma geldi.
+
+733
+01:04:34,579 --> 01:04:36,163
+<i>"Evde mektuplar da var.</i>
+
+734
+01:04:36,247 --> 01:04:38,249
+<i>Bazıları eşten dosttan,</i>
+
+735
+01:04:38,332 --> 01:04:41,168
+<i>bazıları da bankalardan,
+şirketlerden falan.</i>
+
+736
+01:04:42,378 --> 01:04:46,048
+<i>Hepsini atabilirsiniz.
+Artık ihtiyacım olmayacak.</i>
+
+737
+01:04:48,801 --> 01:04:50,136
+Nereye gidiyorum?
+
+738
+01:04:52,013 --> 01:04:55,224
+Bilmiyorum. Ne yapacağımı da bilmiyorum.
+
+739
+01:04:56,142 --> 01:04:58,019
+<i>Açıkçası yolumu kaybetmiş gibiyim.</i>
+
+740
+01:04:58,811 --> 01:05:01,898
+Sebebini biliyorum
+ama anlatıp da başınızı ağrıtmayayım.
+
+741
+01:05:01,981 --> 01:05:04,108
+Sadece yaşanan bazı olaylardan
+
+742
+01:05:04,191 --> 01:05:06,319
+ve yaptığım bazı şeylerden dolayı
+
+743
+01:05:06,944 --> 01:05:08,321
+çok pişmanım.
+
+744
+01:05:09,989 --> 01:05:12,033
+Nezaketiniz için teşekkür ederim.
+
+745
+01:05:14,118 --> 01:05:16,579
+Bana böyle davranan çok az kişi olmuştu.
+
+746
+01:05:22,627 --> 01:05:23,628
+Saygılarımla...
+
+747
+01:05:27,590 --> 01:05:28,633
+Richard."
+
+748
+01:05:33,512 --> 01:05:35,723
+Bence her şey gayet açık.
+
+749
+01:05:40,519 --> 01:05:43,189
+Bayan Greenleaf'e
+başsağlığı dileğimi iletin.
+
+750
+01:05:43,272 --> 01:05:44,565
+İletirim.
+
+751
+01:05:44,649 --> 01:05:45,816
+Bu sende kalsın.
+
+752
+01:05:47,109 --> 01:05:48,444
+Yok, kabul edemem.
+
+753
+01:05:48,527 --> 01:05:52,490
+Edersin, böylesi daha iyi.
+Çalınmasından korkmuyordu.
+
+754
+01:05:52,573 --> 01:05:57,203
+Dönmeyeceğini biliyordu.
+Sana o yüzden vermiş. Al.
+
+755
+01:06:00,665 --> 01:06:03,125
+- Emin misiniz?
+- Eminim.
+
+756
+01:06:04,377 --> 01:06:06,796
+Bana bırakacak olsa öyle derdi.
+
+757
+01:06:08,589 --> 01:06:10,633
+- Teşekkür ederim.
+- Ben teşekkür ederim.
+
+758
+01:06:10,716 --> 01:06:13,844
+Özür dilerim,
+bir ara niyetinden şüphelenmiştim.
+
+759
+01:06:13,928 --> 01:06:17,139
+Ama şimdi anladım ki
+New York'ta görüşüp takdir ettiğim adam
+
+760
+01:06:17,223 --> 01:06:19,850
+hiç değişmemiş. Her şey gönlünce olsun.
+
+761
+01:06:21,227 --> 01:06:22,895
+- Teşekkürler.
+- Kendine iyi bak.
+
+762
+01:06:27,650 --> 01:06:28,693
+Sen iyi misin?
+
+763
+01:06:29,402 --> 01:06:30,403
+Düzelirim.
+
+764
+01:06:32,989 --> 01:06:34,031
+Eve mi dönüyorsun?
+
+765
+01:06:34,115 --> 01:06:36,534
+Sanırım. Zamanı geldi.
+
+766
+01:06:39,453 --> 01:06:40,453
+Peki...
+
+767
+01:06:41,539 --> 01:06:43,124
+Kendine iyi bak Marge.
+
+768
+01:06:44,208 --> 01:06:45,209
+Sen de.
+
+769
+01:07:11,485 --> 01:07:13,070
+<i>Ne kadar kasvetli bir gün.</i>
+
+770
+01:07:13,779 --> 01:07:15,031
+Daha iyisi olamazdı.
+
+771
+01:07:17,033 --> 01:07:18,117
+Nasıl gidiyor?
+
+772
+01:07:19,035 --> 01:07:20,661
+Bence memnun kalacaksın.
+
+773
+01:07:36,427 --> 01:07:37,261
+Çok iyi.
+
+774
+01:07:37,344 --> 01:07:40,598
+Pascal ne zamandır uğraşıyor.
+
+775
+01:07:48,939 --> 01:07:50,483
+İsmi beğendim.
+
+776
+01:07:51,525 --> 01:07:53,360
+Timothy Fanshaw.
+
+777
+01:10:40,903 --> 01:10:43,822
+BENİM ATRANI'M
+
+778
+01:10:47,076 --> 01:10:49,912
+EN İYİ DİLEKLERİMLE
+MARGE
+
+779
+01:10:53,332 --> 01:10:57,670
+ATRANI RÜYASINI BİRLİKTE YAŞADIĞIMIZ
+RICHARD GREENLEAF'E
+
+780
+01:11:11,392 --> 01:11:12,476
+<i>Tom.</i>
+
+781
+01:11:14,144 --> 01:11:15,145
+<i>Tom mı?</i>
+
+782
+01:11:16,146 --> 01:11:17,231
+<i>Tom kim?</i>
+
+783
+01:11:17,731 --> 01:11:18,731
+<i>Tom Ripley.</i>
+
+784
+01:11:20,192 --> 01:11:21,694
+<i>Nasıl yazılıyor?</i>
+
+785
+01:14:21,582 --> 01:14:26,587
+Alt yazı çevirmeni: Salih Bayram
+
