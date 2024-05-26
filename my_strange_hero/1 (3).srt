@@ -1064,7 +1064,7 @@ Ofis zaten dolu.
 
 267
 00:18:00,705 --> 00:18:02,145
-Bayan Oğlu.
+Bayan Son.
 
 268
 00:18:02,775 --> 00:18:06,115
@@ -1428,7 +1428,7 @@ Evet.
 
 358
 00:23:29,595 --> 00:23:31,615
-Bayan Oğlu.
+Bayan Son.
 
 359
 00:23:34,935 --> 00:23:37,900
@@ -1540,7 +1540,7 @@ Dört gözle bekliyorum.
 
 386
 00:25:24,845 --> 00:25:26,950
-Bayan Oğlu. Senden nefret mi ediyorlar?
+Bayan Son. Senden nefret mi ediyorlar?
 
 387
 00:25:26,955 --> 00:25:29,680

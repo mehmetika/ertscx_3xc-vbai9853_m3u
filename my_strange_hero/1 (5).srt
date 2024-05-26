@@ -240,7 +240,7 @@ Ve bunu yapmanın sorumluluğunu üstlenmeniz gerekecek.
 
 61
 00:03:52,317 --> 00:03:54,185
-Bayan Oğlum!
+Bayan Son!
 
 62
 00:03:54,619 --> 00:03:57,450
@@ -1236,7 +1236,7 @@ Hakkında...
 
 310
 00:19:19,076 --> 00:19:21,545
-Bayan Oğlu.
+Bayan Son.
 
 311
 00:19:22,713 --> 00:19:26,315

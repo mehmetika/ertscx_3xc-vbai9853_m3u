@@ -1840,7 +1840,7 @@ Sen ne diyorsun?
 
 461
 00:38:23,419 --> 00:38:24,915
-Bayan Oğlu.
+Bayan Son.
 
 462
 00:38:31,594 --> 00:38:35,485
@@ -1848,11 +1848,11 @@ Bayan Oğlu.
 
 463
 00:38:43,239 --> 00:38:44,835
-Bayan Oğlu.
+Bayan Son.
 
 464
 00:38:45,274 --> 00:38:46,740
-Bayan Oğlu.
+Bayan Son.
 
 465
 00:38:46,742 --> 00:38:48,765
@@ -1936,7 +1936,7 @@ Kaygılı hissetmeniz normaldir.
 
 485
 00:39:52,074 --> 00:39:53,795
-Bayan Oğlum!
+Bayan Son!
 
 486
 00:39:54,076 --> 00:39:56,270
@@ -2236,7 +2236,7 @@ Hakkım var mı?
 
 560
 00:44:32,688 --> 00:44:37,385
-Bayan Oğlu. Öğretmen Son Soo Jeong.
+Bayan Son. Öğretmen Son Soo Jeong.
 
 561
 00:44:39,428 --> 00:44:41,925
@@ -2496,7 +2496,7 @@ Sesli mesaja yönlendirileceksiniz.
 
 625
 00:49:00,188 --> 00:49:01,675
-Bayan Oğlu.
+Bayan Son.
 
 626
 00:49:02,924 --> 00:49:05,045
@@ -2924,7 +2924,7 @@ Yani korkmanıza gerek yok.
 
 732
 00:54:43,765 --> 00:54:45,255
-Bayan Oğlu.
+Bayan Son.
 
 733
 00:54:45,400 --> 00:54:47,730

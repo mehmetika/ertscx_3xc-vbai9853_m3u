@@ -544,11 +544,11 @@ Neden yalan söyledin?
 
 137
 00:11:08,386 --> 00:11:09,845
-Bayan Oğlu.
+Bayan Son.
 
 138
 00:11:10,688 --> 00:11:12,205
-Bayan Oğlu.
+Bayan Son.
 
 139
 00:11:12,990 --> 00:11:16,745
@@ -912,7 +912,7 @@ Eğer parasını ödemek zorunda olsaydın, kağıdı bu şekilde israf etmezdin
 
 229
 00:16:58,569 --> 00:17:01,230
-Bayan Oğlu. Kır Çiçeği Sınıfının Bayan Oğlu.
+Bayan Son. Kır Çiçeği Sınıfının Bayan Son.
 
 230
 00:17:01,238 --> 00:17:02,270
@@ -2768,7 +2768,7 @@ Sanırım seninle konuşmak istediği bir şey var.
 
 693
 00:46:00,042 --> 00:46:01,495
-Bayan Oğlu.
+Bayan Son.
 
 694
 00:46:01,810 --> 00:46:03,210

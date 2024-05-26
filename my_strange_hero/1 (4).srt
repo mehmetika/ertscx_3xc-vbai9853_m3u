@@ -660,7 +660,7 @@ beni okula geri getiriyor.
 
 166
 00:12:34,672 --> 00:12:36,195
-Bayan Oğlu.
+Bayan Son.
 
 167
 00:12:37,408 --> 00:12:40,065
@@ -1908,7 +1908,7 @@ Bu kadar büyük bir bardak beni kesti.
 
 478
 00:34:37,994 --> 00:34:39,555
-Bayan Oğlu.
+Bayan Son.
 
 479
 00:34:40,696 --> 00:34:42,925
@@ -2532,7 +2532,7 @@ Tanrım, ne baş ağrısı.
 
 634
 00:44:02,891 --> 00:44:04,485
-Bayan Oğlu.
+Bayan Son.
 
 635
 00:44:05,561 --> 00:44:07,515
@@ -2572,7 +2572,7 @@ Bu okuldaki şiddet değil. İyi bir nedeni vardı...
 
 644
 00:44:26,281 --> 00:44:27,775
-Bayan Oğlu.
+Bayan Son.
 
 645
 00:44:27,883 --> 00:44:29,645
@@ -2924,11 +2924,11 @@ Hayır herkes özeldir.
 
 732
 00:50:20,102 --> 00:50:22,365
-Bayan Oğlum!
+Bayan Son!
 
 733
 00:50:24,272 --> 00:50:33,335
-- Bayan Oğlum! - Bayan Oğlum!
+- Bayan Son! - Bayan Son!
 
 734
 00:50:36,885 --> 00:50:40,020

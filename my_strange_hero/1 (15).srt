@@ -1520,7 +1520,7 @@ Siz kır çiçeklerisiniz.
 
 381
 00:25:26,810 --> 00:25:29,810
-Bayan Oğlu. Bu dünyada yaşayan tek kişi sen değilsin.
+Bayan Son. Bu dünyada yaşayan tek kişi sen değilsin.
 
 382
 00:25:29,813 --> 00:25:32,710
@@ -1776,7 +1776,7 @@ Hadi gidelim.
 
 445
 00:30:06,389 --> 00:30:07,955
-Bayan Oğlu.
+Bayan Son.
 
 446
 00:30:08,758 --> 00:30:12,185
